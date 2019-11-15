@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/HYBRID_JANELIA/hybrid_drift_tetrode/rec_4c_600s_22.json/firings_true.mda",
-    "self_reference": "sha1://d621feef111e960c7c2878f2a24016b133eab366/HYBRID_JANELIA/hybrid_drift_tetrode/rec_4c_600s_22.firings_true.json"
+    "firings": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_tetrode/rec_4c_600s_22/firings_true.mda",
+    "self_reference": "sha1://5937cee9cdade228217c32a1dda03f8a37869d5d/HYBRID_JANELIA/hybrid_drift_tetrode/rec_4c_600s_22.firings_true.json"
 }

@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_kampff/2015_09_03_Pair_9_0B_ch4.json/firings_true.mda",
-    "self_reference": "sha1://8be6b9fec26ad39476bf34dabf033ca5163cd19c/PAIRED_MONOTRODE/paired_monotrode_kampff/2015_09_03_Pair_9_0B_ch4.firings_true.json"
+    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/kampff/2015_09_03_Pair_9_0B_ch4/firings_true.mda",
+    "self_reference": "sha1://328854b46e7b52d71d0b3fe341bc5104aeb94d98/PAIRED_MONOTRODE/paired_monotrode_kampff/2015_09_03_Pair_9_0B_ch4.firings_true.json"
 }

@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/HYBRID_JANELIA/hybrid_drift_siprobe/rec_64c_600s_11.json/firings_true.mda",
-    "self_reference": "sha1://5b3dd1c2e3795b7fcd96b9a2c3f949fc6420f91c/HYBRID_JANELIA/hybrid_drift_siprobe/rec_64c_600s_11.firings_true.json"
+    "firings": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_600s_11/firings_true.mda",
+    "self_reference": "sha1://9f50550109e0489bef85023dd7670347f8b09bfc/HYBRID_JANELIA/hybrid_drift_siprobe/rec_64c_600s_11.firings_true.json"
 }

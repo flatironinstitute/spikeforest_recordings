@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K20_C4/008_synth.json/firings_true.mda",
-    "self_reference": "sha1://96475dbf927e830c564ea32bbdb2af65171a337b/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K20_C4/008_synth.firings_true.json"
+    "firings": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K20_C4/008_synth/firings_true.mda",
+    "self_reference": "sha1://842c5701fb8ea403e54700547e838f5fe3d11513/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K20_C4/008_synth.firings_true.json"
 }

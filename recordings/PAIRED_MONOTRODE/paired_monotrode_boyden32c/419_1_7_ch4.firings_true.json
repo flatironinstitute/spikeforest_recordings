@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_boyden32c/419_1_7_ch4.json/firings_true.mda",
-    "self_reference": "sha1://b576aa035251aab8dcf61e6de7f83ae124c1a456/PAIRED_MONOTRODE/paired_monotrode_boyden32c/419_1_7_ch4.firings_true.json"
+    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_7_ch4/firings_true.mda",
+    "self_reference": "sha1://159fcd015b0ad03c2e8276a1094e13bec4872e9d/PAIRED_MONOTRODE/paired_monotrode_boyden32c/419_1_7_ch4.firings_true.json"
 }

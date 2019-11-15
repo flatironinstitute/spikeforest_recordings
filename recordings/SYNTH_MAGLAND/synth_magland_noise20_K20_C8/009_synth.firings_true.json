@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MAGLAND/synth_magland_noise20_K20_C8/009_synth.json/firings_true.mda",
-    "self_reference": "sha1://d73a7602a2af785383e24eeaf1ff459652466d9d/SYNTH_MAGLAND/synth_magland_noise20_K20_C8/009_synth.firings_true.json"
+    "firings": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise20_K20_C8/009_synth/firings_true.mda",
+    "self_reference": "sha1://71bfbc40b36931c293eee87a2a34a0cb0a28573b/SYNTH_MAGLAND/synth_magland_noise20_K20_C8/009_synth.firings_true.json"
 }

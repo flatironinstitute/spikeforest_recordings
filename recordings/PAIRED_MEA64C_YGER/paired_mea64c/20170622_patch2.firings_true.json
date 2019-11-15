@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MEA64C_YGER/paired_mea64c/20170622_patch2.json/firings_true.mda",
-    "self_reference": "sha1://c0f35d55f0defb1a40c10e8b2cd04e30e246c0ee/PAIRED_MEA64C_YGER/paired_mea64c/20170622_patch2.firings_true.json"
+    "firings": "sha1dir://0ba09f6658e767d4e70055773805a8d939a9a4c6.paired_mea64c/20170622_patch2/firings_true.mda",
+    "self_reference": "sha1://66e0364782206fab214a36be21d4a0cf4f157f36/PAIRED_MEA64C_YGER/paired_mea64c/20170622_patch2.firings_true.json"
 }

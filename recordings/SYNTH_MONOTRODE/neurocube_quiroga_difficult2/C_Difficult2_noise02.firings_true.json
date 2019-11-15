@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MONOTRODE/neurocube_quiroga_difficult2/C_Difficult2_noise02.json/firings_true.mda",
-    "self_reference": "sha1://45914e2eb90e3ec6a95a30e1040c23b8339fa41b/SYNTH_MONOTRODE/neurocube_quiroga_difficult2/C_Difficult2_noise02.firings_true.json"
+    "firings": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult2/C_Difficult2_noise02/firings_true.mda",
+    "self_reference": "sha1://2c6380eecc439f345bd79cc29dce443856c7d1d7/SYNTH_MONOTRODE/neurocube_quiroga_difficult2/C_Difficult2_noise02.firings_true.json"
 }

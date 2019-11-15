@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_kampff/c26_ch2.json/firings_true.mda",
-    "self_reference": "sha1://e962c814bc60d4390426bcfd27e33c95ef0d8bce/PAIRED_MONOTRODE/paired_monotrode_kampff/c26_ch2.firings_true.json"
+    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/kampff/c26_ch2/firings_true.mda",
+    "self_reference": "sha1://267e84826b3f9b35582130b63aad9cd297baf76c/PAIRED_MONOTRODE/paired_monotrode_kampff/c26_ch2.firings_true.json"
 }

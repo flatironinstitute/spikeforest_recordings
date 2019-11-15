@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_KAMPFF/paired_kampff/c42.json/firings_true.mda",
-    "self_reference": "sha1://3bbc5df2cefbeca3b68d544180b71c548f2dfaa7/PAIRED_KAMPFF/paired_kampff/c42.firings_true.json"
+    "firings": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c42/firings_true.mda",
+    "self_reference": "sha1://c2e02a1168f597b83d18575193cea765cf3d3880/PAIRED_KAMPFF/paired_kampff/c42.firings_true.json"
 }

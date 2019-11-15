@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_mea64c/20170713_patch1_ch4.json/firings_true.mda",
-    "self_reference": "sha1://d7a1e9733ce1921d6bc3341ea139aa4fdb50cae6/PAIRED_MONOTRODE/paired_monotrode_mea64c/20170713_patch1_ch4.firings_true.json"
+    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch4/firings_true.mda",
+    "self_reference": "sha1://5ada012b8e8928e56ff1875b3a23f35247d65c48/PAIRED_MONOTRODE/paired_monotrode_mea64c/20170713_patch1_ch4.firings_true.json"
 }

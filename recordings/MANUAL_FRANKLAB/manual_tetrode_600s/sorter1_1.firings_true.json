@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/MANUAL_FRANKLAB/manual_tetrode_600s/sorter1_1.json/firings_true.mda",
-    "self_reference": "sha1://5b2fe46b50e453476faafdecac2daee1de43f057/MANUAL_FRANKLAB/manual_tetrode_600s/sorter1_1.firings_true.json"
+    "firings": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_600s/sorter1_1/firings_true.mda",
+    "self_reference": "sha1://b6b827af9fa42aba6f962ede336bdde3bbcdb99e/MANUAL_FRANKLAB/manual_tetrode_600s/sorter1_1.firings_true.json"
 }

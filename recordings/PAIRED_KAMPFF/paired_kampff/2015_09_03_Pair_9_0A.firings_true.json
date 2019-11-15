@@ -1,4 +1,4 @@
 {
-    "firings": "recordings/PAIRED_KAMPFF/paired_kampff/2015_09_03_Pair_9_0A.json/firings_true.mda",
-    "self_reference": "sha1://71c66a0bfbbf643c0f2ec26128d05fd7cb93f3ab/PAIRED_KAMPFF/paired_kampff/2015_09_03_Pair_9_0A.firings_true.json"
+    "firings": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0A/firings_true.mda",
+    "self_reference": "sha1://2cb5f3cfb67eb4aec6314fb7fa8f8ea906752b35/PAIRED_KAMPFF/paired_kampff/2015_09_03_Pair_9_0A.firings_true.json"
 }
