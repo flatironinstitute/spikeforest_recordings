@@ -1,7 +1,10 @@
+#!/usr/bin/env python
+
 from mountaintools import client as mt
 import kachery as ka
 
-mt.configDownloadFrom('spikeforest.public')
+# Note: download token is required here
+mt.configDownloadFrom('spikeforest.kbucket')
 ka.set_config(
     preset='default_readwrite'
 )
@@ -19,15 +22,16 @@ def get_sha1_part_of_sha1dir(path):
     else:
         return None
 
-studies_to_include = ['paired_kampff']
-fnames = ['geom.csv', 'params.json', 'raw.mda', 'firings_true.mda']
+studysets_to_include = ['PAIRED_CRCNS_HC1', 'PAIRED_MEA64C_YGER', 'PAIRED_KAMPFF', 'PAIRED_MONOTRODE', 'SYNTH_MONOTRODE', 'SYNTH_MAGLAND', 'SYNTH_MEAREC_NEURONEXUS', 'SYNTH_MEAREC_TETRODE', 'SYNTH_MONOTRODE', 'SYNTH_VISAPY', 'HYBRID_JANELIA', 'MANUAL_FRANKLAB']
+# fnames = ['geom.csv', 'params.json', 'raw.mda', 'firings_true.mda']
+fnames = ['geom.csv', 'params.json', 'firings_true.mda']
 # fnames = ['geom.csv', 'params.json']
 for studyset in X['StudySets']:
     print('STUDYSET: {}'.format(studyset['name']))
-    for study in studyset['studies']:
-        study_name = study['name']
-        print('STUDY: {}'.format(study_name))
-        if study_name in studies_to_include:
+    if studyset['name'] in studysets_to_include:
+        for study in studyset['studies']:
+            study_name = study['name']
+            print('STUDY: {}'.format(study_name))
             for recording in study['recordings']:
                 recname = recording['name']
                 recdir = recording['directory']
@@ -40,5 +44,8 @@ for studyset in X['StudySets']:
                 for fname in fnames:
                     print('Realizing file: {}'.format(recdir + '/' + fname))
                     ff = mt.realizeFile(path=recdir + '/' + fname)
-                    print('Storing file: {}'.format(ff))
-                    ka.store_file(ff)
+                    if ff:
+                        print('Storing file: {}'.format(ff))
+                        ka.store_file(ff)
+                    else:
+                        print('WARNING: could not realize file: {}'.format(recdir + '/' + fname))

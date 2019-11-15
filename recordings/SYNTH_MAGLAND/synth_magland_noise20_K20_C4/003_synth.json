@@ -1,0 +1,25 @@
+{
+    "raw": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise20_K20_C4/003_synth/raw.mda",
+    "params": {
+        "samplerate": 30000,
+        "spike_sign": -1
+    },
+    "geom": [
+        [
+            1.0,
+            0.0
+        ],
+        [
+            2.0,
+            0.0
+        ],
+        [
+            3.0,
+            0.0
+        ],
+        [
+            4.0,
+            0.0
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch3_ch3/raw.mda",
+    "params": {
+        "spike_sign": -1,
+        "samplerate": 20000,
+        "scale_factor": 0.195
+    },
+    "geom": [
+        390.0,
+        210.0
+    ]
+}

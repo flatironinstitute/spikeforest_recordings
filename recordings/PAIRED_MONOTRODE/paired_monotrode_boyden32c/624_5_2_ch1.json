@@ -1,0 +1,12 @@
+{
+    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_2_ch1/raw.mda",
+    "params": {
+        "samplerate": 30000,
+        "spike_sign": -1,
+        "scale_factor": 0.195
+    },
+    "geom": [
+        34.5,
+        187.0
+    ]
+}

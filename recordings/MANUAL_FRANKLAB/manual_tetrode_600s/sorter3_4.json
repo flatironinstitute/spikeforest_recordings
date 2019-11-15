@@ -1,0 +1,27 @@
+{
+    "raw": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_600s/sorter3_4/raw.mda",
+    "params": {
+        "samplerate": 30000,
+        "adjacency_radius": 100,
+        "detect_sign": -1,
+        "mask_out_artifacts": "true"
+    },
+    "geom": [
+        [
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0
+        ],
+        [
+            1.0,
+            0.0
+        ],
+        [
+            1.0,
+            1.0
+        ]
+    ]
+}

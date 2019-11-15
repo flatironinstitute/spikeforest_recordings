@@ -1,0 +1,12 @@
+{
+    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/crcns/d17212_d17212.001_ch2/raw.mda",
+    "params": {
+        "spike_sign": -1,
+        "samplerate": 20000,
+        "scale_factor": 0.305176
+    },
+    "geom": [
+        0.0,
+        25.0
+    ]
+}

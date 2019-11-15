@@ -1,0 +1,12 @@
+{
+    "raw": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_11K20/simulation_92/raw.mda",
+    "params": {
+        "samplerate": 24000,
+        "scale_factor": 0.01,
+        "spike_sign": -1
+    },
+    "geom": [
+        0.0,
+        0.0
+    ]
+}

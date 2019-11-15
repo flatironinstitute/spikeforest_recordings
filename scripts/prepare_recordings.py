@@ -31,8 +31,7 @@ def main():
         os.mkdir(basedir)
 
     # download just one study for now
-    studysets_to_include = ['PAIRED_KAMPFF']
-    studies_to_include = ['paired_kampff']  
+    studysets_to_include = ['PAIRED_CRCNS_HC1', 'PAIRED_MEA64C_YGER', 'PAIRED_KAMPFF', 'PAIRED_MONOTRODE', 'SYNTH_MONOTRODE', 'SYNTH_MAGLAND', 'SYNTH_MEAREC_NEURONEXUS', 'SYNTH_MEAREC_TETRODE', 'SYNTH_MONOTRODE', 'SYNTH_VISAPY', 'HYBRID_JANELIA', 'MANUAL_FRANKLAB']
 
     # These are the files to download within each recording
     fnames = ['geom.csv', 'params.json', 'raw.mda', 'firings_true.mda']
@@ -47,7 +46,7 @@ def main():
             for study in studyset['studies']:
                 study_name = study['name']
                 print('STUDY: {}/{}'.format(studyset_name, study_name))
-                if study_name in studies_to_include:
+                if True: # because I can't easily unindent in this editor :)
                     studydir_local = os.path.join(studysetdir_local, study_name)
                     if not os.path.exists(studydir_local):
                         os.mkdir(studydir_local)

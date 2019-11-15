@@ -1,0 +1,12 @@
+{
+    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/kampff/c14_ch4/raw.mda",
+    "params": {
+        "spike_sign": -1,
+        "samplerate": 30000,
+        "scale_factor": 2.34
+    },
+    "geom": [
+        27.0,
+        1640.0
+    ]
+}
