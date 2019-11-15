@@ -1,6 +1,6 @@
 # spikeforest_recordings
 
-Ephys recordings and ground truth information for the SpikeForest project for benchmarking spike sorting algorithms.
+Ephys recordings and ground truth data for the SpikeForest project for benchmarking spike sorting algorithms.
 
 See the live website: https://spikeforest.flatironinstitute.org
 
