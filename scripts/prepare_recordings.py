@@ -12,12 +12,16 @@ def main():
     parser = argparse.ArgumentParser(
         description="Prepare SpikeForest recordings (i.e., populate this repository)")
     parser.add_argument('output_dir', help='The output directory (e.g., recordings)')
+    parser.add_argument('--upload', action='store_true', help='Whether to upload the recording objects to kachery (password required)')
     # parser.add_argument('--verbose', action='store_true', help='Turn on verbose output')
 
     args = parser.parse_args()
     output_dir = args.output_dir
 
-    ka.set_config(preset='default_readonly')
+    if args.upload:
+        ka.set_config(preset='default_readwrite')
+    else:
+        ka.set_config(preset='default_readonly')
 
     # Load a spikeforest analysis object
     X = ka.load_object('sha1://b678d798d67b6faa3c6240aca52f3857c9e4b877/analysis.json')
