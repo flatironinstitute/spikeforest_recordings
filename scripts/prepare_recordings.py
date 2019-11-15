@@ -70,7 +70,7 @@ def main():
                             json.dump(obj, f, indent=4)
                         firings_true_file = os.path.join(studydir_local, recname + '.firings_true.json')
                         obj2 = dict(
-                            firings=recfile + '/firings_true.mda'
+                            firings=recdir + '/firings_true.mda'
                         )
                         obj2['self_reference'] = ka.store_object(obj2, basename='{}/{}/{}.firings_true.json'.format(studyset_name, study_name, recname))
                         with open(firings_true_file, 'w') as f:
