@@ -8,5 +8,6 @@
     "geom": [
         34.5,
         132.0
-    ]
+    ],
+    "self_reference": "sha1://f5dfcd8bbd11508305451ff15723996ab1170686/PAIRED_MONOTRODE/paired_monotrode_boyden32c/531_2_2_ch2.json"
 }

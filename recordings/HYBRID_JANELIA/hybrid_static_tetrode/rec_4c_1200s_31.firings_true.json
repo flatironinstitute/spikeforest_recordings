@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/HYBRID_JANELIA/hybrid_static_tetrode/rec_4c_1200s_31.json/firings_true.mda"
+    "firings": "recordings/HYBRID_JANELIA/hybrid_static_tetrode/rec_4c_1200s_31.json/firings_true.mda",
+    "self_reference": "sha1://7ffa53592fa49934f9ff945622dab2d1c6562ec6/HYBRID_JANELIA/hybrid_static_tetrode/rec_4c_1200s_31.firings_true.json"
 }

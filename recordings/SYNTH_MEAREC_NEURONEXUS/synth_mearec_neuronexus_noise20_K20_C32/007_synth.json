@@ -133,5 +133,6 @@
             0.0,
             31.0
         ]
-    ]
+    ],
+    "self_reference": "sha1://40bb2015477f06603ed9986bc1b8b936deb05cb3/SYNTH_MEAREC_NEURONEXUS/synth_mearec_neuronexus_noise20_K20_C32/007_synth.json"
 }

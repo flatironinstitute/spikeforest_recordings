@@ -21,5 +21,6 @@
             0.0,
             3.0
         ]
-    ]
+    ],
+    "self_reference": "sha1://a34aed8db4ea18e49bf342572d2d236c24d3ecf1/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K10_C4/006_synth.json"
 }

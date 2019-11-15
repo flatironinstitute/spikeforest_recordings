@@ -8,5 +8,6 @@
     "geom": [
         0.0,
         0.0
-    ]
+    ],
+    "self_reference": "sha1://15f9efcd1b9ec8807f7e1863427f9084d1971664/SYNTH_MONOTRODE/neurocube_quiroga_difficult1/C_Difficult1_noise02.json"
 }

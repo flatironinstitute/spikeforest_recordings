@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K10_C4/008_synth.json/firings_true.mda"
+    "firings": "recordings/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K10_C4/008_synth.json/firings_true.mda",
+    "self_reference": "sha1://39c80c8bc220e2b9c27facd18af6de7b19a2d763/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K10_C4/008_synth.firings_true.json"
 }

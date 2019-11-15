@@ -8,5 +8,6 @@
     "geom": [
         0.0,
         0.0
-    ]
+    ],
+    "self_reference": "sha1://8ffa6da517ad369e5dd5f7d597c18ca52857389e/SYNTH_MONOTRODE/neurocube_sim2_2K10/simulation_33.json"
 }

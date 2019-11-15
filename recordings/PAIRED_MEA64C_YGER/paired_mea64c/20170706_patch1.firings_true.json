@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MEA64C_YGER/paired_mea64c/20170706_patch1.json/firings_true.mda"
+    "firings": "recordings/PAIRED_MEA64C_YGER/paired_mea64c/20170706_patch1.json/firings_true.mda",
+    "self_reference": "sha1://cfe01918334341d57051c8f9e56119881d55c5cf/PAIRED_MEA64C_YGER/paired_mea64c/20170706_patch1.firings_true.json"
 }

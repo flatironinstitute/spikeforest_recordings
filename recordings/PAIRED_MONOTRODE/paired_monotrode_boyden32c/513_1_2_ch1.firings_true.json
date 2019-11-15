@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_boyden32c/513_1_2_ch1.json/firings_true.mda"
+    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_boyden32c/513_1_2_ch1.json/firings_true.mda",
+    "self_reference": "sha1://31c77390ae4e292f914efedc25caa74adb2a84a6/PAIRED_MONOTRODE/paired_monotrode_boyden32c/513_1_2_ch1.firings_true.json"
 }

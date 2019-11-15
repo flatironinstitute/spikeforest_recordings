@@ -8,5 +8,6 @@
     "geom": [
         45.0,
         90.0
-    ]
+    ],
+    "self_reference": "sha1://d8dcc405aefe349ddfb90492ef2e60813ddf33f6/PAIRED_MONOTRODE/paired_monotrode_kampff/2015_09_03_Pair_9_0A_ch2.json"
 }

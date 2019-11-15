@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/SYNTH_VISAPY/mea_c30/set2.json/firings_true.mda"
+    "firings": "recordings/SYNTH_VISAPY/mea_c30/set2.json/firings_true.mda",
+    "self_reference": "sha1://cc3fbe9c0070901efc5185d0fcd21b5ecd7d623f/SYNTH_VISAPY/mea_c30/set2.firings_true.json"
 }

@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_crcns/d8321_d083dm.006_ch2.json/firings_true.mda"
+    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_crcns/d8321_d083dm.006_ch2.json/firings_true.mda",
+    "self_reference": "sha1://ad7131a0fa494deee0ad44ddf0e44579b1c0bc13/PAIRED_MONOTRODE/paired_monotrode_crcns/d8321_d083dm.006_ch2.firings_true.json"
 }

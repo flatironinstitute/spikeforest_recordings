@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MAGLAND/synth_magland_noise20_K10_C4/001_synth.json/firings_true.mda"
+    "firings": "recordings/SYNTH_MAGLAND/synth_magland_noise20_K10_C4/001_synth.json/firings_true.mda",
+    "self_reference": "sha1://c12af6383d58bce1a03bcf73a418113ba97d538b/SYNTH_MAGLAND/synth_magland_noise20_K10_C4/001_synth.firings_true.json"
 }

@@ -262,5 +262,6 @@
             27.0,
             620.0
         ]
-    ]
+    ],
+    "self_reference": "sha1://f4f440f9bae6e3332799b4b1208da19b7d0690bb/HYBRID_JANELIA/hybrid_drift_siprobe/rec_64c_600s_12.json"
 }

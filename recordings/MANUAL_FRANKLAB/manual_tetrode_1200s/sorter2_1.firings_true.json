@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/MANUAL_FRANKLAB/manual_tetrode_1200s/sorter2_1.json/firings_true.mda"
+    "firings": "recordings/MANUAL_FRANKLAB/manual_tetrode_1200s/sorter2_1.json/firings_true.mda",
+    "self_reference": "sha1://ff34668946aee17cb467546b6dd1c72afdc0f7ed/MANUAL_FRANKLAB/manual_tetrode_1200s/sorter2_1.firings_true.json"
 }

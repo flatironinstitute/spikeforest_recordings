@@ -8,5 +8,6 @@
     "geom": [
         360.0,
         300.0
-    ]
+    ],
+    "self_reference": "sha1://510c1aa185ca1f5a81e12b96251d7b995a33cdd7/PAIRED_MONOTRODE/paired_monotrode_mea64c/20170803_patch1_ch3.json"
 }

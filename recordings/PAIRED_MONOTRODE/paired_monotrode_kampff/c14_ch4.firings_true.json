@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_kampff/c14_ch4.json/firings_true.mda"
+    "firings": "recordings/PAIRED_MONOTRODE/paired_monotrode_kampff/c14_ch4.json/firings_true.mda",
+    "self_reference": "sha1://3740885d5936cdf6e6eeac63dfb24bf9db77639c/PAIRED_MONOTRODE/paired_monotrode_kampff/c14_ch4.firings_true.json"
 }

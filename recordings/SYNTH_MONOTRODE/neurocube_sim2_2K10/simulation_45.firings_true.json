@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/SYNTH_MONOTRODE/neurocube_sim2_2K10/simulation_45.json/firings_true.mda"
+    "firings": "recordings/SYNTH_MONOTRODE/neurocube_sim2_2K10/simulation_45.json/firings_true.mda",
+    "self_reference": "sha1://f168df9a92d0d9f64e7faafc8c8dc3e1f3637c4b/SYNTH_MONOTRODE/neurocube_sim2_2K10/simulation_45.firings_true.json"
 }

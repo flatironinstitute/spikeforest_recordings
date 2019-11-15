@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/HYBRID_JANELIA/hybrid_static_siprobe/rec_16c_1200s_31.json/firings_true.mda"
+    "firings": "recordings/HYBRID_JANELIA/hybrid_static_siprobe/rec_16c_1200s_31.json/firings_true.mda",
+    "self_reference": "sha1://b99b46e0e76d03ea459e59851a98532faef56c4e/HYBRID_JANELIA/hybrid_static_siprobe/rec_16c_1200s_31.firings_true.json"
 }

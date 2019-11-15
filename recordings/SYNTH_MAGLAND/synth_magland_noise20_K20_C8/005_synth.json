@@ -37,5 +37,6 @@
             8.0,
             0.0
         ]
-    ]
+    ],
+    "self_reference": "sha1://f5fca45ccb5f66dbdf734f7d4afcc42fc735fbad/SYNTH_MAGLAND/synth_magland_noise20_K20_C8/005_synth.json"
 }

@@ -1,3 +1,4 @@
 {
-    "firings": "recordings/PAIRED_CRCNS_HC1/paired_crcns/d13522_d1352213.json/firings_true.mda"
+    "firings": "recordings/PAIRED_CRCNS_HC1/paired_crcns/d13522_d1352213.json/firings_true.mda",
+    "self_reference": "sha1://10f0cf0030bcc04f9d1a833d019980a278a5b80b/PAIRED_CRCNS_HC1/paired_crcns/d13522_d1352213.firings_true.json"
 }
