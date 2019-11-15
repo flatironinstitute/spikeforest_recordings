@@ -4,6 +4,8 @@ Ephys recordings and ground truth information for the SpikeForest project for be
 
 See the live website: https://spikeforest.flatironinstitute.org
 
+**Note**: some study sets (e.g., bionet) are not yet included in this repo due to their size. We are working on it.
+
 ## Structure of the recordings
 
 This repository contains (pointers to) the ephys recordings used by SpikeForest.
