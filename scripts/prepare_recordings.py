@@ -60,9 +60,10 @@ def main():
                             params=ka.load_object(recdir + '/params.json'),
                             geom=np.genfromtxt(ka.load_file(recdir + '/geom.csv'), delimiter=',').T
                         )
+                        obj = _json_serialize(obj)
                         obj['self_reference'] = ka.store_object(obj, basename='{}/{}/{}.json'.format(studyset_name, study_name, recname))
                         with open(recfile, 'w') as f:
-                            json.dump(_json_serialize(obj), f, indent=4)
+                            json.dump(obj, f, indent=4)
                         firings_true_file = os.path.join(studydir_local, recname + '.firings_true.json')
                         obj2 = dict(
                             firings=recfile + '/firings_true.mda'
