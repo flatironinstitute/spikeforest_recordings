@@ -80,6 +80,12 @@ def main():
                         obj2['self_reference'] = ka.store_object(obj2, basename='{}/{}/{}.firings_true.json'.format(studyset_name, study_name, recname))
                         with open(firings_true_file, 'w') as f:
                             json.dump(obj2, f, indent=4)
+    studysets_obj = dict(
+        StudySets=X['StudySets']
+    )
+    studysets_obj['self_reference'] = ka.store_object(studysets_obj, basename='studysets.json')
+    with open(os.path.join(basedir, 'studysets.json')) as f:
+        json.dump(studysets_obj, f, indent=4)
 
 def _listify_ndarray(x):
     if x.ndim == 1:
