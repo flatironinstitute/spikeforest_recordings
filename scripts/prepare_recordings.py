@@ -40,7 +40,8 @@ def main():
         os.mkdir(basedir)
 
     # download just one study for now
-    studysets_to_include = ['PAIRED_BOYDEN', 'PAIRED_CRCNS_HC1', 'PAIRED_MEA64C_YGER', 'PAIRED_KAMPFF', 'PAIRED_MONOTRODE', 'SYNTH_MONOTRODE', 'SYNTH_MAGLAND', 'SYNTH_MEAREC_NEURONEXUS', 'SYNTH_MEAREC_TETRODE', 'SYNTH_MONOTRODE', 'SYNTH_VISAPY', 'HYBRID_JANELIA', 'MANUAL_FRANKLAB']
+    # studysets_to_include = ['PAIRED_BOYDEN', 'PAIRED_CRCNS_HC1', 'PAIRED_MEA64C_YGER', 'PAIRED_KAMPFF', 'PAIRED_MONOTRODE', 'SYNTH_MONOTRODE', 'SYNTH_MAGLAND', 'SYNTH_MEAREC_NEURONEXUS', 'SYNTH_MEAREC_TETRODE', 'SYNTH_MONOTRODE', 'SYNTH_VISAPY', 'HYBRID_JANELIA', 'MANUAL_FRANKLAB']
+    studysets_to_include = ['PAIRED_CRCNS_HC1', 'PAIRED_MEA64C_YGER', 'PAIRED_KAMPFF', 'PAIRED_MONOTRODE', 'SYNTH_MONOTRODE', 'SYNTH_MAGLAND', 'SYNTH_MEAREC_NEURONEXUS', 'SYNTH_MEAREC_TETRODE', 'SYNTH_MONOTRODE', 'SYNTH_VISAPY', 'HYBRID_JANELIA', 'MANUAL_FRANKLAB']
 
     # These are the files to download within each recording
     fnames = ['geom.csv', 'params.json', 'raw.mda', 'firings_true.mda']
@@ -83,9 +84,9 @@ def main():
     studysets_obj = dict(
         StudySets=X['StudySets']
     )
-    studysets_obj['self_reference'] = ka.store_object(studysets_obj, basename='studysets.json')
-    with open(os.path.join(basedir, 'studysets.json')) as f:
-        json.dump(studysets_obj, f, indent=4)
+    studysets_path = ka.store_object(studysets_obj, basename='studysets.json')
+    with open(os.path.join(basedir, 'studysets'), 'w') as f:
+        f.write(studysets_path)
 
 def _listify_ndarray(x):
     if x.ndim == 1:
