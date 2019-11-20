@@ -19,9 +19,14 @@ def main():
     output_dir = args.output_dir
 
     if args.upload:
-        ka.set_config(preset='default_readwrite')
+        ka.set_config(
+            fr='default_readwrite',
+            to='default_readwrite'
+        )
     else:
-        ka.set_config(preset='default_readonly')
+        ka.set_config(
+            fr='default_readonly',
+        )
 
     # Load a spikeforest analysis object
     X = ka.load_object('sha1://b678d798d67b6faa3c6240aca52f3857c9e4b877/analysis.json')

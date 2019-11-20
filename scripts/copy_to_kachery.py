@@ -6,7 +6,8 @@ import kachery as ka
 # Note: download token is required here
 mt.configDownloadFrom('spikeforest.kbucket')
 ka.set_config(
-    preset='default_readwrite'
+    fr='default_readwrite',
+    to='default_readwrite'
 )
 
 X = mt.loadObject(path='sha1://b678d798d67b6faa3c6240aca52f3857c9e4b877/analysis.json')
