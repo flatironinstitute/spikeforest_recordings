@@ -1,0 +1,115 @@
+{
+    "name": "hybrid_static_tetrode",
+    "studySetName": "HYBRID_JANELIA",
+    "recordings": [
+        {
+            "name": "rec_4c_1200s_11",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_11",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_11/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_1200s_21",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_21",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_21/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_1200s_31",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_31",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_1200s_31/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_11",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_11",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_11/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_12",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_12",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_12/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0000333333334,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_21",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_21",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_21/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_22",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_22",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_22/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0000333333334,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_31",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_31",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_31/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        },
+        {
+            "name": "rec_4c_600s_32",
+            "studyName": "hybrid_static_tetrode",
+            "studySetName": "HYBRID_JANELIA",
+            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_32",
+            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_tetrode/rec_4c_600s_32/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0000333333334,
+            "numTrueUnits": 74,
+            "spikeSign": -1
+        }
+    ],
+    "self_reference": "sha1://9513e37b9118a7090617de9163ce2d93018860a5/hybrid_static_tetrode.json"
+}

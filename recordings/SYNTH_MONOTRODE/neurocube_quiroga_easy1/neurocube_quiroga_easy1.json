@@ -1,0 +1,55 @@
+{
+    "name": "neurocube_quiroga_easy1",
+    "studySetName": "SYNTH_MONOTRODE",
+    "recordings": [
+        {
+            "name": "C_Easy1_noise005",
+            "studyName": "neurocube_quiroga_easy1",
+            "studySetName": "SYNTH_MONOTRODE",
+            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise005",
+            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise005/firings_true.mda",
+            "sampleRateHz": 24000.0,
+            "numChannels": 1,
+            "durationSec": 60.0,
+            "numTrueUnits": 3,
+            "spikeSign": -1
+        },
+        {
+            "name": "C_Easy1_noise01",
+            "studyName": "neurocube_quiroga_easy1",
+            "studySetName": "SYNTH_MONOTRODE",
+            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise01",
+            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise01/firings_true.mda",
+            "sampleRateHz": 24000.0,
+            "numChannels": 1,
+            "durationSec": 60.0,
+            "numTrueUnits": 3,
+            "spikeSign": -1
+        },
+        {
+            "name": "C_Easy1_noise015",
+            "studyName": "neurocube_quiroga_easy1",
+            "studySetName": "SYNTH_MONOTRODE",
+            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise015",
+            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise015/firings_true.mda",
+            "sampleRateHz": 24000.0,
+            "numChannels": 1,
+            "durationSec": 60.0,
+            "numTrueUnits": 3,
+            "spikeSign": -1
+        },
+        {
+            "name": "C_Easy1_noise02",
+            "studyName": "neurocube_quiroga_easy1",
+            "studySetName": "SYNTH_MONOTRODE",
+            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise02",
+            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise02/firings_true.mda",
+            "sampleRateHz": 24000.0,
+            "numChannels": 1,
+            "durationSec": 60.0,
+            "numTrueUnits": 3,
+            "spikeSign": -1
+        }
+    ],
+    "self_reference": "sha1://35ad0dc22aed11efb72259781bb694480b1e7b8c/neurocube_quiroga_easy1.json"
+}

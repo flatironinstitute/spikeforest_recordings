@@ -1,0 +1,127 @@
+{
+    "name": "synth_mearec_tetrode_noise20_K20_C4",
+    "studySetName": "SYNTH_MEAREC_TETRODE",
+    "recordings": [
+        {
+            "name": "001_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/001_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/001_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "002_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/002_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/002_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "003_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/003_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/003_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "004_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/004_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/004_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "005_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/005_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/005_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "006_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/006_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/006_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "007_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/007_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/007_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "008_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/008_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/008_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "009_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/009_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/009_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        },
+        {
+            "name": "010_synth",
+            "studyName": "synth_mearec_tetrode_noise20_K20_C4",
+            "studySetName": "SYNTH_MEAREC_TETRODE",
+            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/010_synth",
+            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise20_K20_C4/010_synth/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 600.0,
+            "numTrueUnits": 20,
+            "spikeSign": -1
+        }
+    ],
+    "self_reference": "sha1://5f6a77c9e39fc432aeded127983b3a8182fa75cc/synth_mearec_tetrode_noise20_K20_C4.json"
+}

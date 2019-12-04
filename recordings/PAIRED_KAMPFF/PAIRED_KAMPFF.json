@@ -1,0 +1,208 @@
+{
+    "name": "PAIRED_KAMPFF",
+    "info": {
+        "label": "PAIRED_KAMPFF",
+        "electrode_type": "silicon-probe",
+        "doi": [
+            "10.1101/370080",
+            "10.1152/jn.00103.2016"
+        ],
+        "ground_truth": "intracellular",
+        "organism": "mouse",
+        "source": "Adam Kampff lab",
+        "labels": [
+            "in-vivo"
+        ]
+    },
+    "description": "# PAIRED_KAMPFF\n\n## Paired juxtacellular and silicon probe recording\n- Recordings were contributed from Adam [Kampff lab](http://www.kampff-lab.org/validating-electrodes)\n- Prepared by J. James Jun, Dec 18, 2018.\n- Extracted subarray of 32 channels centered around the activity peak.\n- 12 cell pairs were taken from the Neuropixels probe recordings based on the highest SNR.\n- Intracellular timing was provided by the Kampff lab.\n\n## Silicon probes used\n- `2014_11_25_Pair_3_0`: Neuronexus poly32nn (25 um spacing, staggered three columns)\n  - https://drive.google.com/drive/folders/0B6paC2__-QYFNEt6VnZ0QVlkYlk\n- `2015_09_03_Pair_9_0A`: IMEC Neuroseeker probe (four columns, 20 um spacing). Subsampled half the electrodes (staggered four columns, neuropixels probe layout)\n  - https://drive.google.com/drive/folders/0B6paC2__-QYFTGtfd2NBb1d3ZlE\n- `2015_09_03_Pair_9_0B`: IMEC Neuroseeker probe, subsampled the other half of the electrodes\n  - https://drive.google.com/drive/folders/0B6paC2__-QYFTGtfd2NBb1d3ZlE\n- `c##`: Neuropixels probe (four columns staggered, 20 um vertical spacing, 28 um horizontal spacing). 12 cell pairs available.\n  - https://drive.google.com/drive/folders/13GCOuWN4QMW6vQmlNIolUrxPy-4Wv1BC\n\n## References\n- https://www.physiology.org/doi/full/10.1152/jn.00103.2016\n- https://www.biorxiv.org/content/10.1101/370080v1",
+    "studies": [
+        {
+            "name": "paired_kampff",
+            "studySetName": "PAIRED_KAMPFF",
+            "recordings": [
+                {
+                    "name": "2014_11_25_Pair_3_0",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2014_11_25_Pair_3_0",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2014_11_25_Pair_3_0/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 557.218,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "2015_09_03_Pair_9_0A",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0A",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0A/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 593.248,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "2015_09_03_Pair_9_0B",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0B",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0B/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 593.248,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c14",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c14",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c14/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 1080.0453666666667,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c16",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c16",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c16/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 675.0283,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c19",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c19",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c19/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0342666666667,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c21",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c21",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c21/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 1080.0454,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c24",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c24",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c24/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0341,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c26",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c26",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c26/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 1215.0512666666666,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c27",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c27",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c27/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0342,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c28",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c28",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c28/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0343333333333,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c42",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c42",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c42/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0343,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c44",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c44",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c44/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 540.0229666666667,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c45",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c45",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c45/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0344333333334,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "c46",
+                    "studyName": "paired_kampff",
+                    "studySetName": "PAIRED_KAMPFF",
+                    "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c46",
+                    "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c46/firings_true.mda",
+                    "sampleRateHz": 30000.0,
+                    "numChannels": 32,
+                    "durationSec": 810.0344,
+                    "numTrueUnits": 1,
+                    "spikeSign": -1
+                }
+            ],
+            "self_reference": "sha1://68c1e2940181c9e8527a498a818265da974dcdec/paired_kampff.json"
+        }
+    ],
+    "self_reference": "sha1://7ad98c70654ecfacb513970124e52f5ed3f6f87d/PAIRED_KAMPFF.json"
+}

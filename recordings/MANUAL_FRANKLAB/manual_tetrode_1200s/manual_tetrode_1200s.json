@@ -1,0 +1,79 @@
+{
+    "name": "manual_tetrode_1200s",
+    "studySetName": "MANUAL_FRANKLAB",
+    "recordings": [
+        {
+            "name": "sorter1_1",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter1_1",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter1_1/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 11,
+            "spikeSign": -1
+        },
+        {
+            "name": "sorter1_2",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter1_2",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter1_2/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 11,
+            "spikeSign": -1
+        },
+        {
+            "name": "sorter2_1",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter2_1",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter2_1/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 8,
+            "spikeSign": -1
+        },
+        {
+            "name": "sorter2_2",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter2_2",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter2_2/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 8,
+            "spikeSign": -1
+        },
+        {
+            "name": "sorter3_1",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter3_1",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter3_1/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 7,
+            "spikeSign": -1
+        },
+        {
+            "name": "sorter3_2",
+            "studyName": "manual_tetrode_1200s",
+            "studySetName": "MANUAL_FRANKLAB",
+            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter3_2",
+            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_1200s/sorter3_2/firings_true.mda",
+            "sampleRateHz": 30000.0,
+            "numChannels": 4,
+            "durationSec": 1200.0,
+            "numTrueUnits": 7,
+            "spikeSign": -1
+        }
+    ],
+    "self_reference": "sha1://e5fe19ed2f7aa3e54bb2ae60ed07af341a24b41a/manual_tetrode_1200s.json"
+}
