@@ -81,10 +81,10 @@ def main():
                     with open(firings_true_file, 'w') as f:
                         json.dump(obj2, f, indent=4)
                 study['self_reference'] = ka.store_object(study, basename='{}.json'.format(study_name))
-                with open(os.path.join(studydir_local, study_name + '.json')) as f:
+                with open(os.path.join(studydir_local, study_name + '.json', 'w')) as f:
                     json.dump(study, f, indent=4)
             studyset['self_reference'] = ka.store_object(studyset, basename='{}.json'.format(studyset_name))
-            with open(os.path.join(studysetdir_local, studyset_name + '.json')) as f:
+            with open(os.path.join(studysetdir_local, studyset_name + '.json', 'w')) as f:
                 json.dump(studyset, f, indent=4)
     studysets_obj = dict(
         StudySets=X['StudySets']
