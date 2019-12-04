@@ -55,31 +55,36 @@ def main():
             for study in studyset['studies']:
                 study_name = study['name']
                 print('STUDY: {}/{}'.format(studyset_name, study_name))
-                if True: # because I can't easily unindent in this editor :)
-                    studydir_local = os.path.join(studysetdir_local, study_name)
-                    if not os.path.exists(studydir_local):
-                        os.mkdir(studydir_local)
-                    for recording in study['recordings']:
-                        recname = recording['name']
-                        print('RECORDING: {}/{}/{}'.format(studyset_name, study_name, recname))
-                        recdir = recording['directory']
-                        recfile = os.path.join(studydir_local, recname + '.json')
-                        obj = dict(
-                            raw=recdir + '/raw.mda',
-                            params=ka.load_object(recdir + '/params.json'),
-                            geom=np.genfromtxt(ka.load_file(recdir + '/geom.csv'), delimiter=',').T
-                        )
-                        obj = _json_serialize(obj)
-                        obj['self_reference'] = ka.store_object(obj, basename='{}/{}/{}.json'.format(studyset_name, study_name, recname))
-                        with open(recfile, 'w') as f:
-                            json.dump(obj, f, indent=4)
-                        firings_true_file = os.path.join(studydir_local, recname + '.firings_true.json')
-                        obj2 = dict(
-                            firings=recdir + '/firings_true.mda'
-                        )
-                        obj2['self_reference'] = ka.store_object(obj2, basename='{}/{}/{}.firings_true.json'.format(studyset_name, study_name, recname))
-                        with open(firings_true_file, 'w') as f:
-                            json.dump(obj2, f, indent=4)
+                studydir_local = os.path.join(studysetdir_local, study_name)
+                if not os.path.exists(studydir_local):
+                    os.mkdir(studydir_local)
+                for recording in study['recordings']:
+                    recname = recording['name']
+                    print('RECORDING: {}/{}/{}'.format(studyset_name, study_name, recname))
+                    recdir = recording['directory']
+                    recfile = os.path.join(studydir_local, recname + '.json')
+                    obj = dict(
+                        raw=recdir + '/raw.mda',
+                        params=ka.load_object(recdir + '/params.json'),
+                        geom=np.genfromtxt(ka.load_file(recdir + '/geom.csv'), delimiter=',').T
+                    )
+                    obj = _json_serialize(obj)
+                    obj['self_reference'] = ka.store_object(obj, basename='{}/{}/{}.json'.format(studyset_name, study_name, recname))
+                    with open(recfile, 'w') as f:
+                        json.dump(obj, f, indent=4)
+                    firings_true_file = os.path.join(studydir_local, recname + '.firings_true.json')
+                    obj2 = dict(
+                        firings=recdir + '/firings_true.mda'
+                    )
+                    obj2['self_reference'] = ka.store_object(obj2, basename='{}/{}/{}.firings_true.json'.format(studyset_name, study_name, recname))
+                    with open(firings_true_file, 'w') as f:
+                        json.dump(obj2, f, indent=4)
+                study['self_reference'] = ka.store_object(study, basename='{}.json'.format(study_name))
+                with open(os.path.join(studydir_local, study_name + '.json')) as f:
+                    json.dump(study, f, indent=4)
+            studyset['self_reference'] = ka.store_object(studyset, basename='{}.json'.format(studyset_name))
+            with open(os.path.join(studysetdir_local, studyset_name + '.json')) as f:
+                json.dump(studyset, f, indent=4)
     studysets_obj = dict(
         StudySets=X['StudySets']
     )
