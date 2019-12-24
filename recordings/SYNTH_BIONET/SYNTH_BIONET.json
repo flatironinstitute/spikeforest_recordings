@@ -1,0 +1,474 @@
+{
+    "name": "SYNTH_BIONET",
+    "info": {
+        "label": "SYNTH_BIONET",
+        "electrode_type": "silicon-probe",
+        "doi": [
+            "10.1371/journal.pone.0201630",
+            "10.1101/101030"
+        ],
+        "ground_truth": "simulation",
+        "organism": "rat neuron models from blue brain project",
+        "source": "Catalin Mitelut, Allen Institute for Brain Science",
+        "labels": [
+            "in-silico"
+        ]
+    },
+    "description": "# SYNTH_BIONET\n\n## Synthetic groundtruth generated using Bionet simulator\n- Bionet is a neuron-based network simulator\n- Original data (4 minutes) was generated using Bionet simulator (noiseless). \n- Data was concatenated 4-fold with random noise (10 microvolts RMS) to yield 16 minutes of data.\n\n## Detailed simulation method (originally described in Jun et al, 2017, bioRxiv)\nOur biophysical simulation randomly distributed ~710 neurons within a sensing volume of the probe (200\u00d7200\u00d7600 \u03bcm), and each neuron is constructed from real morphology of various cell types. Our simulation closely matches the real recordings in terms of the spatial spread of the spike waveforms, and the identity of all units and their spike timing information are precisely determined from their simulated intracellular voltage traces. Biophysically realistic network simulations were setup in order to generate simulated ground truth extracellular depth recordings datasets. The main engine used for these biophysical simulations was NEURON version 7.4 used with custom-written python (version 2.7) wrapper-algorithms that were used to define, setup and instantiate network models and simulations as well as save output.\n\nThe network model consists of two cell types, excitatory pyramidal neurons (2,560) and inhibitory basket cells (640). Pyramidal single-neuron models used in our network were published by Hay and co-workers as part of their study on models capturing a wide range of dendritic and perisomatic active properties. These single-neuron models were shown to capture a number of intracellular characteristics such as backpropagating action potentials, dendritic Calcium electrogenesis, etc. In addition, a later study showed that these computational models accurately capture the extracellular signature of neocortical pyramidal neurons. We adopted inhibitory basket cell models from Hu et al. (2010) who developed these models to capture a number of features such as backpropagation and dendritic Na/K ratio. Notably, pyramidal and basket cell models had active dendrites, a feature critical for capturing extracellular spiking activity. Each neuron received external excitatory synaptic input emulating AMPA synapses. The number and timing of these external synaptic inputs was set such as to reach specific spike frequency output.\n\nWith regards to calculating the simulated extracellular recordings, the so-called line source approximation was used to estimate the extracellular voltage at various locations assuming a perfectly homogeneous, isotropic and purely resistive (0.3 S/m) extracellular space. Specifically, the Neuropixels probe electrode location was adopted from layout specifications. Network simulations were performed at the San Diego supercomputer facility via the NSG (neuroscience gateway) portal. \n\n## Studies contained \n- `bionet_static`\n  - No drift was added. Electrode spacing: 60 channels spaced 20 um vertically and 28 um horizontally. \n  - Four electrode layouts used: two columns (two layouts) and four staggered columns (two layout)\n\n- `bionet_drift`\n  - Uniform drift was added by translating 16 micrometers over the duration of the recording (16 minutes).\n  - Drift was generated at 0.5 um (32 steps) resolution by interpolating 5 um spaced electrodes with a 2D Gaussian kernel.\n\n- `bionet_shuffle`\n  - Random jumping drift was added by dividing the drifting dataset to 32 time segments and shuffling in time.\n\n## References\n- [Real-time spike sorting platform for high-density extracellular probes with ground-truth validation and drift correction](https://www.biorxiv.org/content/10.1101/101030v2)\n- [BioNet: A Python interface to NEURON for modeling large-scale networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201630)",
+    "studies": [
+        {
+            "name": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "recordings": [
+                {
+                    "name": "static_8x_A_2A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_A_2B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_A_4A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_A_4B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_B_2A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_B_2B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_B_4A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_B_4B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_C_2A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_C_2B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_C_4A",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "static_8x_C_4B",
+                    "studyName": "synth_bionet_static",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                }
+            ],
+            "self_reference": "sha1://5b5fd5589395ef45ea55bf50520bc5589b35cadf/synth_bionet_static.json"
+        },
+        {
+            "name": "synth_bionet_drift",
+            "studySetName": "SYNTH_BIONET",
+            "recordings": [
+                {
+                    "name": "drift_8x_A_2A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_A_2B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_A_4A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_A_4B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_A_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_B_2A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_B_2B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_B_4A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_B_4B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_B_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_C_2A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_C_2B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_C_4A",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "drift_8x_C_4B",
+                    "studyName": "synth_bionet_drift",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_drift/drift_8x_C_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                }
+            ],
+            "self_reference": "sha1://69ffd76003f0d662e31b46cd77ca9036a61d2638/synth_bionet_drift.json"
+        },
+        {
+            "name": "synth_bionet_shuffle",
+            "studySetName": "SYNTH_BIONET",
+            "recordings": [
+                {
+                    "name": "shuffle_8x_A_2A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_A_2B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_A_4A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_A_4B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_A_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_B_2A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_B_2B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_B_4A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_B_4B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_B_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_C_2A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_2A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_2A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_C_2B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_2B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_2B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_C_4A",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_4A",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_4A/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                },
+                {
+                    "name": "shuffle_8x_C_4B",
+                    "studyName": "synth_bionet_shuffle",
+                    "studySetName": "SYNTH_BIONET",
+                    "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_4B",
+                    "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_shuffle/shuffle_8x_C_4B/firings_true.mda",
+                    "sampleRateHz": 20000.0,
+                    "numChannels": 60,
+                    "durationSec": 960.0,
+                    "numTrueUnits": 708,
+                    "spikeSign": -1
+                }
+            ],
+            "self_reference": "sha1://9cd6708fce1fca44984093ae3ae42ebc732d7ca2/synth_bionet_shuffle.json"
+        }
+    ],
+    "self_reference": "sha1://221631a24e4fe5ee46791513aca03e05fc8d45d1/SYNTH_BIONET.json"
+}

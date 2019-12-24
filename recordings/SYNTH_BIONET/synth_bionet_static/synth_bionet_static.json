@@ -1,0 +1,151 @@
+{
+    "name": "synth_bionet_static",
+    "studySetName": "SYNTH_BIONET",
+    "recordings": [
+        {
+            "name": "static_8x_A_2A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_A_2B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_2B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_A_4A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_A_4B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_A_4B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_B_2A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_B_2B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_B_4A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_B_4B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_4B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_C_2A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_C_2B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_C_4A",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4A",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4A/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        },
+        {
+            "name": "static_8x_C_4B",
+            "studyName": "synth_bionet_static",
+            "studySetName": "SYNTH_BIONET",
+            "directory": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4B",
+            "firingsTrue": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_4B/firings_true.mda",
+            "sampleRateHz": 20000.0,
+            "numChannels": 60,
+            "durationSec": 960.0,
+            "numTrueUnits": 708,
+            "spikeSign": -1
+        }
+    ],
+    "self_reference": "sha1://5b5fd5589395ef45ea55bf50520bc5589b35cadf/synth_bionet_static.json"
+}
