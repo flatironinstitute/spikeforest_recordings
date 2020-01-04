@@ -27,6 +27,8 @@ def main():
         ka.set_config(
             fr='default_readonly',
         )
+    
+    geom_mearec_neuronexus = np.genfromtxt('mearec_neuronexus_geom.csv', delimiter=',').tolist()
 
     # Load a spikeforest analysis object
     X = ka.load_object('sha1://b678d798d67b6faa3c6240aca52f3857c9e4b877/analysis.json')
@@ -68,6 +70,8 @@ def main():
                         params=ka.load_object(recdir + '/params.json'),
                         geom=np.genfromtxt(ka.load_file(recdir + '/geom.csv'), delimiter=',').T
                     )
+                    if studyset_name == 'SYNTH_MEAREC_NEURONEXUS':
+                        obj['geom'] = geom_mearec_neuronexus
                     obj = _json_serialize(obj)
                     obj['self_reference'] = ka.store_object(obj, basename='{}/{}/{}.json'.format(studyset_name, study_name, recname))
                     with open(recfile, 'w') as f:
