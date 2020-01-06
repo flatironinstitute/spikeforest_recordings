@@ -28,7 +28,8 @@ def main():
             fr='default_readonly',
         )
     
-    geom_mearec_neuronexus = np.genfromtxt('mearec_neuronexus_geom.csv', delimiter=',').tolist()
+    # geom_mearec_neuronexus = np.genfromtxt('mearec_neuronexus_geom.csv', delimiter=',').tolist()
+    mearec_neuronexus_geom_fname = 'mearec_neuronexus_geom.csv'
 
     # Load a spikeforest analysis object
     X = ka.load_object('sha1://b678d798d67b6faa3c6240aca52f3857c9e4b877/analysis.json')
@@ -61,6 +62,8 @@ def main():
                 if not os.path.exists(studydir_local):
                     os.mkdir(studydir_local)
                 for recording in study['recordings']:
+                    if studyset_name == 'SYNTH_MEAREC_NEURONEXUS':
+                        patch_recording_geom(recording, mearec_neuronexus_geom_fname)
                     recname = recording['name']
                     print('RECORDING: {}/{}/{}'.format(studyset_name, study_name, recname))
                     recdir = recording['directory']
@@ -70,8 +73,6 @@ def main():
                         params=ka.load_object(recdir + '/params.json'),
                         geom=np.genfromtxt(ka.load_file(recdir + '/geom.csv'), delimiter=',').T
                     )
-                    if studyset_name == 'SYNTH_MEAREC_NEURONEXUS':
-                        obj['geom'] = geom_mearec_neuronexus
                     obj = _json_serialize(obj)
                     obj['self_reference'] = ka.store_object(obj, basename='{}/{}/{}.json'.format(studyset_name, study_name, recname))
                     with open(recfile, 'w') as f:
@@ -95,6 +96,19 @@ def main():
     studysets_path = ka.store_object(studysets_obj, basename='studysets.json')
     with open(os.path.join(basedir, 'studysets'), 'w') as f:
         f.write(studysets_path)
+
+def patch_recording_geom(recording, geom_fname):
+    print(f'PATCHING geom for recording: {recording["name"]}')
+    geom_info = ka.get_file_info(geom_fname)
+    x = recording['directory']
+    y = ka.store_dir(x).replace('sha1dir://', 'sha1://')
+    obj = ka.load_object(y)
+    obj['files']['geom.csv'] = dict(
+        size=geom_info['size'],
+        sha1=geom_info['sha1']
+    )
+    x2 = ka.store_object(obj).replace('sha1://', 'sha1dir://')
+    recording['directory'] = x2
 
 def _listify_ndarray(x):
     if x.ndim == 1:
