@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise20_K20_C32/004_synth/firings_true.mda",
-    "self_reference": "sha1://94626584aca7de352930115c310a6f41c842b822/SYNTH_MEAREC_NEURONEXUS/synth_mearec_neuronexus_noise20_K20_C32/004_synth.firings_true.json"
+    "firings": "sha1dir://c52e9a41f8294bd10f36cc9d0fd45b332d55f307.patched/firings_true.mda",
+    "self_reference": "sha1://dcd0a2a0113a78379102fb9624c00fd61cf03a83/SYNTH_MEAREC_NEURONEXUS/synth_mearec_neuronexus_noise20_K20_C32/004_synth.firings_true.json"
 }
