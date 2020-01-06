@@ -107,8 +107,8 @@ def patch_recording_geom(recording, geom_fname):
         size=geom_info['size'],
         sha1=geom_info['sha1']
     )
-    x2 = ka.store_object(obj).replace('sha1://', 'sha1dir://')
-    recording['directory'] = x2
+    x2 = ka.store_object(obj)
+    recording['directory'] = 'sha1dir://' + ka.get_file_hash(x2) + '.patched'
 
 def _listify_ndarray(x):
     if x.ndim == 1:
