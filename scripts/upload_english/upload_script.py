@@ -108,7 +108,7 @@ studyset_obj = dict(
         source='[source]',
         labels=["in-vivo"]
     ),
-    description='[description]'
+    description='[description]',
     studies=[
         study_obj
     ]
