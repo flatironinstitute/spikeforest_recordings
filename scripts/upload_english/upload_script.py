@@ -64,7 +64,8 @@ for rec1 in list_rec:
     print(f'Uploading {rec1}')
     path_rec1 = os.path.join(path_from, rec1)
     rec = MdaRecordingExtractor(recording_directory=path_rec1)
-    sorting = MdaSortingExtractor(firings_file=path_rec1 + '/firings_true.mda')
+    sorting = MdaSortingExtractor(firings_file=path_rec1 + '/firings_true.mda', 
+        samplerate=rec.get_sampling_frequency())
     if False:
         register_recording(
             recdir = path_rec1, 
