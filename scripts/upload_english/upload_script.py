@@ -63,8 +63,8 @@ study_obj = dict(
 for rec1 in list_rec:
     print(f'Uploading {rec1}')
     path_rec1 = os.path.join(path_from, rec1)
-    rec = MdaRecordingExtractor(path_rec1)
-    sorting = MdaSortingExtractor(path_rec1 + '/firings_true.mda')
+    rec = MdaRecordingExtractor(recording_directory=path_rec1)
+    sorting = MdaSortingExtractor(firings_file=path_rec1 + '/firings_true.mda')
     if False:
         register_recording(
             recdir = path_rec1, 
