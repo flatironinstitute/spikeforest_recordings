@@ -1,0 +1,27 @@
+{
+    "raw": "sha1://46e70948db2be1661e738bb7c03eb30ef3eb6180/raw.mda",
+    "params": {
+        "spike_sign": -1,
+        "samplerate": 30000,
+        "scale_factor": 0.195
+    },
+    "geom": [
+        [
+            0.0,
+            0.0
+        ],
+        [
+            -18.0,
+            12.5
+        ],
+        [
+            18.0,
+            12.5
+        ],
+        [
+            0.0,
+            25.0
+        ]
+    ],
+    "self_reference": "sha1://c14842e45b63790aef01e7e4dfd50da584ee5d9a/m26_190524_100859_cell2.json"
+}
