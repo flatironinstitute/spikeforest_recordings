@@ -66,20 +66,6 @@ for rec1 in list_rec:
     rec = MdaRecordingExtractor(recording_directory=path_rec1)
     sorting = MdaSortingExtractor(firings_file=path_rec1 + '/firings_true.mda', 
         samplerate=rec.get_sampling_frequency())
-    if False:
-        register_recording(
-            recdir = path_rec1, 
-            output_fname = os.path.join(path_to, rec1+'.json'),
-            label = rec1,
-            to = 'default_readwrite'
-        )
-    if False:
-        register_groundtruth(
-            recdir = path_rec1, 
-            output_fname = os.path.join(path_to, rec1+'.firings_true.json'),
-            label = rec1+'.firings_true',
-            to = 'default_readwrite'
-        )
     recording_obj = dict(
         name=rec1,
         studyName=study_name,
@@ -95,26 +81,48 @@ for rec1 in list_rec:
     study_obj['recordings'].append(recording_obj)
 
 study_obj['self_reference'] = ka.store_object(study_obj)
-with open(os.path.join(path_to, studyset_name, study_name, study_name + '.json'), 'w') as f:
+with open(os.path.join(path_to, study_name + '.json'), 'w') as f:
     json.dump(study_obj, f, indent=4)
 
 studyset_obj = dict(
     name=studyset_name,
     info=dict(
         label=studyset_name,
-        electrode_type='[electrode_type]',
-        doi='[doi]',
-        ground_truth='[ground_truth]',
-        organism='[organism]',
-        source='[source]',
-        labels=["in-vivo"]
+        electrode_type='silicon-probe',
+        doi='10.1016/j.neuron.2017.09.033',
+        ground_truth='Paired juxtacellular recording',
+        organism='Mice',
+        source='Daniel F. English, Virgina Tech',
+        labels=["in-vivo paired recording"]
     ),
-    description='[description]',
+    description='''\
+    # Silicon-juxtacellular hybrid probes
+    This studyset consists of 29 paired recordings from Silicon-juxtacellular hybrid probes. \
+    Juxtacellular electrodes are pulled from 1 mm OD 0.7 mm ID borosilicate glass and have impedances of 8-10 MOhm \
+    when filled with 130 mM potassium acetate. These juxtacellular electrodes are glued to 32 channel silicon probes \
+    (A1-32-Poly3, Neuronexus) using light-cure dental acrylic. Using the inter-site spacing of the silicon probe as \
+    a visual distance guide, the tip of the juxtacellular is fixed at a distance of ~20 micrometers from the nearest silicon \
+    probe recording site. The closest site is selected as a site in the middle (top to bottom) of an outer column of \
+    recording sites. The close distance between the juxtacellular tip and the recording sites results in both devices \
+    recording the same neuron at high probability. 
+    
+    #  Recording ground truth data in awake behaving mice
+    Mice are placed in the head-fixed treadmill apparatus and the protective silicon elastomer is removed from the craniotomy, \
+    the juxtacellular-silicon hybrid prove is inserted 0.1 mm into the brain, and the craniotomy is covered with silicon fluid to \
+    prevent drying and improve stability. The probe is advanced into the brain at ~1-2 micrometers until action potentials are \
+    observed on the juxtacellular electrode, at which point movement is ceased and data collection begins. 
+    Electrical signals from the juxtacellular electrode are recorded and amplified through an analog microelectrode amplifier \
+    (Cygnus IR-183), then digitized via an Intan RHD2000 system. Signals from the silicon probe are amplified and digitized \
+    through the same RHD2000 system, which results in hardware synchronization of the two signals. By converting the digital \
+    signals in the RHD2000 to analog voltage and outputting them to a digital microprocessor (CED Power1401), we calculated online \
+    the juxtacellular spike triggered average of each channel of the extracellular electrode, and discard recordings in which the \
+    triggered average does not contain a spike waveform on any channel.
+    ''',
     studies=[
         study_obj
     ]
 )
 
 studyset_obj['self_reference'] = ka.store_object(studyset_obj)
-with open(os.path.join(path_to, studyset_name, studyset_name + '.json'), 'w') as f:
+with open(os.path.join(path_to, '../', studyset_name + '.json'), 'w') as f:
     json.dump(studyset_obj, f, indent=4)
