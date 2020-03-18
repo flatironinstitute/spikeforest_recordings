@@ -19,7 +19,7 @@ def main():
     new_study_sets.append(studyset_obj)
     studysets_obj['StudySets'] = new_study_sets
     with ka.config(fr='default_readwrite'):
-        studysets_obj_path = ka.store_object(studysets_obj)
+        studysets_obj_path = ka.store_object(studysets_obj, basename='studysets.json')
     with open(thisdir + '/../../recordings/studysets', 'w') as f:
         f.write(studysets_obj_path)
 

@@ -1,4 +1,4 @@
 {
-    "firings": "sha1://ee1d6799578bbbcac7fc95b4806c7e61c857f0ed/raw.mda",
-    "self_reference": "sha1://8a3e3ff07b037b48cc9c73b3662eced68caea69e/m52_190731_145204_cell1.firings_true.json"
+    "firings": "sha1://0ef79457b75764aa9354a11a0fdaf101414a0e69/firings_true.mda",
+    "self_reference": "sha1://fa7e6303134505cd6fffd9c19b696f06c422145c/m52_190731_145204_cell1.firings_true.json"
 }

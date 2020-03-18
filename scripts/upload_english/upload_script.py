@@ -15,7 +15,7 @@ path_from = '/mnt/ceph/users/jjun/groundtruth/paired_english'
 path_to = '/mnt/home/jjun/src/spikeforest_recordings/recordings/PAIRED_ENGLISH/paired_english'
 
 
-def register_recording_test(*, recdir, output_fname, label, to):
+def register_recording_test(*, recdir, output_fname, label, to='default_readwrite'):
     print(f'''
         recdir: {recdir}
         output_fname: {output_fname}
@@ -24,7 +24,7 @@ def register_recording_test(*, recdir, output_fname, label, to):
     ''')
 
 
-def register_recording(*, recdir, output_fname, label, to):
+def register_recording(*, recdir, output_fname, label, to='default_readwrite'):
     with ka.config(to=to):
         raw_path = ka.store_file(recdir + '/raw.mda')
         obj = dict(
@@ -37,13 +37,13 @@ def register_recording(*, recdir, output_fname, label, to):
             json.dump(obj, f, indent=4)
 
 
-def register_groundtruth(*, recdir, output_fname, label, to):
+def register_groundtruth(*, recdir, output_fname, label, to='default_readwrite'):
     with ka.config(to=to):
-        raw_path = ka.store_file(recdir + '/raw.mda')
+        firings_path = ka.store_file(recdir + '/firings_true.mda')
         obj = dict(
-            firings=raw_path
+            firings=firings_path
         )
-        obj['self_reference'] = ka.store_object(obj, basename='{}.json'.format(label))
+        obj['self_reference'] = ka.store_object(obj, basename='{}.firings_true.json'.format(label))
         with open(output_fname, 'w') as f:
             json.dump(obj, f, indent=4)
 
@@ -79,6 +79,9 @@ for rec1 in list_rec:
         spikeSign=-1 # TODO: get this from params.json
     )
     study_obj['recordings'].append(recording_obj)
+    # update .json files
+    register_recording(recdir=path_rec1, output_fname=os.path.join(path_to, rec1+'.json'), label=rec1)
+    register_groundtruth(recdir=path_rec1, output_fname=os.path.join(path_to, rec1+'.firings_true.json'), label=rec1)
 
 study_obj['self_reference'] = ka.store_object(study_obj)
 with open(os.path.join(path_to, study_name + '.json'), 'w') as f:
