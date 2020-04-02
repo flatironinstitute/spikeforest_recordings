@@ -85,7 +85,6 @@ def register_study(*, path_from, path_to, studyset_name, study_name, to='default
         study_obj['recordings'].append(recording_obj)
         # update .json files
         register_recording(recdir=path_rec1, output_fname=os.path.join(path_to, rec1+'.json'), label=rec1)
-
     study_obj['self_reference'] = ka.store_object(study_obj)
     with open(os.path.join(path_to, study_name + '.json'), 'w') as f:
         json.dump(study_obj, f, indent=4)
@@ -137,9 +136,7 @@ studyset_obj = dict(
     a Neuropixels recording, and a spatiotemporal smoothing was applied to induce 
     correlation between nearby channels and time samples.
     ''',
-    studies=[
-        list_study_obj
-    ]
+    studies=list_study_obj
 )
 
 studyset_obj['self_reference'] = ka.store_object(studyset_obj)
