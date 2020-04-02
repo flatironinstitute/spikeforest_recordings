@@ -143,5 +143,5 @@ studyset_obj = dict(
 )
 
 studyset_obj['self_reference'] = ka.store_object(studyset_obj)
-with open(os.path.join(path_to, '../', studyset_name + '.json'), 'w') as f:
+with open(os.path.join(path_to, studyset_name + '.json'), 'w') as f:
     json.dump(studyset_obj, f, indent=4)
