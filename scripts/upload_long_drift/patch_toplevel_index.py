@@ -2,6 +2,7 @@
 
 import os
 import kachery as ka
+import json
 
 studyset_name = 'LONG_DRIFT'
 
@@ -24,6 +25,8 @@ def main():
         studysets_obj_path = ka.store_object(studysets_obj, basename='studysets.json')
     with open(thisdir + '/../../recordings/studysets', 'w') as f:
         f.write(studysets_obj_path)
+    with open(os.path.join(thisdir, '../studysets.json'), 'w') as f:
+        json.dump(studysets_obj, f, indent=4)
 
 if __name__ == '__main__':
     main()
