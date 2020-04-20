@@ -19,7 +19,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://15925dd60434413a9a2934624900ae3446c765ea.009_synth",
                     "firingsTrue": "sha1://650fb04dcd770cd7ffb5a7b8ef1914754c0b439b/firings_true.json",
@@ -31,7 +31,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://e8cad3d9ec8acd3784d4610fb8140db014ab4128.008_synth",
                     "firingsTrue": "sha1://2406b8d3ed027c5ad491c408de0cb70b1de7d3c2/firings_true.json",
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f1b8cb9ebd1e68f937fe431f614866de168e3c3b.007_synth",
                     "firingsTrue": "sha1://1e6f6948da7aaad8c7d6f33714317995e297679f/firings_true.json",
@@ -55,7 +55,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://6086da7289127e9edc3ef86560e9c75fa9f02a9e.003_synth",
                     "firingsTrue": "sha1://4ae3186a1443d086b81b91bfc053a8993ddcd70e/firings_true.json",
@@ -67,7 +67,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://68d00320ab90d0b500df5c268294fccd40fdeebe.005_synth",
                     "firingsTrue": "sha1://77ec776f48b467c34626e51422ba54b762c51503/firings_true.json",
@@ -79,7 +79,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://a19cb18fff136d33bfc7aaa59f05a9d60fa8f9a3.010_synth",
                     "firingsTrue": "sha1://bd4f0cc52cc397252524b8f4dfb5a5b48dc76140/firings_true.json",
@@ -91,7 +91,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b1c9490655b572c64d7199bd26b66656fd4fac03.006_synth",
                     "firingsTrue": "sha1://6c516a167d6921b7f4f370924fa1e7df56a747cf/firings_true.json",
@@ -103,7 +103,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://1c9d8d44cdd562d1121bf737cead2bf9d2747312.002_synth",
                     "firingsTrue": "sha1://15358c108ccde7ecdae8cfd364f089837ab67c10/firings_true.json",
@@ -115,7 +115,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://9959b4e3989771a28142dfb4c942dfff3a743e5a.001_synth",
                     "firingsTrue": "sha1://5b4d3b85104cc1e42b6cb76fc3e114fd0d3b9995/firings_true.json",
@@ -127,7 +127,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "4800s_16c",
+                    "studyName": "LONG_DRIFT_4800s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://dd7dc669a953a2a0c87bbbcbe89ce48975cc3ac2.004_synth",
                     "firingsTrue": "sha1://f3a8381453d52e62a5391204ace95b357fd50bd8/firings_true.json",
@@ -138,7 +138,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://37b3809ac21452b406ffde9606848197720dfdff/file.json"
+            "self_reference": "sha1://e0831b285c286273d8f11332eb94ccc919ee881d/file.json"
         },
         {
             "name": "600s_8c",
@@ -146,7 +146,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://c28663d2ae7dae8f1cdec02cde49227f3579ccf0.009_synth",
                     "firingsTrue": "sha1://cf96b15ac0bc148d57f9a0635df55c1003ae8879/firings_true.json",
@@ -158,7 +158,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://612959b368792cff8a724d798e7b3324fd44ec43.008_synth",
                     "firingsTrue": "sha1://7c1888d6f1ebdaf7558cd86838c2f1d146109597/firings_true.json",
@@ -170,7 +170,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://9855f8661d07b98f8eedbff72684bc41c7c41bd2.007_synth",
                     "firingsTrue": "sha1://2aeaadb5a02b4f237a150648a29988c334ffccac/firings_true.json",
@@ -182,7 +182,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://e2112aacc0daa07f45654ed7695867b4a6e89044.003_synth",
                     "firingsTrue": "sha1://48f456f18e9540cb095f80a983e9cb17367b2a0f/firings_true.json",
@@ -194,7 +194,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://2849457883f963f3a5f9f873159dd44992d55a42.005_synth",
                     "firingsTrue": "sha1://91cf002df1f5e1731521868a07b5ad03ab2bbe89/firings_true.json",
@@ -206,7 +206,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f5db003cc6d7d2c4ebce22866939215d9361401e.010_synth",
                     "firingsTrue": "sha1://67823fef5a85c53cc26d5f7dc4207a232c781c82/firings_true.json",
@@ -218,7 +218,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://bc2c9b36eb17c0cb1e4f0634114da37d5b9a3628.006_synth",
                     "firingsTrue": "sha1://4b69bf7877357b83ec4f88f3073cd390a06780a0/firings_true.json",
@@ -230,7 +230,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://288dcb2f46fc82d0581bfb6109273c87b21f5bbf.002_synth",
                     "firingsTrue": "sha1://749a24d2b47df6f3b22decc8c445fce000da02f9/firings_true.json",
@@ -242,7 +242,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://dfa6455e068d189886851d3c2944ab9b66e87342.001_synth",
                     "firingsTrue": "sha1://23f4bfb48edb6c26c4e629db0b6fa6f9a61e71a1/firings_true.json",
@@ -254,7 +254,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "600s_8c",
+                    "studyName": "LONG_DRIFT_600s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://7e1ad15f56d4d9ef6837f02b31cc90d054cbecbb.004_synth",
                     "firingsTrue": "sha1://20c8134a973ad5fe22851e58adee2a233c0337ff/firings_true.json",
@@ -265,7 +265,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://370856295bc2ef1d2185dc5b06633ab91db3c15f/file.json"
+            "self_reference": "sha1://af02f38dae237dd7457a7f11c84a8a24bcf941d2/file.json"
         },
         {
             "name": "1200s_8c",
@@ -273,7 +273,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://8f47c9fd0da23d0bf7ad7c4e3fc5ecf7a934d2ec.009_synth",
                     "firingsTrue": "sha1://4313964e114853d4838c05ea4bd44dca076b5d89/firings_true.json",
@@ -285,7 +285,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://1334c4e4a33ab7a2939d708e1d3f778ac7ddf23c.008_synth",
                     "firingsTrue": "sha1://60ad1f5426c5d5f8abb7203043248d7978a2e5a0/firings_true.json",
@@ -297,7 +297,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://67018f8e1623c92edd171b759a54529e4c5b6c25.007_synth",
                     "firingsTrue": "sha1://248067adfbd59a059b610ba44d7a2c038c50db9a/firings_true.json",
@@ -309,7 +309,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://93ad4650b949db0a8639a78435619fcc5e42c565.003_synth",
                     "firingsTrue": "sha1://0a75a0f7342e7f88b2dfad67a4566a92803f2b7e/firings_true.json",
@@ -321,7 +321,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://77e3db37e5896d98685d622fedd34c5cf8ee774d.005_synth",
                     "firingsTrue": "sha1://0cce2ef6e5d01d5835e97e2d7f7e7f33fdaac3a0/firings_true.json",
@@ -333,7 +333,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://a314b82b7056f0c472721554cb73b53a99238526.010_synth",
                     "firingsTrue": "sha1://af587d0ce00c240238cfef9b18bf3d67d07c6678/firings_true.json",
@@ -345,7 +345,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://9696cfcfa96d7f60f338e17104ab922a784faa68.006_synth",
                     "firingsTrue": "sha1://37b44b7c7bb3590a42b820ba55c6639bbc3ccf90/firings_true.json",
@@ -357,7 +357,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://73447d267943d5b0cf9c27c5b62ccca065038442.002_synth",
                     "firingsTrue": "sha1://5c47888ecb24455ea5a30137fce3eb35baee1293/firings_true.json",
@@ -369,7 +369,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b267f934d26616906c56df1a27b97b2d1886ad05.001_synth",
                     "firingsTrue": "sha1://96218edf5ded8ae5bea384b56dd0ee1db1be0266/firings_true.json",
@@ -381,7 +381,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "1200s_8c",
+                    "studyName": "LONG_DRIFT_1200s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://12b9d906e0f530d9ecae29af7d6d617a6f7973ac.004_synth",
                     "firingsTrue": "sha1://6bf7186853f694f76f33113b48c020b5e3db37bc/firings_true.json",
@@ -392,7 +392,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://5711eaffc2d61fdbfba01133c5e71192ffda67cf/file.json"
+            "self_reference": "sha1://55187c106cbdf086c6bfe154087b168aebdc5f5b/file.json"
         },
         {
             "name": "300s_16c",
@@ -400,7 +400,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://faba679f38dc4b16030c02a351129322657747a1.009_synth",
                     "firingsTrue": "sha1://e84e6bb6e9cfb51095c48ff4704ad55a12789157/firings_true.json",
@@ -412,7 +412,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://fd80ee5bfbda66d48810d73f2efbd52c4e145ae9.008_synth",
                     "firingsTrue": "sha1://94e134e029aae67a10fae7e990f2b44fa28bb27b/firings_true.json",
@@ -424,7 +424,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f533dc2a901d2bcd1479c6157d0970fd706d8dbd.007_synth",
                     "firingsTrue": "sha1://c6134e8793cc1d336ac94b251cefd63fcd2f16b6/firings_true.json",
@@ -436,7 +436,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://929e4d3587e261a334491df86afc575fd8191174.003_synth",
                     "firingsTrue": "sha1://1646c31eb3d56bb9a746f3c0d5b84d134959c6cc/firings_true.json",
@@ -448,7 +448,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://cffed64464e8a777489090ec39229cce61a4ec70.005_synth",
                     "firingsTrue": "sha1://4a388cbcf164b31d6c06f4956abab790e3d2cdc1/firings_true.json",
@@ -460,7 +460,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://38ef72c2e91a3c4fd1e7dc67f3ac1717b3f9e446.010_synth",
                     "firingsTrue": "sha1://d878cb0c2190e1c4db89deee7b5185e570baabe9/firings_true.json",
@@ -472,7 +472,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://bde216605007e9e3fd3fbc478f78cdd4143ae529.006_synth",
                     "firingsTrue": "sha1://f30ea8130857aabdcb1892f7177c39c05ccacf24/firings_true.json",
@@ -484,7 +484,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://69d2fafd900435dc198ead788cfc67e4df230513.002_synth",
                     "firingsTrue": "sha1://188f8ff8e0376df13402699e0ea7a20596607f86/firings_true.json",
@@ -496,7 +496,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://709aed111db99ebe4b614af69e7325af2b824e7d.001_synth",
                     "firingsTrue": "sha1://554be5fc93756f85402b360d7b96bd0ec6d753eb/firings_true.json",
@@ -508,7 +508,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "300s_16c",
+                    "studyName": "LONG_DRIFT_300s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://e3a20c0134ac85695595e5cd5cdf14f611a4e2c4.004_synth",
                     "firingsTrue": "sha1://7992d9278dab0268c3d9bd27b4e51dc9cea92cc4/firings_true.json",
@@ -519,7 +519,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://2cdadef60d98075c6caefe21778b1766fce839a0/file.json"
+            "self_reference": "sha1://b1fb909b85df7926b5d651475118fe771cb30ee6/file.json"
         },
         {
             "name": "1200s_16c",
@@ -527,7 +527,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://a13ed8bc2df1aea288875e30765ed9c7bb8cb1c2.009_synth",
                     "firingsTrue": "sha1://4313964e114853d4838c05ea4bd44dca076b5d89/firings_true.json",
@@ -539,7 +539,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f4654e40dc9f6873d05f6c54b9f967d265a8566b.008_synth",
                     "firingsTrue": "sha1://60ad1f5426c5d5f8abb7203043248d7978a2e5a0/firings_true.json",
@@ -551,7 +551,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://2607138ff95b4ed5f0769194eff9963b9cc29cb2.007_synth",
                     "firingsTrue": "sha1://248067adfbd59a059b610ba44d7a2c038c50db9a/firings_true.json",
@@ -563,7 +563,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://7fcb83b1f87ef50813963299d563da4241dc0b95.003_synth",
                     "firingsTrue": "sha1://0a75a0f7342e7f88b2dfad67a4566a92803f2b7e/firings_true.json",
@@ -575,7 +575,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://44959efa30248b8fa30415cd057a92370169adf8.005_synth",
                     "firingsTrue": "sha1://0cce2ef6e5d01d5835e97e2d7f7e7f33fdaac3a0/firings_true.json",
@@ -587,7 +587,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://c4278d612070c496da6469a5ec7d07d3463c04ae.010_synth",
                     "firingsTrue": "sha1://af587d0ce00c240238cfef9b18bf3d67d07c6678/firings_true.json",
@@ -599,7 +599,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b263eb06900027940e418cb850299b5852137606.006_synth",
                     "firingsTrue": "sha1://37b44b7c7bb3590a42b820ba55c6639bbc3ccf90/firings_true.json",
@@ -611,7 +611,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://51a49d370c66cf34115759815f98709c6ad83cd0.002_synth",
                     "firingsTrue": "sha1://5c47888ecb24455ea5a30137fce3eb35baee1293/firings_true.json",
@@ -623,7 +623,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://bfe2b07e4c8fcdc873af407cd28c41c84eee8fb9.001_synth",
                     "firingsTrue": "sha1://96218edf5ded8ae5bea384b56dd0ee1db1be0266/firings_true.json",
@@ -635,7 +635,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "1200s_16c",
+                    "studyName": "LONG_DRIFT_1200s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://c085263f8ce67845b5329a87f4956590411e7896.004_synth",
                     "firingsTrue": "sha1://6bf7186853f694f76f33113b48c020b5e3db37bc/firings_true.json",
@@ -646,7 +646,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://8d0b93fc043f87e544c69a128db2404a132b59f2/file.json"
+            "self_reference": "sha1://8a02f10d3645629e11d9f74b92fd9d50e9826e75/file.json"
         },
         {
             "name": "2400s_8c",
@@ -654,7 +654,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://9dacd89b4c818db44a199f18d1ba9aea254f0a98.009_synth",
                     "firingsTrue": "sha1://b417c0cbf6f7560a830a67950937ac6014ba3172/firings_true.json",
@@ -666,7 +666,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://c16874530d861bdabfae2856f36228f76398fabf.008_synth",
                     "firingsTrue": "sha1://b8c8618ab78b42fd56b83873b45758c9095bdae4/firings_true.json",
@@ -678,7 +678,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://5ef931ab94266058889ae5c558c5ec7a6e8b3f23.007_synth",
                     "firingsTrue": "sha1://8b2660a9f85fe109ff107a9af998917881461444/firings_true.json",
@@ -690,7 +690,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b5349fd9f79334b0dbae4b972a19acbc9ecb1225.003_synth",
                     "firingsTrue": "sha1://ab07754b235210d9095c7a39beb16574c20c26ac/firings_true.json",
@@ -702,7 +702,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://2bcd52fd717ba2db58def8448762396595515a11.005_synth",
                     "firingsTrue": "sha1://7e840595401d095881a18c870a0f95b1ab319a82/firings_true.json",
@@ -714,7 +714,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://3f0d3d6c5d2ab1753ba3d4df9d1939187d1de541.010_synth",
                     "firingsTrue": "sha1://c09e36f7ed5e0cb0c9a5c29dd9d27565171928eb/firings_true.json",
@@ -726,7 +726,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://41fec6b15569bb3f8883781b1826f3ed40503351.006_synth",
                     "firingsTrue": "sha1://a35c947df3ca85b613d69911ad0330ee89ae2366/firings_true.json",
@@ -738,7 +738,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://7771c5dd8956cb4a5c47073e2f8e34ab76e050c1.002_synth",
                     "firingsTrue": "sha1://7bd81d74a3ba2722b1630ffa698956a4e36503a4/firings_true.json",
@@ -750,7 +750,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b1d13da7619cbe8f52b8a8b4de3f5cf91e4b2736.001_synth",
                     "firingsTrue": "sha1://2919a4ad30b0b9d503b0223b41881b5fe9593f9c/firings_true.json",
@@ -762,7 +762,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "2400s_8c",
+                    "studyName": "LONG_DRIFT_2400s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://89e598421da581bf119f99ec33b784450fed7d9b.004_synth",
                     "firingsTrue": "sha1://ee5fe06f810759064e91fae201a0f19d471f76c8/firings_true.json",
@@ -773,7 +773,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://8403b3fe1ada1fe3578aa47a3bf9f501064b5524/file.json"
+            "self_reference": "sha1://adc14508ce57836e584998e248d32821da46db4c/file.json"
         },
         {
             "name": "600s_16c",
@@ -781,7 +781,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://d4e0ab7a3d4e1c5d8efe88285f1dd93922918bea.009_synth",
                     "firingsTrue": "sha1://cf96b15ac0bc148d57f9a0635df55c1003ae8879/firings_true.json",
@@ -793,7 +793,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://3ff554734f6d97e7c707e74364c8c27cceba2183.008_synth",
                     "firingsTrue": "sha1://7c1888d6f1ebdaf7558cd86838c2f1d146109597/firings_true.json",
@@ -805,7 +805,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://051fefe8fe2f0c90907ef446f1da5827eee7a382.007_synth",
                     "firingsTrue": "sha1://2aeaadb5a02b4f237a150648a29988c334ffccac/firings_true.json",
@@ -817,7 +817,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://6234b60177b0ed69f335cea5816e5d739a5c2330.003_synth",
                     "firingsTrue": "sha1://48f456f18e9540cb095f80a983e9cb17367b2a0f/firings_true.json",
@@ -829,7 +829,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://e2071e5da16ffa7352bea8c6f6acc992ae837aa8.005_synth",
                     "firingsTrue": "sha1://91cf002df1f5e1731521868a07b5ad03ab2bbe89/firings_true.json",
@@ -841,7 +841,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://6452719ab82788c8a408246c0c9bc5fa378e0ce1.010_synth",
                     "firingsTrue": "sha1://67823fef5a85c53cc26d5f7dc4207a232c781c82/firings_true.json",
@@ -853,7 +853,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://135d89c99bbeabeebaa3d159480b05afeacdcd54.006_synth",
                     "firingsTrue": "sha1://4b69bf7877357b83ec4f88f3073cd390a06780a0/firings_true.json",
@@ -865,7 +865,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://d4e3afe428daad4e42128587fa3b3176ace822b1.002_synth",
                     "firingsTrue": "sha1://749a24d2b47df6f3b22decc8c445fce000da02f9/firings_true.json",
@@ -877,7 +877,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://d758f044a99a7e7bcd6aa3d8ff8d8e5085b972b9.001_synth",
                     "firingsTrue": "sha1://23f4bfb48edb6c26c4e629db0b6fa6f9a61e71a1/firings_true.json",
@@ -889,7 +889,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "600s_16c",
+                    "studyName": "LONG_DRIFT_600s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://aad012cb711638e0e2426c5a3833f4df12cb93d5.004_synth",
                     "firingsTrue": "sha1://20c8134a973ad5fe22851e58adee2a233c0337ff/firings_true.json",
@@ -900,7 +900,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://ddc2742ad4991119406433b005cf9dcdc9a5a188/file.json"
+            "self_reference": "sha1://64098d9308c841030c4db9e7333d9348a223ee19/file.json"
         },
         {
             "name": "2400s_16c",
@@ -908,7 +908,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://7ea99e9e2b2abdced2abfbc0fa5e1474e493814d.009_synth",
                     "firingsTrue": "sha1://b417c0cbf6f7560a830a67950937ac6014ba3172/firings_true.json",
@@ -920,7 +920,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://23057c7a4073b6c65aff398e2f08b3d210a6f380.008_synth",
                     "firingsTrue": "sha1://b8c8618ab78b42fd56b83873b45758c9095bdae4/firings_true.json",
@@ -932,7 +932,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://eba0ef17999651a44b01eb4d7450c312ec6da3db.007_synth",
                     "firingsTrue": "sha1://8b2660a9f85fe109ff107a9af998917881461444/firings_true.json",
@@ -944,7 +944,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://213f0f2bef6e4ab44ae213aaf020c89ec32538c8.003_synth",
                     "firingsTrue": "sha1://ab07754b235210d9095c7a39beb16574c20c26ac/firings_true.json",
@@ -956,7 +956,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://2e91af275a3bac5384ad0eabab91eb7e52d8ea86.005_synth",
                     "firingsTrue": "sha1://7e840595401d095881a18c870a0f95b1ab319a82/firings_true.json",
@@ -968,7 +968,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f315e49c1f32255377a520368cf7574cc8a757c4.010_synth",
                     "firingsTrue": "sha1://c09e36f7ed5e0cb0c9a5c29dd9d27565171928eb/firings_true.json",
@@ -980,7 +980,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://c488348eb211d64c0ec1c10cb2f1f43c15a0cb60.006_synth",
                     "firingsTrue": "sha1://a35c947df3ca85b613d69911ad0330ee89ae2366/firings_true.json",
@@ -992,7 +992,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://aca57fec078d00c4bb8f91ed1e997fdd302a13ce.002_synth",
                     "firingsTrue": "sha1://7bd81d74a3ba2722b1630ffa698956a4e36503a4/firings_true.json",
@@ -1004,7 +1004,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://538810cf0b463fd2fc699af345679fd1fc7b636d.001_synth",
                     "firingsTrue": "sha1://2919a4ad30b0b9d503b0223b41881b5fe9593f9c/firings_true.json",
@@ -1016,7 +1016,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "2400s_16c",
+                    "studyName": "LONG_DRIFT_2400s_16c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://ebf6e09390aa67effe6a589b12c075614b9996d6.004_synth",
                     "firingsTrue": "sha1://ee5fe06f810759064e91fae201a0f19d471f76c8/firings_true.json",
@@ -1027,7 +1027,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://47ddf8374082bf89b7302de9a23b0c48f6b9f061/file.json"
+            "self_reference": "sha1://a5bb33fe3ca677a727acab774e5d94cf17f31618/file.json"
         },
         {
             "name": "300s_8c",
@@ -1035,7 +1035,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://956e9a4f41dca05ca856a579df7fc77ab65d06e4.009_synth",
                     "firingsTrue": "sha1://e84e6bb6e9cfb51095c48ff4704ad55a12789157/firings_true.json",
@@ -1047,7 +1047,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://d538c65e198f3e2638b8dd35a6425828f84f9262.008_synth",
                     "firingsTrue": "sha1://94e134e029aae67a10fae7e990f2b44fa28bb27b/firings_true.json",
@@ -1059,7 +1059,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://ce7cca1e5ce50a9f7a9e9be95ae0925dbbda3c90.007_synth",
                     "firingsTrue": "sha1://c6134e8793cc1d336ac94b251cefd63fcd2f16b6/firings_true.json",
@@ -1071,7 +1071,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://ca441b3e10326e87f56e6c31aa21f18dff7a4809.003_synth",
                     "firingsTrue": "sha1://1646c31eb3d56bb9a746f3c0d5b84d134959c6cc/firings_true.json",
@@ -1083,7 +1083,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://69654cc6f2d8e4556035023c0e8c5676155228a8.005_synth",
                     "firingsTrue": "sha1://4a388cbcf164b31d6c06f4956abab790e3d2cdc1/firings_true.json",
@@ -1095,7 +1095,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://76162940358d9da56ba371062c9083e5373daaa9.010_synth",
                     "firingsTrue": "sha1://d878cb0c2190e1c4db89deee7b5185e570baabe9/firings_true.json",
@@ -1107,7 +1107,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://082ebb7db2424081b48cbc196dc667e8e44fc3fd.006_synth",
                     "firingsTrue": "sha1://f30ea8130857aabdcb1892f7177c39c05ccacf24/firings_true.json",
@@ -1119,7 +1119,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://551bf12b932242103a6b422e75a7aa8932d3a82a.002_synth",
                     "firingsTrue": "sha1://188f8ff8e0376df13402699e0ea7a20596607f86/firings_true.json",
@@ -1131,7 +1131,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://a6b40c267d32d2dc5ec228346d926c94605bf918.001_synth",
                     "firingsTrue": "sha1://554be5fc93756f85402b360d7b96bd0ec6d753eb/firings_true.json",
@@ -1143,7 +1143,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "300s_8c",
+                    "studyName": "LONG_DRIFT_300s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://5a9952f3409f8ba9fc40032923d576542700428c.004_synth",
                     "firingsTrue": "sha1://7992d9278dab0268c3d9bd27b4e51dc9cea92cc4/firings_true.json",
@@ -1154,7 +1154,7 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://f16497789563d1fa69432a8911a9d622ead13234/file.json"
+            "self_reference": "sha1://64cee021316ac89ab9fca7c94f155a793b4ab987/file.json"
         },
         {
             "name": "4800s_8c",
@@ -1162,7 +1162,7 @@
             "recordings": [
                 {
                     "name": "009_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://8cdd826ccf67fa7a3ec85a6cf4f8b1e038875044.009_synth",
                     "firingsTrue": "sha1://650fb04dcd770cd7ffb5a7b8ef1914754c0b439b/firings_true.json",
@@ -1174,7 +1174,7 @@
                 },
                 {
                     "name": "008_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://7f52c530fa0524809f11295a9f6acb2d387153ed.008_synth",
                     "firingsTrue": "sha1://2406b8d3ed027c5ad491c408de0cb70b1de7d3c2/firings_true.json",
@@ -1186,7 +1186,7 @@
                 },
                 {
                     "name": "007_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://a2307d6e8c2837c8cebb4e4c883debf673017616.007_synth",
                     "firingsTrue": "sha1://1e6f6948da7aaad8c7d6f33714317995e297679f/firings_true.json",
@@ -1198,7 +1198,7 @@
                 },
                 {
                     "name": "003_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://5fc9a00b0ae95cb552b4e23fcdf58d56bd44f4eb.003_synth",
                     "firingsTrue": "sha1://4ae3186a1443d086b81b91bfc053a8993ddcd70e/firings_true.json",
@@ -1210,7 +1210,7 @@
                 },
                 {
                     "name": "005_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://dcf189d77d6306551ec4eaf8d85a8ae4773f542b.005_synth",
                     "firingsTrue": "sha1://77ec776f48b467c34626e51422ba54b762c51503/firings_true.json",
@@ -1222,7 +1222,7 @@
                 },
                 {
                     "name": "010_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://b3546ae4f3e2e3a09900f77434b458d6583848bc.010_synth",
                     "firingsTrue": "sha1://bd4f0cc52cc397252524b8f4dfb5a5b48dc76140/firings_true.json",
@@ -1234,7 +1234,7 @@
                 },
                 {
                     "name": "006_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://6da7af2fb774f1d0f979a34fbc2ed6adeb8f19dd.006_synth",
                     "firingsTrue": "sha1://6c516a167d6921b7f4f370924fa1e7df56a747cf/firings_true.json",
@@ -1246,7 +1246,7 @@
                 },
                 {
                     "name": "002_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://f573951db0c8cde89f4567d09a6a6989ab5e48be.002_synth",
                     "firingsTrue": "sha1://15358c108ccde7ecdae8cfd364f089837ab67c10/firings_true.json",
@@ -1258,7 +1258,7 @@
                 },
                 {
                     "name": "001_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://4bbb2076b822469d35d2fdb77c9d0626c37a5f7c.001_synth",
                     "firingsTrue": "sha1://5b4d3b85104cc1e42b6cb76fc3e114fd0d3b9995/firings_true.json",
@@ -1270,7 +1270,7 @@
                 },
                 {
                     "name": "004_synth",
-                    "studyName": "4800s_8c",
+                    "studyName": "LONG_DRIFT_4800s_8c",
                     "studySetName": "LONG_DRIFT",
                     "directory": "sha1dir://d010f5466eb32baf42509da5414370b9d6fbb96e.004_synth",
                     "firingsTrue": "sha1://f3a8381453d52e62a5391204ace95b357fd50bd8/firings_true.json",
@@ -1281,8 +1281,8 @@
                     "spikeSign": -1
                 }
             ],
-            "self_reference": "sha1://da7b2545562432fad515fa99808962825bfd776a/file.json"
+            "self_reference": "sha1://7c483a60d229a4740d29e051977a18a9699d498e/file.json"
         }
     ],
-    "self_reference": "sha1://0d9fc81b167f87dc0a36281a834317eb7006d438/file.json"
+    "self_reference": "sha1://e9c13deba7345c510fc77871d0e448a909e46840/file.json"
 }

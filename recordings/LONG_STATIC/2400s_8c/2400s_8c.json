@@ -4,7 +4,7 @@
     "recordings": [
         {
             "name": "009_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://9dacd89b4c818db44a199f18d1ba9aea254f0a98.009_synth",
             "firingsTrue": "sha1://b417c0cbf6f7560a830a67950937ac6014ba3172/firings_true.json",
@@ -16,7 +16,7 @@
         },
         {
             "name": "008_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://c16874530d861bdabfae2856f36228f76398fabf.008_synth",
             "firingsTrue": "sha1://b8c8618ab78b42fd56b83873b45758c9095bdae4/firings_true.json",
@@ -28,7 +28,7 @@
         },
         {
             "name": "007_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://5ef931ab94266058889ae5c558c5ec7a6e8b3f23.007_synth",
             "firingsTrue": "sha1://8b2660a9f85fe109ff107a9af998917881461444/firings_true.json",
@@ -40,7 +40,7 @@
         },
         {
             "name": "003_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://b5349fd9f79334b0dbae4b972a19acbc9ecb1225.003_synth",
             "firingsTrue": "sha1://ab07754b235210d9095c7a39beb16574c20c26ac/firings_true.json",
@@ -52,7 +52,7 @@
         },
         {
             "name": "005_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://2bcd52fd717ba2db58def8448762396595515a11.005_synth",
             "firingsTrue": "sha1://7e840595401d095881a18c870a0f95b1ab319a82/firings_true.json",
@@ -64,7 +64,7 @@
         },
         {
             "name": "010_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://3f0d3d6c5d2ab1753ba3d4df9d1939187d1de541.010_synth",
             "firingsTrue": "sha1://c09e36f7ed5e0cb0c9a5c29dd9d27565171928eb/firings_true.json",
@@ -76,7 +76,7 @@
         },
         {
             "name": "006_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://41fec6b15569bb3f8883781b1826f3ed40503351.006_synth",
             "firingsTrue": "sha1://a35c947df3ca85b613d69911ad0330ee89ae2366/firings_true.json",
@@ -88,7 +88,7 @@
         },
         {
             "name": "002_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://7771c5dd8956cb4a5c47073e2f8e34ab76e050c1.002_synth",
             "firingsTrue": "sha1://7bd81d74a3ba2722b1630ffa698956a4e36503a4/firings_true.json",
@@ -100,7 +100,7 @@
         },
         {
             "name": "001_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://b1d13da7619cbe8f52b8a8b4de3f5cf91e4b2736.001_synth",
             "firingsTrue": "sha1://2919a4ad30b0b9d503b0223b41881b5fe9593f9c/firings_true.json",
@@ -112,7 +112,7 @@
         },
         {
             "name": "004_synth",
-            "studyName": "2400s_8c",
+            "studyName": "LONG_STATIC_2400s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://89e598421da581bf119f99ec33b784450fed7d9b.004_synth",
             "firingsTrue": "sha1://ee5fe06f810759064e91fae201a0f19d471f76c8/firings_true.json",
@@ -123,5 +123,5 @@
             "spikeSign": -1
         }
     ],
-    "self_reference": "sha1://b679f22cec0b620d66afe0a6bf9a3322beec4611/file.json"
+    "self_reference": "sha1://29ce925b9689335afdbea29420634ccb6cecaeb6/file.json"
 }

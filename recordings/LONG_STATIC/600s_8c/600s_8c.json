@@ -4,7 +4,7 @@
     "recordings": [
         {
             "name": "009_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://c28663d2ae7dae8f1cdec02cde49227f3579ccf0.009_synth",
             "firingsTrue": "sha1://cf96b15ac0bc148d57f9a0635df55c1003ae8879/firings_true.json",
@@ -16,7 +16,7 @@
         },
         {
             "name": "008_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://612959b368792cff8a724d798e7b3324fd44ec43.008_synth",
             "firingsTrue": "sha1://7c1888d6f1ebdaf7558cd86838c2f1d146109597/firings_true.json",
@@ -28,7 +28,7 @@
         },
         {
             "name": "007_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://9855f8661d07b98f8eedbff72684bc41c7c41bd2.007_synth",
             "firingsTrue": "sha1://2aeaadb5a02b4f237a150648a29988c334ffccac/firings_true.json",
@@ -40,7 +40,7 @@
         },
         {
             "name": "003_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://e2112aacc0daa07f45654ed7695867b4a6e89044.003_synth",
             "firingsTrue": "sha1://48f456f18e9540cb095f80a983e9cb17367b2a0f/firings_true.json",
@@ -52,7 +52,7 @@
         },
         {
             "name": "005_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://2849457883f963f3a5f9f873159dd44992d55a42.005_synth",
             "firingsTrue": "sha1://91cf002df1f5e1731521868a07b5ad03ab2bbe89/firings_true.json",
@@ -64,7 +64,7 @@
         },
         {
             "name": "010_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://f5db003cc6d7d2c4ebce22866939215d9361401e.010_synth",
             "firingsTrue": "sha1://67823fef5a85c53cc26d5f7dc4207a232c781c82/firings_true.json",
@@ -76,7 +76,7 @@
         },
         {
             "name": "006_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://bc2c9b36eb17c0cb1e4f0634114da37d5b9a3628.006_synth",
             "firingsTrue": "sha1://4b69bf7877357b83ec4f88f3073cd390a06780a0/firings_true.json",
@@ -88,7 +88,7 @@
         },
         {
             "name": "002_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://288dcb2f46fc82d0581bfb6109273c87b21f5bbf.002_synth",
             "firingsTrue": "sha1://749a24d2b47df6f3b22decc8c445fce000da02f9/firings_true.json",
@@ -100,7 +100,7 @@
         },
         {
             "name": "001_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://dfa6455e068d189886851d3c2944ab9b66e87342.001_synth",
             "firingsTrue": "sha1://23f4bfb48edb6c26c4e629db0b6fa6f9a61e71a1/firings_true.json",
@@ -112,7 +112,7 @@
         },
         {
             "name": "004_synth",
-            "studyName": "600s_8c",
+            "studyName": "LONG_STATIC_600s_8c",
             "studySetName": "LONG_STATIC",
             "directory": "sha1dir://7e1ad15f56d4d9ef6837f02b31cc90d054cbecbb.004_synth",
             "firingsTrue": "sha1://20c8134a973ad5fe22851e58adee2a233c0337ff/firings_true.json",
@@ -123,5 +123,5 @@
             "spikeSign": -1
         }
     ],
-    "self_reference": "sha1://48b1e051522780e69a05b694201548fe2a33eaaf/file.json"
+    "self_reference": "sha1://07a746a4d2ab1f72c8da5c0270576e50fc8503a0/file.json"
 }
