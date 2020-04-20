@@ -72,7 +72,7 @@ def register_study(*, path_from, path_to, studyset_name, study_name, to='default
             samplerate=rec.get_sampling_frequency())
         recording_obj = dict(
             name=rec1,
-            studyName=study_name,
+            studyName=studyset_name + '_' + study_name,
             studySetName=studyset_name,
             directory=ka.store_dir(path_rec1),
             firingsTrue=ka.store_file(os.path.join(path_to, rec1+'.firings_true.json'), basename='firings_true.json'),
