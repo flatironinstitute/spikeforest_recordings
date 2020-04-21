@@ -1,5 +1,5 @@
 {
-    "name": "2400s_16c",
+    "name": "LONG_DRIFT_2400s_16c",
     "studySetName": "LONG_DRIFT",
     "recordings": [
         {
@@ -123,5 +123,5 @@
             "spikeSign": -1
         }
     ],
-    "self_reference": "sha1://a5bb33fe3ca677a727acab774e5d94cf17f31618/file.json"
+    "self_reference": "sha1://2de6809b02d23b7fd7d7f318e963eb95b3650d80/file.json"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "2400s_16c",
+    "name": "LONG_STATIC_2400s_16c",
     "studySetName": "LONG_STATIC",
     "recordings": [
         {
@@ -123,5 +123,5 @@
             "spikeSign": -1
         }
     ],
-    "self_reference": "sha1://be91fe3831492d1eee673d9bd4bacd019a9540db/file.json"
+    "self_reference": "sha1://9135210fa2ceab6c0f9d5031a938c6ac318d6f5e/file.json"
 }
