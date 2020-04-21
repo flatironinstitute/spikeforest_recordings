@@ -55,10 +55,10 @@ def mkdir_(path_to):
 
 def register_study(*, path_from, path_to, studyset_name, study_name, to='default_readwrite'):
     list_rec = [str(f) for f in os.listdir(path_from) if os.path.isdir(os.path.join(path_from, f))]
-
+    studyName=studyset_name + '_' + study_name
     print('# files: {}'.format(len(list_rec)))
     study_obj = dict(
-        name=study_name,
+        name=studyName,
         studySetName=studyset_name,
         recordings=[]
     )
@@ -72,7 +72,7 @@ def register_study(*, path_from, path_to, studyset_name, study_name, to='default
             samplerate=rec.get_sampling_frequency())
         recording_obj = dict(
             name=rec1,
-            studyName=studyset_name + '_' + study_name,
+            studyName=studyName,
             studySetName=studyset_name,
             directory=ka.store_dir(path_rec1),
             firingsTrue=ka.store_file(os.path.join(path_to, rec1+'.firings_true.json'), basename='firings_true.json'),
