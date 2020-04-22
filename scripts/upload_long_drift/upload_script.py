@@ -8,7 +8,7 @@ import hither
 import kachery as ka
 import os
 
-studyset_name = 'LONG_DRIFT'
+studySetName = 'LONG_DRIFT'
 path_from = '/mnt/ceph/users/jjun/groundtruth/long_drift'
 path_to = '/mnt/home/jjun/src/spikeforest_recordings/recordings/LONG_DRIFT'
 
@@ -53,13 +53,12 @@ def mkdir_(path_to):
         os.mkdir(path_to)
 
 
-def register_study(*, path_from, path_to, studyset_name, study_name, to='default_readwrite'):
+def register_study(*, path_from, path_to, studySetName, studyName, to='default_readwrite'):
     list_rec = [str(f) for f in os.listdir(path_from) if os.path.isdir(os.path.join(path_from, f))]
-    studyName=studyset_name + '_' + study_name
     print('# files: {}'.format(len(list_rec)))
     study_obj = dict(
         name=studyName,
-        studySetName=studyset_name,
+        studySetName=studySetName,
         recordings=[]
     )
     mkdir_(path_to)
@@ -73,7 +72,7 @@ def register_study(*, path_from, path_to, studyset_name, study_name, to='default
         recording_obj = dict(
             name=rec1,
             studyName=studyName,
-            studySetName=studyset_name,
+            studySetName=studySetName,
             directory=ka.store_dir(path_rec1),
             firingsTrue=ka.store_file(os.path.join(path_to, rec1+'.firings_true.json'), basename='firings_true.json'),
             sampleRateHz=rec.get_sampling_frequency(),
@@ -86,7 +85,7 @@ def register_study(*, path_from, path_to, studyset_name, study_name, to='default
         # update .json files
         register_recording(recdir=path_rec1, output_fname=os.path.join(path_to, rec1+'.json'), label=rec1)
     study_obj['self_reference'] = ka.store_object(study_obj)
-    with open(os.path.join(path_to, study_name + '.json'), 'w') as f:
+    with open(os.path.join(path_to, studyName + '.json'), 'w') as f:
         json.dump(study_obj, f, indent=4)
     return study_obj
     
@@ -99,18 +98,19 @@ mkdir_(path_to)
 list_study_obj = []
 list_study_name = [str(f) for f in os.listdir(path_from) if os.path.isdir(os.path.join(path_from, f))]
 for study_name in list_study_name:
+    studyName = studySetName + '_' + study_name
     study_obj = register_study(
         path_from = join_path(path_from, study_name),
-        path_to = join_path(path_to, study_name),
-        studyset_name = studyset_name,
-        study_name = study_name
+        path_to = join_path(path_to, studyName),
+        studySetName = studySetName,
+        studyName = studyName
     )
     list_study_obj.append(study_obj)
 
 studyset_obj = dict(
-    name=studyset_name,
+    name=studySetName,
     info=dict(
-        label=studyset_name,
+        label=studySetName,
         electrode_type='silicon-probe',
         doi='',
         ground_truth='eMouse simulator from Kilosort2, linear drift',
@@ -140,5 +140,5 @@ studyset_obj = dict(
 )
 
 studyset_obj['self_reference'] = ka.store_object(studyset_obj)
-with open(os.path.join(path_to, studyset_name + '.json'), 'w') as f:
+with open(os.path.join(path_to, studySetName + '.json'), 'w') as f:
     json.dump(studyset_obj, f, indent=4)
