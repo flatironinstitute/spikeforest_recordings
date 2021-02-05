@@ -42,9 +42,11 @@ def self_tag(myobject: Any, filename: str):
         print(f'Now re-overwrite {myobject} to {filename}')
     if DRY_RUN: return
 
-    new_ref = kp.store_object(myobject) # Note, we aren't using json.dumps(myobject, indent=4) to file--kachery takes care of it for us
+    new_ref = kp.store_object(myobject)
     myobject['self_reference'] = new_ref
-    kp.store_object(myobject)
+    with open(filename, 'w') as f:
+        f.write(json.dumps(myobject, indent=4))
+    # kp.store_object(myobject)
 
 
 def main():
