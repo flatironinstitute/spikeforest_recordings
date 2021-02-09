@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_600s/sorter3_1/raw.mda",
+    "raw": "sha1://c9f44d6f1194852089e78710ac224ef9525bb2ea/raw.mda?manifest=d2054c5e4b05e0bc267a996c15668e44c343e78d",
     "params": {
         "samplerate": 30000,
         "adjacency_radius": 100,
@@ -24,5 +24,5 @@
             1.0
         ]
     ],
-    "self_reference": "sha1://313717ea2b782c569ed4985673f4426e8fc6f39e/MANUAL_FRANKLAB/manual_tetrode_600s/sorter3_1.json"
+    "self_reference": "sha1://731426f60b0c561c453cbc09e01d256655f6c806/sorter3_1.json"
 }

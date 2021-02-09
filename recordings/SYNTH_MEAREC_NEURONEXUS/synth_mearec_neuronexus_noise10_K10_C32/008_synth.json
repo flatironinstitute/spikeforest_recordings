@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://8f20a47b4b4f23f0df618c805569b03ec3f9a1c5.patched/raw.mda",
+    "raw": "sha1://5148bfe4ec2e29f33a0da60e720fc966100c71f5/raw.mda?manifest=8ed95b40b7698b34e4eed0bc9f16aff4c97ceb9d",
     "params": {
         "samplerate": 30000.0,
         "spike_sign": -1
@@ -134,5 +134,5 @@
             107.8125
         ]
     ],
-    "self_reference": "sha1://39aa9b97750b1c63d538d5d2ce8ef83e6d079131/SYNTH_MEAREC_NEURONEXUS/synth_mearec_neuronexus_noise10_K10_C32/008_synth.json"
+    "self_reference": "sha1://29252f3cfa871582ac32d4c10d848fab7ad18870/008_synth.json"
 }

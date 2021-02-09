@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_C_2B/firings_true.mda",
-    "self_reference": "sha1://b44094bfe30a58a6e7af1c6806059865e8da44d5/SYNTH_BIONET/synth_bionet_static/static_8x_C_2B.firings_true.json"
+    "firings": "sha1://761adb31f33d758cef44b846ed25030422e84121/firings_true.mda?manifest=3a9bad993d7769ad8a615e3cf0735bdc65cf8ab0",
+    "self_reference": "sha1://10a2ad646982ccf29ef5ef9132ca3f9ea27a8fd3/static_8x_C_2B.firings_true.json"
 }

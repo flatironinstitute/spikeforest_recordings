@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_4/firings_true.mda",
-    "self_reference": "sha1://6e450b8b4990855cb20df129c0e1347dc5e863c8/SYNTH_MONOTRODE/neurocube_sim2_2K10/simulation_4.firings_true.json"
+    "firings": "sha1://43ea3b90beedbf518b4212d49fc2ce379753ab78/firings_true.mda",
+    "self_reference": "sha1://26f5612b18bb4584425fc3ff6d0b150f1000c277/simulation_4.firings_true.json"
 }

@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/kampff/c14_ch4/raw.mda",
+    "raw": "sha1://a9db7bc5133b7c3717d675f101fa5ffb36ec0d37/raw.mda?manifest=72471aaf10943edabaacbe5fc09c96f717ab85fb",
     "params": {
         "spike_sign": -1,
         "samplerate": 30000,
@@ -9,5 +9,5 @@
         27.0,
         1640.0
     ],
-    "self_reference": "sha1://2c2264d8f04b693640929fb0c8815e8fd6e668a5/PAIRED_MONOTRODE/paired_monotrode_kampff/c14_ch4.json"
+    "self_reference": "sha1://8ceec29ec2e28745a6236863d19409bc62575941/c14_ch4.json"
 }
