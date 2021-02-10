@@ -6,302 +6,302 @@
             "name": "1103_1_1_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch1/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 464.5376,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4a08edcd2bc024494e770d001d00d9d62c7bd1df/1103_1_1_ch1.json",
+            "sortingTrueUri": "sha1://8a515e3865a8266136448344fba7b42a3fc5c05b/1103_1_1_ch1.firings_true.json"
         },
         {
             "name": "1103_1_1_ch2",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch2/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 464.5376,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://569318e5996716ead946500bb34c00c6f79c4343/1103_1_1_ch2.json",
+            "sortingTrueUri": "sha1://8a515e3865a8266136448344fba7b42a3fc5c05b/1103_1_1_ch2.firings_true.json"
         },
         {
             "name": "1103_1_1_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/1103_1_1_ch4/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 464.5376,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6c0674f05ca1bddcea80f81246c554cee5c5966d/1103_1_1_ch4.json",
+            "sortingTrueUri": "sha1://8a515e3865a8266136448344fba7b42a3fc5c05b/1103_1_1_ch4.firings_true.json"
         },
         {
             "name": "419_1_7_ch3",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_7_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_7_ch3/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 494.46456666666666,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://cc70e640c0c905b6b0cc9bf8433d559ca3aa10ad/419_1_7_ch3.json",
+            "sortingTrueUri": "sha1://ffccce7d77ab4ea5d090cc58e3840b1c2db1c781/419_1_7_ch3.firings_true.json"
         },
         {
             "name": "419_1_7_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_7_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_7_ch4/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 494.46456666666666,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://28f848805f62e617387c53cfc43a5f2a8884fc00/419_1_7_ch4.json",
+            "sortingTrueUri": "sha1://ffccce7d77ab4ea5d090cc58e3840b1c2db1c781/419_1_7_ch4.firings_true.json"
         },
         {
             "name": "419_1_8_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_8_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/419_1_8_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 490.3003,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://dc0ef9ce76f6cf4c7164519abfcf81e23316ce81/419_1_8_ch1.json",
+            "sortingTrueUri": "sha1://b75f28e19215dc4b5c36148ee42865732df32dbd/419_1_8_ch1.firings_true.json"
         },
         {
             "name": "509_1_1_ch2",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/509_1_1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/509_1_1_ch2/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 486.6634666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://d3fd861ac4b2c118d6a08a18b011290fc6567682/509_1_1_ch2.json",
+            "sortingTrueUri": "sha1://981b2c269f585c092ee480583be60f6c09c9666b/509_1_1_ch2.firings_true.json"
         },
         {
             "name": "513_1_1_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_1_ch4/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 482.331,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8ee88a74b17ace68f06e8fc1e1f98f2246e3c472/513_1_1_ch4.json",
+            "sortingTrueUri": "sha1://6e8f3316116972ac2b1248f249757863ca0c8e97/513_1_1_ch4.firings_true.json"
         },
         {
             "name": "513_1_2_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_2_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_2_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 482.0928666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e8bd5422e64ee96465aad1322a962642cca57781/513_1_2_ch1.json",
+            "sortingTrueUri": "sha1://471ac68168d062959a1cdc8f46308559ca8ba809/513_1_2_ch1.firings_true.json"
         },
         {
             "name": "513_1_2_ch3",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_2_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_1_2_ch3/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 482.0928666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e967de1d51980d15b094dfb42324d0fa6b6ac040/513_1_2_ch3.json",
+            "sortingTrueUri": "sha1://471ac68168d062959a1cdc8f46308559ca8ba809/513_1_2_ch3.firings_true.json"
         },
         {
             "name": "513_2_3_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 483.8983,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1a9ddd01c83205cf6a1ce57d9162b360ade61e8d/513_2_3_ch1.json",
+            "sortingTrueUri": "sha1://b03ead97145d4819be9e07fe0ac30cf44ff40e0b/513_2_3_ch1.firings_true.json"
         },
         {
             "name": "513_2_3_ch2",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch2/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 483.8983,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://87058a17d0bc044032445954b92fdf9536962a3a/513_2_3_ch2.json",
+            "sortingTrueUri": "sha1://b03ead97145d4819be9e07fe0ac30cf44ff40e0b/513_2_3_ch2.firings_true.json"
         },
         {
             "name": "513_2_3_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/513_2_3_ch4/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 483.8983,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://09200823cfe8e636d7c24ef0e5225d60eab6e424/513_2_3_ch4.json",
+            "sortingTrueUri": "sha1://b03ead97145d4819be9e07fe0ac30cf44ff40e0b/513_2_3_ch4.firings_true.json"
         },
         {
             "name": "531_2_1_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_1_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 604.027,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b47cb35d6eddf9067bab757fcd0e359c793deccf/531_2_1_ch1.json",
+            "sortingTrueUri": "sha1://33ab2dab2f2f285a1dadda445a9a54b55d99767a/531_2_1_ch1.firings_true.json"
         },
         {
             "name": "531_2_1_ch2",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_1_ch2/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 604.027,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://7b0eec889df34f35558348c29d05d4ed345ffad3/531_2_1_ch2.json",
+            "sortingTrueUri": "sha1://33ab2dab2f2f285a1dadda445a9a54b55d99767a/531_2_1_ch2.firings_true.json"
         },
         {
             "name": "531_2_2_ch2",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_2_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_2_ch2/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 487.6024,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://985e60c62cf5acffaaf8d8d9954e584956597774/531_2_2_ch2.json",
+            "sortingTrueUri": "sha1://a7845735c32d207719d447e90ecad948cc01d045/531_2_2_ch2.firings_true.json"
         },
         {
             "name": "531_2_2_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_2_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_2_ch4/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 487.6024,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://7a230b9682c0c743bf0f2d38682b906b939b1dc7/531_2_2_ch4.json",
+            "sortingTrueUri": "sha1://a7845735c32d207719d447e90ecad948cc01d045/531_2_2_ch4.firings_true.json"
         },
         {
             "name": "624_2_1_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_2_1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_2_1_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 481.6574,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://90bcec2c837ba66c5a1cbd04a2507a382f581701/624_2_1_ch1.json",
+            "sortingTrueUri": "sha1://d3885f5fcffa7518fc1d8251a3aaf0c488223184/624_2_1_ch1.firings_true.json"
         },
         {
             "name": "624_2_1_ch3",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_2_1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_2_1_ch3/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 481.6574,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://65d46e7883c80faafcb372c595eac14670951699/624_2_1_ch3.json",
+            "sortingTrueUri": "sha1://d3885f5fcffa7518fc1d8251a3aaf0c488223184/624_2_1_ch3.firings_true.json"
         },
         {
             "name": "624_5_1_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_1_ch4/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 486.02616666666665,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://fb48e87ebbe2cce31ef26b8479e3a0282e10107e/624_5_1_ch4.json",
+            "sortingTrueUri": "sha1://e8f7135eadb9f79924330838e354acc7ca95e421/624_5_1_ch4.firings_true.json"
         },
         {
             "name": "624_5_2_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_2_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_2_ch1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 482.1062333333333,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://0f3631c4e0b35e737b129eff6ad18a90fcd8f2a5/624_5_2_ch1.json",
+            "sortingTrueUri": "sha1://2772d46d6b64759afc454f6b4314b385eb7cdcd6/624_5_2_ch1.firings_true.json"
         },
         {
             "name": "624_5_2_ch3",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_2_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/624_5_2_ch3/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 1,
             "durationSec": 482.1062333333333,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://91811765eed5bf7e907cf6aa4e0ea1f4ffaf53a7/624_5_2_ch3.json",
+            "sortingTrueUri": "sha1://2772d46d6b64759afc454f6b4314b385eb7cdcd6/624_5_2_ch3.firings_true.json"
         },
         {
             "name": "915_10_1_ch4",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_10_1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_10_1_ch4/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 487.9872,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b973e2865581992f5f12211c3edc18d2ba60715d/915_10_1_ch4.json",
+            "sortingTrueUri": "sha1://4bea9b02cd264da779c63dee4b868cb24ba11388/915_10_1_ch4.firings_true.json"
         },
         {
             "name": "915_17_1_ch3",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_17_1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_17_1_ch3/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 493.568,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f406fc36ad413f4ee93fa7e4f372ac7088d59c65/915_17_1_ch3.json",
+            "sortingTrueUri": "sha1://4f64b499965a1398a5540db7de8bea280a10ccaa/915_17_1_ch3.firings_true.json"
         },
         {
             "name": "915_18_1_ch1",
             "studyName": "paired_monotrode_boyden32c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_18_1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/915_18_1_ch1/firings_true.mda",
             "sampleRateHz": 25000.0,
             "numChannels": 1,
             "durationSec": 469.6576,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a7926bf3cfbfc4f0f6ea3d9b6d5e448525248fb9/915_18_1_ch1.json",
+            "sortingTrueUri": "sha1://67aa892bb66517c121d9c83469182321fa49ea1b/915_18_1_ch1.firings_true.json"
         }
     ],
-    "self_reference": "sha1://e3d59f1058f5c773c384a1b561cd21fe82452d9e/paired_monotrode_boyden32c.json"
+    "self_reference": "sha1://9b32bb012889ab8da90c9fe06054a098feba62eb/paired_monotrode_boyden32c.json"
 }

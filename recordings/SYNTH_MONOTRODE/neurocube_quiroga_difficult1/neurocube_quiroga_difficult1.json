@@ -6,50 +6,50 @@
             "name": "C_Difficult1_noise005",
             "studyName": "neurocube_quiroga_difficult1",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise005",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise005/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 60.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://30f37d16eaffdf91a902a42b9e81d5205ec44a34/C_Difficult1_noise005.json",
+            "sortingTrueUri": "sha1://9da5a2fb0343376a3aee2a5ba4f9d7d7b454fbb8/C_Difficult1_noise005.firings_true.json"
         },
         {
             "name": "C_Difficult1_noise01",
             "studyName": "neurocube_quiroga_difficult1",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise01",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise01/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 60.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e09d1c50f5d8ab53dbceaeb05fb4126f59b6bf5e/C_Difficult1_noise01.json",
+            "sortingTrueUri": "sha1://8e0f3ea1e3f4a4a303b360c6158d17f1371a0837/C_Difficult1_noise01.firings_true.json"
         },
         {
             "name": "C_Difficult1_noise015",
             "studyName": "neurocube_quiroga_difficult1",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise015",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise015/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 60.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://25e95b979ee36f5ad9d93bfbd33e87aa55648dc4/C_Difficult1_noise015.json",
+            "sortingTrueUri": "sha1://7857b96bbc1fe17048fc92653d25aca24c45b9cf/C_Difficult1_noise015.firings_true.json"
         },
         {
             "name": "C_Difficult1_noise02",
             "studyName": "neurocube_quiroga_difficult1",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise02",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_difficult1/C_Difficult1_noise02/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 60.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f07b2f02411fd0b2b564010e5467894d7f4f2b31/C_Difficult1_noise02.json",
+            "sortingTrueUri": "sha1://9df2b0cd75d8483df17fb26baf6d2bcb0df0be74/C_Difficult1_noise02.firings_true.json"
         }
     ],
-    "self_reference": "sha1://f254fa592211a30a19e7f1ab7cc121e7868dfd40/neurocube_quiroga_difficult1.json"
+    "self_reference": "sha1://fd01d39dc13b1329e282b555aa03b9e9d6e609de/neurocube_quiroga_difficult1.json"
 }

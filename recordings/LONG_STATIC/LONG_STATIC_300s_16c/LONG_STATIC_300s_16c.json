@@ -6,122 +6,122 @@
             "name": "009_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://2b7b2b25d3876c218b84af64aab0abb50767a0f0.009_synth",
-            "firingsTrue": "sha1://e84e6bb6e9cfb51095c48ff4704ad55a12789157/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5aa60d50450dc78753d3aa4e645a2832f4d58982/009_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/009_synth.firings_true.json"
         },
         {
             "name": "008_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://5d1ad673f8cbf9fba9d9c65d13606ffe47b22e56.008_synth",
-            "firingsTrue": "sha1://94e134e029aae67a10fae7e990f2b44fa28bb27b/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://35e697b556f70d2fa81d56b3d7d60a086b51ed3c/008_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/008_synth.firings_true.json"
         },
         {
             "name": "007_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://912b5029264cf7de16efa59ccef8b64e555cef19.007_synth",
-            "firingsTrue": "sha1://c6134e8793cc1d336ac94b251cefd63fcd2f16b6/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://925e55142503303932222404ce71b1cb6d25bb38/007_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/007_synth.firings_true.json"
         },
         {
             "name": "003_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://2e16477dbe012f288785c39eb2de5862b2a7de94.003_synth",
-            "firingsTrue": "sha1://1646c31eb3d56bb9a746f3c0d5b84d134959c6cc/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://981132a44b5d320512692d86e5ca947c3b4ea6d5/003_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/003_synth.firings_true.json"
         },
         {
             "name": "005_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://39c234f1fb4fbae1878918244afb82028e06876a.005_synth",
-            "firingsTrue": "sha1://4a388cbcf164b31d6c06f4956abab790e3d2cdc1/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a48f946f7de6795984bb0b53408353a872048ee8/005_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/005_synth.firings_true.json"
         },
         {
             "name": "010_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://29bafc2c27159c315ec84868d5f72c0b8838b7ce.010_synth",
-            "firingsTrue": "sha1://d878cb0c2190e1c4db89deee7b5185e570baabe9/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8a508ff8da8c1b2c3d358693c90ade9b804bf727/010_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/010_synth.firings_true.json"
         },
         {
             "name": "006_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://40db6b6ea897a144e8a30699dfb1b0d392200076.006_synth",
-            "firingsTrue": "sha1://f30ea8130857aabdcb1892f7177c39c05ccacf24/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://993e36d9e0cad99d4d0674422a4144ca3c32e020/006_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/006_synth.firings_true.json"
         },
         {
             "name": "002_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://9e5516d432d77466c6580e8ca574729672a84d8d.002_synth",
-            "firingsTrue": "sha1://188f8ff8e0376df13402699e0ea7a20596607f86/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://d76150d84f6099c4949a23318fbc86a211b764c4/002_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/002_synth.firings_true.json"
         },
         {
             "name": "001_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://bd2fc6375b6de274a6be502b42ef2467b90ee158.001_synth",
-            "firingsTrue": "sha1://554be5fc93756f85402b360d7b96bd0ec6d753eb/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5d4d0d9575edeaaf104193cceb57dd89e4715380/001_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/001_synth.firings_true.json"
         },
         {
             "name": "004_synth",
             "studyName": "LONG_STATIC_300s_16c",
             "studySetName": "LONG_STATIC",
-            "directory": "sha1dir://182e8f21c5a0c53fca70b75313924a89d33b0f35.004_synth",
-            "firingsTrue": "sha1://7992d9278dab0268c3d9bd27b4e51dc9cea92cc4/firings_true.json",
             "sampleRateHz": 30000,
             "numChannels": 16,
             "durationSec": 300.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8e3859ddd540a09f0bf1b1e941c20df3138ea27c/004_synth.json",
+            "sortingTrueUri": "sha1://f97d2f15878a7b01463912d49dce8d42322dca02/004_synth.firings_true.json"
         }
     ],
-    "self_reference": "sha1://e49c31de507698ae375ce3a49383d46fa8cef17e/file.json"
+    "self_reference": "sha1://96d47a8ea84ed222d22f855ca8f1b2baff97400d/LONG_STATIC_300s_16c.json"
 }
