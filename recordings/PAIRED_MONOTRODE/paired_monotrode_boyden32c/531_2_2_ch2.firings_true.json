@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/boyden32c/531_2_2_ch2/firings_true.mda",
-    "self_reference": "sha1://73f94eefa3fc2ee9bfa78128b0c1536e194ac8bb/PAIRED_MONOTRODE/paired_monotrode_boyden32c/531_2_2_ch2.firings_true.json"
+    "firings": "sha1://9845993ae4ade0418d25d27b53f939679c5989f9/firings_true.mda",
+    "self_reference": "sha1://a7845735c32d207719d447e90ecad948cc01d045/531_2_2_ch2.firings_true.json"
 }

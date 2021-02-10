@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/003_synth/raw.mda",
+    "raw": "sha1://06c76c99a9fa935a46d21ca5dca6a3e1b6bc54be/raw.mda?manifest=ceebd1d28e2202ba56545dbfe0ad0dc897ffff31",
     "params": {
         "samplerate": 30000.0,
         "spike_sign": -1
@@ -22,5 +22,5 @@
             3.0
         ]
     ],
-    "self_reference": "sha1://64e4ab61051c37835b54d21482c2460e762633ea/SYNTH_MEAREC_TETRODE/synth_mearec_tetrode_noise10_K10_C4/003_synth.json"
+    "self_reference": "sha1://6e2b76b6f3158a8ae9a4011c86b5e6ee10b18368/003_synth.json"
 }

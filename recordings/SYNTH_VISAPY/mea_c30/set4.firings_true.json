@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set4/firings_true.mda",
-    "self_reference": "sha1://512365f5fd117236cde8213427769db01662a31a/SYNTH_VISAPY/mea_c30/set4.firings_true.json"
+    "firings": "sha1://744b79a5f71d9da313b71039b75de64038f6877a/firings_true.mda",
+    "self_reference": "sha1://9ed1a70cc3bbb0f62c5b8da0cabdba1e7201e533/set4.firings_true.json"
 }

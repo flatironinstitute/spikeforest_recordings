@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set5/raw.mda",
+    "raw": "sha1://8e8359fafbfa93ab910811fd5d0ec902f0242431/raw.mda?manifest=5f631ca6a50f0e44e303161d45345237b0c3799a",
     "params": {
         "spike_sign": -1,
         "samplerate": 32000,
@@ -127,5 +127,5 @@
             0.0
         ]
     ],
-    "self_reference": "sha1://1b688342a764c2b2f42d07d61eed4a3a96c45875/SYNTH_VISAPY/mea_c30/set5.json"
+    "self_reference": "sha1://6c6992fbf95d75f27794246e22bb1ad8290fafb8/set5.json"
 }

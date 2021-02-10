@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://49b1fe491cbb4e0f90bde9cfc31b64f985870528.paired_boyden32c/915_18_1/raw.mda",
+    "raw": "sha1://bc3f25d483c041f6c8c39b580053ebb808b188ef/raw.mda?manifest=572d2e7970de8d28ed137b0fff2fa589d76ec225",
     "params": {
         "spike_sign": -1,
         "samplerate": 30000,
@@ -135,5 +135,5 @@
             671.0
         ]
     ],
-    "self_reference": "sha1://b80c43f37f544f897a89b42befb601f91900c8f6/PAIRED_BOYDEN/paired_boyden32c/915_18_1.json"
+    "self_reference": "sha1://12bbed68c55fb90fa04a043a0c6473b96d6a2ed4/915_18_1.json"
 }

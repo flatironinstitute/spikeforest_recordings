@@ -1,5 +1,5 @@
 {
-    "raw": "sha1://eb0eb020b36b8580c8bfa6321c76ad25af4246e1/raw.mda",
+    "raw": "sha1://eb0eb020b36b8580c8bfa6321c76ad25af4246e1/raw.mda?manifest=9ffcd7929c3261737d3c48fed27158607a2ebba5",
     "params": {
         "spike_sign": -1,
         "samplerate": 30000
@@ -38,5 +38,5 @@
             280.0
         ]
     ],
-    "self_reference": "sha1://946f086841b6c8f6979dd0c8193d3d772284a0fd/004_synth.json"
+    "self_reference": "sha1://4a89c17c6d19f1df3e899f15881bdd0c0404d3df/004_synth.json"
 }

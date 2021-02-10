@@ -1,4 +1,4 @@
 {
-    "firings": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/crcns/d11222_d1122206_ch3/firings_true.mda",
-    "self_reference": "sha1://b80a9eb450e718c4df27114b032ab8ca5962d2b1/PAIRED_MONOTRODE/paired_monotrode_crcns/d11222_d1122206_ch3.firings_true.json"
+    "firings": "sha1://1a04c0b86170e1d634ca83a6882f3b302f00c2ec/firings_true.mda",
+    "self_reference": "sha1://f48d757f933aa7d603dc046fb5fad3d11ac04bf7/d11222_d1122206_ch3.firings_true.json"
 }

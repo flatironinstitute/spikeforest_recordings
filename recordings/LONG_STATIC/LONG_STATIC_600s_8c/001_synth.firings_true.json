@@ -1,4 +1,4 @@
 {
-    "firings": "sha1://fa2d34a18efd7e98e0be6145c0c5d36f35a7797b/firings_true.mda",
-    "self_reference": "sha1://ffeb06998cbf50ef2a5bb268f228084885bc06f0/001_synth.firings_true.json"
+    "firings": "sha1://fa2d34a18efd7e98e0be6145c0c5d36f35a7797b/firings_true.mda?manifest=33a78ddf705dad468ab5ed5d5ae5c9a3372b1ae8",
+    "self_reference": "sha1://8653b786a127dcbb12bda929dcab78adfc71afd2/001_synth.firings_true.json"
 }
