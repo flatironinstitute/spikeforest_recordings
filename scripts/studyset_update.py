@@ -31,7 +31,7 @@ def check_file_relevance(filename: str, directory_tail: str):
 
 
 def check_study_file(file_object: Any):
-    if 'recordingUri' not in file_object or 'sortingTrueUri' not in file_object:
+    if 'recordings' not in file_object or 'studySetName' not in file_object:
         return False
     return True
 
@@ -68,6 +68,7 @@ def process_file(fname: str, cwd: str):
         hydrated_study_file = json.loads(slurp(study_file))
         if not (check_study_file(hydrated_study_file)):
             print(f"Study file {study_file} is missing a key and does not seem to be a study file.")
+            print(f"Its keys: {hydrated_study_file.keys()}")
             continue
         studies.append(hydrated_study_file)
     hydrated_file['studies'] = studies
