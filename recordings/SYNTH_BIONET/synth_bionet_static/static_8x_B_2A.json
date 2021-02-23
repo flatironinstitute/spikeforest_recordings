@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://abc900f5cd62436e7c89d914c9f36dcd7fcca0e7.synth_bionet/bionet_static/static_8x_B_2A/raw.mda",
+    "raw": "sha1://d15c1ccc75d91cfdad733a1fe13db1aed34b1a76/raw.mda?manifest=8887a53ea24df90548e3281f8499a28bc0f10904",
     "params": {
         "samplerate": 20000,
         "spike_sign": -1,
@@ -247,5 +247,5 @@
             580.0
         ]
     ],
-    "self_reference": "sha1://0a8307469f584b3bc09959512b0396042fcebdbd/SYNTH_BIONET/synth_bionet_static/static_8x_B_2A.json"
+    "self_reference": "sha1://fbf64ade9975e73f302fbf5b139dc2eacf303ecb/static_8x_B_2A.json"
 }

@@ -21,353 +21,353 @@
                     "name": "m26_190524_100859_cell3",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://2108396af47d85b2d44a88d1fa0944ec8d8572fc.m26_190524_100859_cell3",
-                    "firingsTrue": "sha1://924a22045736c5a8b45d85c5ced42d42d308e699/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 4,
                     "durationSec": 1453.0033333333333,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://e53e1c560d15a789432629baaa53b5cf3ef5b389/m26_190524_100859_cell3.json",
+                    "sortingTrueUri": "sha1://0401e366e38657920f98858d0ed581ffcca99d02/m26_190524_100859_cell3.firings_true.json"
                 },
                 {
                     "name": "m57_191105_160026",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://fd5b43e63c3a3c31ef169851ced360e29f3951b7.m57_191105_160026",
-                    "firingsTrue": "sha1://3f4d2bb6ef90dbdac47fd6b6780602abd66f1c48/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 343.4533333333333,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://a073b6635c3095d26beff7800f1f91fb6058e994/m57_191105_160026.json",
+                    "sortingTrueUri": "sha1://d02ff03d7a13562838358fc7e8fbbe4e4fca66e5/m57_191105_160026.firings_true.json"
                 },
                 {
                     "name": "m113_191125_204935",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://81aaca2eec47bc87b3fcd8edff4e6f8f33a22c9b.m113_191125_204935",
-                    "firingsTrue": "sha1://395afd7d66ba17783a1c0735161b052304f7824a/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 321.696,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://6e959952dbb9ededef8990d7a73ddae318f10e0f/m113_191125_204935.json",
+                    "sortingTrueUri": "sha1://f6a108a1d6db627e9953a7442b89ba8ec7be04a1/m113_191125_204935.firings_true.json"
                 },
                 {
                     "name": "m57_191105_141906",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://0bb0a552127ef99f8e178c8624559aa3876253c4.m57_191105_141906",
-                    "firingsTrue": "sha1://eb052ac8dabe274fe425f2c87a7300adcba25411/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 201.921,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://afb9e35b9ca65c5dbabb3b0d6ecd8dd82528b76e/m57_191105_141906.json",
+                    "sortingTrueUri": "sha1://4dc6f696dff5126c94fb289860110acbf0d5c40d/m57_191105_141906.firings_true.json"
                 },
                 {
                     "name": "m139_200114_222743",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://3475b4176c43e4ecef075b322695cfa2204c12fe.m139_200114_222743",
-                    "firingsTrue": "sha1://039882822e1238fd5c263704200d531d32c88d71/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 1267.6617,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://1e96f3a84d518e5c8e1beda2479c07767261f53c/m139_200114_222743.json",
+                    "sortingTrueUri": "sha1://74b7c70f6a834e617f5eaa3937a96d28f4722454/m139_200114_222743.firings_true.json"
                 },
                 {
                     "name": "m15_190315_150831_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://5e36763f7e0626b78602a460855f44215dce16e4.m15_190315_150831_cell1",
-                    "firingsTrue": "sha1://8fb3325e550b581faa7ec276f7c6ed2ef7dee828/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 460.0,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://b5db5638ab45da651a9659e7c6916a1a8adefc34/m15_190315_150831_cell1.json",
+                    "sortingTrueUri": "sha1://35ef15ea0b5b1047443d1c855b8c7be275ac24fe/m15_190315_150831_cell1.firings_true.json"
                 },
                 {
                     "name": "m139_200114_205038",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://ae871fba9c086a97c94ab5ff934047e32437267c.m139_200114_205038",
-                    "firingsTrue": "sha1://35ed0e469350778c557f4c09e6e812a15d586ec4/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 982.1433333333333,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://e7ddbf008a230f2fa1c97b107cceb8a5a7bc16bc/m139_200114_205038.json",
+                    "sortingTrueUri": "sha1://185426abe622766eb7cd6db2ad8ad7447dec5ef6/m139_200114_205038.firings_true.json"
                 },
                 {
                     "name": "m57_191105_161455",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://13f7d8bb63128dfc7c4674691cd6a177b2693655.m57_191105_161455",
-                    "firingsTrue": "sha1://91b0d8ab7cbbd2b874e5c3558927f8f365848d43/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 720.08,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://62d06122f72a360bdb8c0c7993d1de1b516410ab/m57_191105_161455.json",
+                    "sortingTrueUri": "sha1://ef370244b306d7c705251575be6afe6f0907d714/m57_191105_161455.firings_true.json"
                 },
                 {
                     "name": "m139_200114_191955",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://1c656b4c9445fa8060af7e27b785dbc1a5ccff84.m139_200114_191955",
-                    "firingsTrue": "sha1://dc544ab9654a67cdc564753961f416b7f4135cd2/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 2003.1033333333332,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://da1a87063a953f7d066c16e07433bbea874ee76a/m139_200114_191955.json",
+                    "sortingTrueUri": "sha1://aea7b02079024062f2d13bb9365e20cb0b87e6fb/m139_200114_191955.firings_true.json"
                 },
                 {
                     "name": "m108_191125_171427",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://240b1ffa0588083f522e45473b05c8df1922a416.m108_191125_171427",
-                    "firingsTrue": "sha1://a3b6d7112fecbca3503fd749d5382af547d6d797/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 1568.7967,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://c42cf7dda108d2690206589440e995e6af01d08f/m108_191125_171427.json",
+                    "sortingTrueUri": "sha1://65f1383676591ec8f77331c4a8d50885cefd5a8e/m108_191125_171427.firings_true.json"
                 },
                 {
                     "name": "m57_191105_153915",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://9621ff8a17d336e981ba7c7bffa05996dec3c842.m57_191105_153915",
-                    "firingsTrue": "sha1://88fba3eafc809df895153db70b108877166d5b14/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 1087.2,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://433c65378303f6a506832a145e70c108edd46421/m57_191105_153915.json",
+                    "sortingTrueUri": "sha1://f1b419aebe5b72b4b85d6837c2e8ec82ae50d972/m57_191105_153915.firings_true.json"
                 },
                 {
                     "name": "m26_190524_100859_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://6dc298a60661d889e3ec949c169df0298049a925.m26_190524_100859_cell1",
-                    "firingsTrue": "sha1://b9f2269dd37914ae7c8df3e3ce1bef6335749c49/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 4,
                     "durationSec": 742.92,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://7571654446872ceccb4e64f9583ceb09138c3d17/m26_190524_100859_cell1.json",
+                    "sortingTrueUri": "sha1://306394936ea5546e6e37a5f37dca7f9e51190aac/m26_190524_100859_cell1.firings_true.json"
                 },
                 {
                     "name": "m14_190326_155432",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://a7779c84d9d85f1b0e332b450fd4ad86ea2e4170.m14_190326_155432",
-                    "firingsTrue": "sha1://6841b6074377664b9437cd462067f90d743d1ca0/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 297.42766666666665,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://bbf347f379b53879c3bfd159d6220dec8721360d/m14_190326_155432.json",
+                    "sortingTrueUri": "sha1://9c8ea9ec43ac3bbe24bc11a5aceb22135a318c73/m14_190326_155432.firings_true.json"
                 },
                 {
                     "name": "m15_190315_152315_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://2b67f14877c63b8ee161a8e049cff87007746b3b.m15_190315_152315_cell1",
-                    "firingsTrue": "sha1://9f15a4ee3db2d18b6a3b3e0ad632e5d9764cd37f/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 669.3997,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://b6daa771c9b6e2afefec1fa33d64da2cdb58dfba/m15_190315_152315_cell1.json",
+                    "sortingTrueUri": "sha1://3e4cd04fe28bc6e22d9303596600e5f78cc39de7/m15_190315_152315_cell1.firings_true.json"
                 },
                 {
                     "name": "m15_190315_142052_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://16a2e357401d492d860da411e008ec3af0b1a1b9.m15_190315_142052_cell1",
-                    "firingsTrue": "sha1://b1e3751b00638c494cfffd3112218c185afcb4b9/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 847.5800333333333,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://f71399e9278c5e768af2170e20ef2380110a4562/m15_190315_142052_cell1.json",
+                    "sortingTrueUri": "sha1://825caa33c5554f379423bb14ef7a4523e0ac4fe9/m15_190315_142052_cell1.firings_true.json"
                 },
                 {
                     "name": "m113_191125_213423",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://bc95f1a0cbf90ba4bfb3e9ab6aaacd076bb21c87.m113_191125_213423",
-                    "firingsTrue": "sha1://249d20297e123fa3dca09e7cda1a78664944ae28/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 707.3467,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://c7ae9dd670cede20860667386148a8b25fbb3a89/m113_191125_213423.json",
+                    "sortingTrueUri": "sha1://c0e107240e0efcfccbef29125f96ff570c208124/m113_191125_213423.firings_true.json"
                 },
                 {
                     "name": "m52_190731_145204_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://551490ef2ca79f94890fe093a2194353b3cce1b8.m52_190731_145204_cell1",
-                    "firingsTrue": "sha1://8df0371d4f04f63cf871f5e640ebb257fcb73a5f/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 795.0,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://de0d499838f49ee6633d0af89ab07bdaaf987e1b/m52_190731_145204_cell1.json",
+                    "sortingTrueUri": "sha1://fa7e6303134505cd6fffd9c19b696f06c422145c/m52_190731_145204_cell1.firings_true.json"
                 },
                 {
                     "name": "m52_190731_145204_cell3",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://014c0d9bdf9a8239a73952ff249baafc78278bf9.m52_190731_145204_cell3",
-                    "firingsTrue": "sha1://5bb84b23b0c517822cbf7678bbe98a96c6e58b4e/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 867.1867,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://9f12b5b6a239cfcb90595315ab35163f39ef9b84/m52_190731_145204_cell3.json",
+                    "sortingTrueUri": "sha1://055b3c2f8079100432d6d2fdd8a472036b6b6ba7/m52_190731_145204_cell3.firings_true.json"
                 },
                 {
                     "name": "m139_200114_214225",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://8e5386b1723ecce964e9d5994befcc33b10d080e.m139_200114_214225",
-                    "firingsTrue": "sha1://77872b134308bba16962cd360735b209a2dc1cba/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 2291.4883666666665,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://757a2975d13ec01557daf5e8472cd1d6fbdcb801/m139_200114_214225.json",
+                    "sortingTrueUri": "sha1://0af7f0ba5d247a788de73b2507f96deedda5e458/m139_200114_214225.firings_true.json"
                 },
                 {
                     "name": "m26_190524_100859_cell2",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://439ad6a620f3d600ee44dfc959a9dc7c9785191d.m26_190524_100859_cell2",
-                    "firingsTrue": "sha1://d593a9e081b8b4e9c4da28e7c5973ff8bafcc762/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 4,
                     "durationSec": 105.0,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://b7f2f00602a4eed2f5bdfb96d3e26015c2083dee/m26_190524_100859_cell2.json",
+                    "sortingTrueUri": "sha1://b61e352cc2960fc06e6a254c6e8766d69ff0b593/m26_190524_100859_cell2.firings_true.json"
                 },
                 {
                     "name": "m108_191125_163508",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://31fb3b5e03f10e0809c1c3cc5e0c89831abc81a6.m108_191125_163508",
-                    "firingsTrue": "sha1://a471cc43b369e81d7600722253f994fa3ae334ce/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 1017.7367,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://5a351a82cb2eaba09f06ea4721efd695b66ebbdd/m108_191125_163508.json",
+                    "sortingTrueUri": "sha1://d6788e7d85b90e15de8a9ce2be3bfa0f327576ae/m108_191125_163508.firings_true.json"
                 },
                 {
                     "name": "m139_200114_230220",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://2926374a973c5d61fb938f1969e9dc23a709f349.m139_200114_230220",
-                    "firingsTrue": "sha1://5b05cdb98b8702bf96326cefaf432df3a8affdd0/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 964.9800333333334,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://77497bb78fe8f392cca729f563f61240c48894e0/m139_200114_230220.json",
+                    "sortingTrueUri": "sha1://8c5b28ddfcdfc9a5737e588cdaf9cb861a9d26bd/m139_200114_230220.firings_true.json"
                 },
                 {
                     "name": "m139_200114_195433",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://ba7e335fb0d1f00170831af596a0e5ed9580e1a2.m139_200114_195433",
-                    "firingsTrue": "sha1://4273b2b9d644b413ace480189d76392239df7cdd/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 388.96003333333334,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://418666606e1cdaa3ce32c2a3f5385d0143ebaacd/m139_200114_195433.json",
+                    "sortingTrueUri": "sha1://457441ae94bd9116dc9b0a5fa986d5083e067336/m139_200114_195433.firings_true.json"
                 },
                 {
                     "name": "m57_191105_163645",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://bd1848f4fa007cf7f7fd6711ab39a69895eced77.m57_191105_163645",
-                    "firingsTrue": "sha1://ff38f5bf28e6945b3e286353624ebdf22bc18bb3/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 402.06336666666664,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://73a018cdd101e1436fadedc21e14d4a02bd581a4/m57_191105_163645.json",
+                    "sortingTrueUri": "sha1://253ea4e6ad44d3bf9a24172932f3a496fd1f1c7a/m57_191105_163645.firings_true.json"
                 },
                 {
                     "name": "m139_200114_201701",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://30801b25d9fd50ac74fc3b240b33059e683f5724.m139_200114_201701",
-                    "firingsTrue": "sha1://fd1500431a0b43cddec91c9297cfbf9e838a07de/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 756.736,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://4173be35e361ea8549a92cbd26e1d594fd88e7cf/m139_200114_201701.json",
+                    "sortingTrueUri": "sha1://86d720c87a0e4e69c37fe7cc752e1ca3b938a457/m139_200114_201701.firings_true.json"
                 },
                 {
                     "name": "m57_191105_145205",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://8d8ad52c31ecc8f3aa04eb89433a7224814b3b58.m57_191105_145205",
-                    "firingsTrue": "sha1://7a5b969d2a2b9c9b2b612c4bd9a05a755c578cd3/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 872.7807,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://639c07eaecfdfbc22ad2b32b8837fa5d8bac5498/m57_191105_145205.json",
+                    "sortingTrueUri": "sha1://b87bd618b707ecd11f8926b6d80bbd85eb9931e7/m57_191105_145205.firings_true.json"
                 },
                 {
                     "name": "m15_190315_145422",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://b4c5876f140335531fda9dccc1efbcb254cf9e3f.m15_190315_145422",
-                    "firingsTrue": "sha1://0e1974ac0c45571c28c8dc2ebac45b780695e7fa/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 465.13666666666666,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://c69c24605d0ba21d2204717c169c2545bb85c109/m15_190315_145422.json",
+                    "sortingTrueUri": "sha1://bf044b270d931195975236f1ba73d80f975a8793/m15_190315_145422.firings_true.json"
                 },
                 {
                     "name": "m14_190326_160710_cell1",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://f32c8dcd6bfebfcd7959a978aa2fd71bd3e21734.m14_190326_160710_cell1",
-                    "firingsTrue": "sha1://b56d170dc6019d81e41f5a171d5f50e677eaed71/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 856.4697,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://8bf215997ce6712e0d7685443bb7af6b51044534/m14_190326_160710_cell1.json",
+                    "sortingTrueUri": "sha1://d6fad3b36b804b0174140ff28bc814df604d301f/m14_190326_160710_cell1.firings_true.json"
                 },
                 {
                     "name": "m113_191125_235131",
                     "studyName": "paired_english",
                     "studySetName": "PAIRED_ENGLISH",
-                    "directory": "sha1dir://72551456a919cf67c1a01bc84dc9951ff8438bbf.m113_191125_235131",
-                    "firingsTrue": "sha1://772de3e9907c9cc6d6d34481d0012235f6f982ea/firings_true.json",
                     "sampleRateHz": 30000,
                     "numChannels": 32,
                     "durationSec": 329.28,
                     "numTrueUnits": 1,
-                    "spikeSign": -1
+                    "spikeSign": -1,
+                    "recordingUri": "sha1://b51f28a2ab83e0d6f2a52970217444697471ce2f/m113_191125_235131.json",
+                    "sortingTrueUri": "sha1://88f105ac822e0276732192d63383f51fdda0a48f/m113_191125_235131.firings_true.json"
                 }
             ],
-            "self_reference": "sha1://d2d4f4809982d7e75dbe85606dc31e6670e21144/file.json"
+            "self_reference": "sha1://8dad98cd35efe571bf10e8ccba1c8e082600de61/paired_english.json"
         }
     ],
-    "self_reference": "sha1://81443cc3e31e873192bdfe9139d1513b2bbd084e/file.json"
+    "self_reference": "sha1://688c8bfe7923d76844a0c1a20bfa0afe19680814/PAIRED_ENGLISH.json"
 }

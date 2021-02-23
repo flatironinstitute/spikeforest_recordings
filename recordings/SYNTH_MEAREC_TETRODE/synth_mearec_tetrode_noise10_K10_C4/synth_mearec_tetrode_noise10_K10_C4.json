@@ -6,122 +6,122 @@
             "name": "001_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/001_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/001_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9dd040667f67f52048e1c7c185829d09503b4c9f/001_synth.json",
+            "sortingTrueUri": "sha1://3565314d243ddb80f4de133b0b789688c7aec928/001_synth.firings_true.json"
         },
         {
             "name": "002_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/002_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/002_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://0df473fd85afea7837ee9d84e3254df5c3e2163c/002_synth.json",
+            "sortingTrueUri": "sha1://cd97bfb2e24f4eaf82471f3ab85e2d78ff8b70c3/002_synth.firings_true.json"
         },
         {
             "name": "003_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/003_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/003_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6e2b76b6f3158a8ae9a4011c86b5e6ee10b18368/003_synth.json",
+            "sortingTrueUri": "sha1://186f7842fb23a5a6e49caf238bca254a8ab4569a/003_synth.firings_true.json"
         },
         {
             "name": "004_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/004_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/004_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://38e3552f3b033826fc5f6c415136af20ddedad5c/004_synth.json",
+            "sortingTrueUri": "sha1://4ae782928ca00bd5d00ce0f361d039084b9a734b/004_synth.firings_true.json"
         },
         {
             "name": "005_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/005_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/005_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://2b3a4563017c3fecbfe262ebd9e6d5b413f526e1/005_synth.json",
+            "sortingTrueUri": "sha1://51408dcae9508de58a4bae5f036f650b5984a006/005_synth.firings_true.json"
         },
         {
             "name": "006_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/006_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/006_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://12768a95e33525e94c45cefba9f0b168f52dd51e/006_synth.json",
+            "sortingTrueUri": "sha1://f39615deaad92cd18f495f33e86c82c0d33d6bb4/006_synth.firings_true.json"
         },
         {
             "name": "007_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/007_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/007_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://67ab8be29b4216426220b33137214b3a3ee5c1f3/007_synth.json",
+            "sortingTrueUri": "sha1://9fa2a380fee2eee47541813e52e092e61224eb2b/007_synth.firings_true.json"
         },
         {
             "name": "008_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/008_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/008_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://ace782f78726f8fe1658d179e33cff09d91781e0/008_synth.json",
+            "sortingTrueUri": "sha1://e236ac3f7eb3e434213f3bc051c6686da1b5bd61/008_synth.firings_true.json"
         },
         {
             "name": "009_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/009_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/009_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9533c7f877156c846e0a2fe805ee94078952a277/009_synth.json",
+            "sortingTrueUri": "sha1://d756cdba02d45eb25420c40ef4e482eec8142011/009_synth.firings_true.json"
         },
         {
             "name": "010_synth",
             "studyName": "synth_mearec_tetrode_noise10_K10_C4",
             "studySetName": "SYNTH_MEAREC_TETRODE",
-            "directory": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/010_synth",
-            "firingsTrue": "sha1dir://3ea5c9bd992de2d27402b2e83259c679d76e9319.synth_mearec_tetrode/datasets_noise10_K10_C4/010_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e674c088f2b4d78ceaedff83d9ee18e3557675eb/010_synth.json",
+            "sortingTrueUri": "sha1://35002831d009bfc17d0cf94f82236c620e37a35d/010_synth.firings_true.json"
         }
     ],
-    "self_reference": "sha1://42fada3cf629f6b9bed305287a044201137bd0a8/synth_mearec_tetrode_noise10_K10_C4.json"
+    "self_reference": "sha1://450bffe2b17e891d1bd0cb22c5c27852561b5c1a/synth_mearec_tetrode_noise10_K10_C4.json"
 }

@@ -6,182 +6,182 @@
             "name": "2014_11_25_Pair_3_0",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2014_11_25_Pair_3_0",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2014_11_25_Pair_3_0/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 557.218,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a205f87cef8b7f86df7a09cddbc79a1fbe5df60f/2014_11_25_Pair_3_0.json",
+            "sortingTrueUri": "sha1://c656add63d85a17840980084a1ff1cdc662a2cd5/2014_11_25_Pair_3_0.firings_true.json"
         },
         {
             "name": "2015_09_03_Pair_9_0A",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0A",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0A/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 593.248,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b7a850402c22fb51cc477774faf13698d2507dfb/2015_09_03_Pair_9_0A.json",
+            "sortingTrueUri": "sha1://f25a17c5259d7a57d453048d43efcd9de5880e4d/2015_09_03_Pair_9_0A.firings_true.json"
         },
         {
             "name": "2015_09_03_Pair_9_0B",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0B",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/2015_09_03_Pair_9_0B/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 593.248,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6fb23fae859449d4f379e9752da32b368fba1bc0/2015_09_03_Pair_9_0B.json",
+            "sortingTrueUri": "sha1://f25a17c5259d7a57d453048d43efcd9de5880e4d/2015_09_03_Pair_9_0B.firings_true.json"
         },
         {
             "name": "c14",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c14",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c14/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1080.0453666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e506f160e47606bbe2db59b6f2fcb8e6e0e338a4/c14.json",
+            "sortingTrueUri": "sha1://cc697d29fe43391b387e68bd1818983539870bf4/c14.firings_true.json"
         },
         {
             "name": "c16",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c16",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c16/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 675.0283,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f946095989f15fc54ca60d37019b6f96f55b308e/c16.json",
+            "sortingTrueUri": "sha1://fded27ecdfc90cdebf084d0941c03740efda2c4b/c16.firings_true.json"
         },
         {
             "name": "c19",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c19",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c19/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0342666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a0bd03583d807a211a3fedce27a68c2fe76c537a/c19.json",
+            "sortingTrueUri": "sha1://cefd6e93407dc6fb332f46872a1ebe1b3b5ae148/c19.firings_true.json"
         },
         {
             "name": "c21",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c21",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c21/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1080.0454,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6b30313b810be06982a1e176108d7226405d7940/c21.json",
+            "sortingTrueUri": "sha1://416f41e3b3adf284dd2ebac6fa9cc3fc070cbd68/c21.firings_true.json"
         },
         {
             "name": "c24",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c24",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c24/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0341,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b3d6debf131a3a35bb9316c7c0b060b8a53e9cc9/c24.json",
+            "sortingTrueUri": "sha1://283c178a296fdcee72624fd0d5efee11cce35154/c24.firings_true.json"
         },
         {
             "name": "c26",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c26",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c26/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1215.0512666666666,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a882f3717854b4c27a4115e2ba883a4026260b90/c26.json",
+            "sortingTrueUri": "sha1://c12ae5a38167e57d37738ba14f7aa8e4694f4608/c26.firings_true.json"
         },
         {
             "name": "c27",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c27",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c27/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0342,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://980d7f22194e7cc49256430285b65ea9fa61f7f1/c27.json",
+            "sortingTrueUri": "sha1://89edc763f954809a93298843d9c490b01603f285/c27.firings_true.json"
         },
         {
             "name": "c28",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c28",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c28/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0343333333333,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9397eb0fff8c0f4d628d18678028df2fbcce6958/c28.json",
+            "sortingTrueUri": "sha1://3cb36f2e1d56466a67c5b7e1b34051d72e9ea263/c28.firings_true.json"
         },
         {
             "name": "c42",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c42",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c42/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0343,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://50e526ce43bfc0028b4d811a24e7635752e1a4d5/c42.json",
+            "sortingTrueUri": "sha1://cd59944efb5c5a9f1d18ac697ca9e1215e0af090/c42.firings_true.json"
         },
         {
             "name": "c44",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c44",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c44/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 540.0229666666667,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4519dafdfcafba42da76b252ae5ab3c0b6870ac6/c44.json",
+            "sortingTrueUri": "sha1://92aa6319a821e5dee99f9888f3f65b2f8131552c/c44.firings_true.json"
         },
         {
             "name": "c45",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c45",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c45/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0344333333334,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://52a7bd6cb07748e04124179ee1d5562144b62932/c45.json",
+            "sortingTrueUri": "sha1://3a5774558bf2e667a2632df7c3cbe7bbdaf6290c/c45.firings_true.json"
         },
         {
             "name": "c46",
             "studyName": "paired_kampff",
             "studySetName": "PAIRED_KAMPFF",
-            "directory": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c46",
-            "firingsTrue": "sha1dir://51570fce195942dcb9d6228880310e1f4ca1395b.paired_kampff/c46/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 810.0344,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://d0ee9447bd3da3eaad5e2a59d6419cc4dd621c5e/c46.json",
+            "sortingTrueUri": "sha1://4015955b002e17e7e51cbd6cae097f31f78b7149/c46.firings_true.json"
         }
     ],
-    "self_reference": "sha1://68c1e2940181c9e8527a498a818265da974dcdec/paired_kampff.json"
+    "self_reference": "sha1://7b85423dc46f34ebd7b12559d6d2131de1eb7473/paired_kampff.json"
 }

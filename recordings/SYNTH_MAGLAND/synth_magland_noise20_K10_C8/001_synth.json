@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise20_K10_C8/001_synth/raw.mda",
+    "raw": "sha1://90e69e1f361d0bb31d9f61284722442ac3fee7e7/raw.mda?manifest=d7e0842d8f3b04c1348bab2836f00e8dd880b8ca",
     "params": {
         "samplerate": 30000.0,
         "spike_sign": -1
@@ -38,5 +38,5 @@
             0.0
         ]
     ],
-    "self_reference": "sha1://0b6a3dc0c7b73fd236f0fd22aad90d20efaf0ab7/SYNTH_MAGLAND/synth_magland_noise20_K10_C8/001_synth.json"
+    "self_reference": "sha1://38bc18907f3509d714194492d5239ddf896332e5/001_synth.json"
 }

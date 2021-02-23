@@ -6,542 +6,542 @@
             "name": "simulation_13",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_13",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_13/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 15,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://85cb69c3b50116284b17f6869753679b2c9f4bd8/simulation_13.json",
+            "sortingTrueUri": "sha1://23dee57b5221224898a254e61447728046541223/simulation_13.firings_true.json"
         },
         {
             "name": "simulation_14",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_14",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_14/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 11,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://09e71bf0e55f400f62f7c1f3b9111b04269ac8a7/simulation_14.json",
+            "sortingTrueUri": "sha1://c101d1f135e4c35a64932de53b13854cec524094/simulation_14.firings_true.json"
         },
         {
             "name": "simulation_15",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_15",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_15/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 17,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e93b4eb3f3847628967b722eea21a0d2c215e421/simulation_15.json",
+            "sortingTrueUri": "sha1://5fbd90acb395f57248d2dd1481a60039a0066b29/simulation_15.firings_true.json"
         },
         {
             "name": "simulation_16",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_16",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_16/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 2,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://860df07dcf4ccaa34990588a15e9611b1892c416/simulation_16.json",
+            "sortingTrueUri": "sha1://10154470018afbcb3281ed045f1613888f1898f3/simulation_16.firings_true.json"
         },
         {
             "name": "simulation_17",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_17",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_17/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 19,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://bd871f147898ede9a553fc1d2e98102d72c55f3c/simulation_17.json",
+            "sortingTrueUri": "sha1://0d266f98084640cdbd3d9f6ed21c4ad1f2e30770/simulation_17.firings_true.json"
         },
         {
             "name": "simulation_18",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_18",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_18/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a554b12744077e23f7c55517401bc9261f6c53de/simulation_18.json",
+            "sortingTrueUri": "sha1://deb2ac74c92071a0efbdde27256e1cb51f8f9b16/simulation_18.firings_true.json"
         },
         {
             "name": "simulation_21",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_21",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_21/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8a41afbfb2113c6ef9e92aaca8f4ea148f626023/simulation_21.json",
+            "sortingTrueUri": "sha1://f5a93d3d7b99f87f1981961c067461131d873dba/simulation_21.firings_true.json"
         },
         {
             "name": "simulation_22",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_22",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_22/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 9,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://06722248799fc50ff8c1f746554508b7d49972a7/simulation_22.json",
+            "sortingTrueUri": "sha1://efac256d6a8d485e33c34a19c97e514a387151d1/simulation_22.firings_true.json"
         },
         {
             "name": "simulation_24",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_24",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_24/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 9,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1752dbb5c5c152109b8788b40839da8114e9a730/simulation_24.json",
+            "sortingTrueUri": "sha1://4633a6e66d3ada0a6f57a093295f180989bb5190/simulation_24.firings_true.json"
         },
         {
             "name": "simulation_27",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_27",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_27/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 14,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://454bcdd93de856783ad6e2e58462ec3c2dc1945d/simulation_27.json",
+            "sortingTrueUri": "sha1://5c58c4a26987102c9ccd8d4eb217fc5bfa08697f/simulation_27.firings_true.json"
         },
         {
             "name": "simulation_29",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_29",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_29/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 6,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://521e4edc2d5ed4a582a59d63a4907e491afbd138/simulation_29.json",
+            "sortingTrueUri": "sha1://edf7e5463e5088874a69588f6b9a27bea3099a7e/simulation_29.firings_true.json"
         },
         {
             "name": "simulation_30",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_30",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_30/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 6,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://078298ae919927ce16262e2455722b6566148ca6/simulation_30.json",
+            "sortingTrueUri": "sha1://3223b59d500a0441b1e072f3b711ad87e9df1b0b/simulation_30.firings_true.json"
         },
         {
             "name": "simulation_32",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_32",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_32/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 13,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5eb8bdfa9e4b73e0c0235bfaecb3731f410615fc/simulation_32.json",
+            "sortingTrueUri": "sha1://e58aa51124d52ef6b581739ad804d4fecaf74abe/simulation_32.firings_true.json"
         },
         {
             "name": "simulation_33",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_33",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_33/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 5,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://455c4fe807f63c16a3da981b378170412b253d52/simulation_33.json",
+            "sortingTrueUri": "sha1://3339707c8525f03a243371721d301591d406e976/simulation_33.firings_true.json"
         },
         {
             "name": "simulation_34",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_34",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_34/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 14,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://d611d7c9e15f3ff93aa899741cf41e0cc34d7357/simulation_34.json",
+            "sortingTrueUri": "sha1://59f63a9598867f7ea11eaa70418a82de03159df5/simulation_34.firings_true.json"
         },
         {
             "name": "simulation_37",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_37",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_37/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 11,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://46aeb518dad52336795ec46208b6e67814957ff1/simulation_37.json",
+            "sortingTrueUri": "sha1://5ead2c1ec6cc175bb948a4ae15bb4f212fb43991/simulation_37.firings_true.json"
         },
         {
             "name": "simulation_39",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_39",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_39/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 4,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9cb961c5c01bcb039a5d0edb8e54da599464eaa4/simulation_39.json",
+            "sortingTrueUri": "sha1://b2d4db31ccbad2aec6bd765398a5fdebc02dca6c/simulation_39.firings_true.json"
         },
         {
             "name": "simulation_4",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_4",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_4/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 8,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://62e812b9d8e98d3f1a94358ab05a5c12ce7a93a3/simulation_4.json",
+            "sortingTrueUri": "sha1://26f5612b18bb4584425fc3ff6d0b150f1000c277/simulation_4.firings_true.json"
         },
         {
             "name": "simulation_40",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_40",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_40/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 12,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://be0b5f2fa0194c6fb7abbd816983b40208cb499a/simulation_40.json",
+            "sortingTrueUri": "sha1://8a621e33d517487b8039ca90df6aa5b65415eccf/simulation_40.firings_true.json"
         },
         {
             "name": "simulation_42",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_42",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_42/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a8be869f31f31a03a69f9dd447eaf77632c25899/simulation_42.json",
+            "sortingTrueUri": "sha1://c46de3c354aa2b98480d904f1977bdb05eb4a4a1/simulation_42.firings_true.json"
         },
         {
             "name": "simulation_45",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_45",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_45/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 7,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1c677492bd4187bf4c5fe38996389ca4946bc9f7/simulation_45.json",
+            "sortingTrueUri": "sha1://87606df726a64715a8ce53968b3d367347da9477/simulation_45.firings_true.json"
         },
         {
             "name": "simulation_46",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_46",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_46/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 15,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a2d772908ed583968eb57670b7e8745217ec26e6/simulation_46.json",
+            "sortingTrueUri": "sha1://cff0691167440aec61d18500ff2dc708bc1538f9/simulation_46.firings_true.json"
         },
         {
             "name": "simulation_48",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_48",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_48/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://822f1e6c3b3c38c99c263bb284499770ac18fd3e/simulation_48.json",
+            "sortingTrueUri": "sha1://cd178fa37f8fd1295898c0c6870213fb383aea56/simulation_48.firings_true.json"
         },
         {
             "name": "simulation_53",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_53",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_53/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 11,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://27c0a46b20fe578d7924c33b6a73b8277f81f5d4/simulation_53.json",
+            "sortingTrueUri": "sha1://8643c887070dfcedca44abaa5d8ebadb3f05e066/simulation_53.firings_true.json"
         },
         {
             "name": "simulation_54",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_54",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_54/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 14,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://533a8ff5b9861d9372256490c2ae2065904efa35/simulation_54.json",
+            "sortingTrueUri": "sha1://2b801060f4a4e6487d0f9e9c9e311e62ed938b02/simulation_54.firings_true.json"
         },
         {
             "name": "simulation_57",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_57",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_57/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://40adf32537e9450bcca53aa2c33bc92af55824d7/simulation_57.json",
+            "sortingTrueUri": "sha1://b6ef06c04ecbf13b768bd1c4c45278ff7a549018/simulation_57.firings_true.json"
         },
         {
             "name": "simulation_58",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_58",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_58/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 5,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4931be659c55deb5e475451a3f92205d6c99a220/simulation_58.json",
+            "sortingTrueUri": "sha1://d5d57f13145c94d68348b239214a83ab780e7679/simulation_58.firings_true.json"
         },
         {
             "name": "simulation_59",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_59",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_59/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 19,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://368f631a6aa780dea98729a7b58d6306e71f0c6b/simulation_59.json",
+            "sortingTrueUri": "sha1://7fd68f65081a2578327e0586d76250b9bb375c6b/simulation_59.firings_true.json"
         },
         {
             "name": "simulation_62",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_62",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_62/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 2,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://845f8e0b441ab132055eb0319c61aace47563859/simulation_62.json",
+            "sortingTrueUri": "sha1://45fc22a1e9b34a520a4b24f8fdce1ddeb6d69598/simulation_62.firings_true.json"
         },
         {
             "name": "simulation_64",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_64",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_64/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 17,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://21d7cc78afd50fee131314971135ec5ea58bac17/simulation_64.json",
+            "sortingTrueUri": "sha1://78cd9cdaedc7e69497d1d32d0838fbbc2fbe7efc/simulation_64.firings_true.json"
         },
         {
             "name": "simulation_68",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_68",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_68/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 17,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://db2428db3ce86c726965863524ac7abd5f003900/simulation_68.json",
+            "sortingTrueUri": "sha1://ef9449f3e7d586a81c3d58ce6ee366e7a637309c/simulation_68.firings_true.json"
         },
         {
             "name": "simulation_73",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_73",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_73/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 19,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://32e593d4add48cb62505fd8681bdb6e1309b20f3/simulation_73.json",
+            "sortingTrueUri": "sha1://7581dea56cc0afd8eb1b455d4f7361e517f83f81/simulation_73.firings_true.json"
         },
         {
             "name": "simulation_76",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_76",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_76/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://16076dca253e94bf739f393fcd1de49390deb08a/simulation_76.json",
+            "sortingTrueUri": "sha1://eac3e74dd924853de7cc1594adf24da7cd8a774e/simulation_76.firings_true.json"
         },
         {
             "name": "simulation_77",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_77",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_77/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 19,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4400877e8b6647df7b66ad4cd14391c17f55581c/simulation_77.json",
+            "sortingTrueUri": "sha1://b54a9bbc5edca8e8976ce66abbd9c05482b8cc54/simulation_77.firings_true.json"
         },
         {
             "name": "simulation_78",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_78",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_78/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 3,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://eb5600d68a26260a2ccc7bc3d285b2248367232c/simulation_78.json",
+            "sortingTrueUri": "sha1://08c20a40b63c33295a4e3b8a8ea42c6ffa0a1e4c/simulation_78.firings_true.json"
         },
         {
             "name": "simulation_8",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_8",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_8/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9acd3a33743dfe21692c210cc17726254fdad93d/simulation_8.json",
+            "sortingTrueUri": "sha1://5d0812b979eaba6ba7bdb5e8c70ac6aff828ce95/simulation_8.firings_true.json"
         },
         {
             "name": "simulation_80",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_80",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_80/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1aab23f48fa7314ef521f0399d3cb6adffe49631/simulation_80.json",
+            "sortingTrueUri": "sha1://5b89b833a599d7c904de9f3dde647dbdc601b5c9/simulation_80.firings_true.json"
         },
         {
             "name": "simulation_81",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_81",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_81/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://bdd39c08ece84b788945b518d4ba36efcc7bdd13/simulation_81.json",
+            "sortingTrueUri": "sha1://183ef83ba185552cc2acdfbe2583937f39983472/simulation_81.firings_true.json"
         },
         {
             "name": "simulation_83",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_83",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_83/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 14,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a00639d57222bbebfcbfa901d4461a1d36af40c1/simulation_83.json",
+            "sortingTrueUri": "sha1://fcf5e23c5d13ef4ecc997d8de9c6ca9c44c588c4/simulation_83.firings_true.json"
         },
         {
             "name": "simulation_84",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_84",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_84/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 4,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://023c221c088dd9c8802d6fcff8269d7277835598/simulation_84.json",
+            "sortingTrueUri": "sha1://889a2ee490684d8502cd5204a429e649872b16b8/simulation_84.firings_true.json"
         },
         {
             "name": "simulation_87",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_87",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_87/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 18,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://73cb827daf8e4c0c305a428e7d7568528055befb/simulation_87.json",
+            "sortingTrueUri": "sha1://a922d20aeeb4082a305971f837ecd9f40fb17a17/simulation_87.firings_true.json"
         },
         {
             "name": "simulation_88",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_88",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_88/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 5,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://566ba4b985474a35e9ecddb89db206e27fd2dabc/simulation_88.json",
+            "sortingTrueUri": "sha1://149a5793b5c83a979454b530935b6479af6b3b50/simulation_88.firings_true.json"
         },
         {
             "name": "simulation_89",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_89",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_89/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 8,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6cbdd85d9cb3098219caa496d422499d213cf22b/simulation_89.json",
+            "sortingTrueUri": "sha1://92d5ccf6476265eb2e62ea0ea64eddfd09d8e3c7/simulation_89.firings_true.json"
         },
         {
             "name": "simulation_93",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_93",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_93/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 7,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1c97590cb023d2ecb9550035860f99cbce7f9426/simulation_93.json",
+            "sortingTrueUri": "sha1://4a4c5c95ebd37cbcf5d59c6b82124ffc4afb8bff/simulation_93.firings_true.json"
         },
         {
             "name": "simulation_94",
             "studyName": "neurocube_sim2_2K10",
             "studySetName": "SYNTH_MONOTRODE",
-            "directory": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_94",
-            "firingsTrue": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_2K10/simulation_94/firings_true.mda",
             "sampleRateHz": 24000.0,
             "numChannels": 1,
             "durationSec": 600.0,
             "numTrueUnits": 2,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://21a97a7ac038a190999615c84d9ee4c272d59fc7/simulation_94.json",
+            "sortingTrueUri": "sha1://a2ac7825b86c22c9a3a1efacb56cf2686d3c399a/simulation_94.firings_true.json"
         }
     ],
-    "self_reference": "sha1://359b27fdd434171c21d69b583ee53f2225388f0c/neurocube_sim2_2K10.json"
+    "self_reference": "sha1://7b5e7d91c8a8c492b6522bd60a8b036af73e9909/neurocube_sim2_2K10.json"
 }

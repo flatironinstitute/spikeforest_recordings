@@ -6,38 +6,38 @@
             "name": "sorter1_1",
             "studyName": "manual_tetrode_2400s",
             "studySetName": "MANUAL_FRANKLAB",
-            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter1_1",
-            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter1_1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 2400.0,
             "numTrueUnits": 11,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b19b2171b1a9bffe14a97d6f413621e19f3f7f64/sorter1_1.json",
+            "sortingTrueUri": "sha1://3653072a7f06f3be59c2fc25bc5322d41ce52352/sorter1_1.firings_true.json"
         },
         {
             "name": "sorter2_1",
             "studyName": "manual_tetrode_2400s",
             "studySetName": "MANUAL_FRANKLAB",
-            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter2_1",
-            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter2_1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 2400.0,
             "numTrueUnits": 8,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b19b2171b1a9bffe14a97d6f413621e19f3f7f64/sorter2_1.json",
+            "sortingTrueUri": "sha1://f4158d1f8d19178ed785f6a51c81155992e5fcb3/sorter2_1.firings_true.json"
         },
         {
             "name": "sorter3_1",
             "studyName": "manual_tetrode_2400s",
             "studySetName": "MANUAL_FRANKLAB",
-            "directory": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter3_1",
-            "firingsTrue": "sha1dir://c0879a26f92e4c876cd608ca79192a84d4382868.manual_franklab/tetrode_2400s/sorter3_1/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 4,
             "durationSec": 2400.0,
             "numTrueUnits": 7,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b19b2171b1a9bffe14a97d6f413621e19f3f7f64/sorter3_1.json",
+            "sortingTrueUri": "sha1://19dd69f3bfd2c9879b4eb44e7323f30af4cf4519/sorter3_1.firings_true.json"
         }
     ],
-    "self_reference": "sha1://109332fd58df864d3aed6f6001f1d96e2fa16203/manual_tetrode_2400s.json"
+    "self_reference": "sha1://d58b360719301c0a1e7cbf1b4a4e39919f18e4a9/manual_tetrode_2400s.json"
 }

@@ -6,74 +6,74 @@
             "name": "set1",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set1",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set1/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5a9b029f17fd921a50aa3f79fc7cb398e3dc695b/set1.json",
+            "sortingTrueUri": "sha1://507e6e983efd619762c54ad68ed0cf008f30432c/set1.firings_true.json"
         },
         {
             "name": "set2",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set2",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set2/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5cdce51f83ea7bf3fe5c4f87f541429d5008f506/set2.json",
+            "sortingTrueUri": "sha1://4da40f1717333a46574b8923cdc03be067bdfa37/set2.firings_true.json"
         },
         {
             "name": "set3",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set3",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set3/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e2a867ebcd8385eb791cd0d7b4cfabeb3fb18747/set3.json",
+            "sortingTrueUri": "sha1://9928b0ad9e241c2f4dcd9197d9eb04e569fbaf9b/set3.firings_true.json"
         },
         {
             "name": "set4",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set4",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set4/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://71e6e442cace2fc0116ebda0aff98120f325ccb2/set4.json",
+            "sortingTrueUri": "sha1://9ed1a70cc3bbb0f62c5b8da0cabdba1e7201e533/set4.firings_true.json"
         },
         {
             "name": "set5",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set5",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set5/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://6c6992fbf95d75f27794246e22bb1ad8290fafb8/set5.json",
+            "sortingTrueUri": "sha1://87c14b9612ae842091a881368e8cc2399fdc8ea8/set5.firings_true.json"
         },
         {
             "name": "set6",
             "studyName": "mea_c30",
             "studySetName": "SYNTH_VISAPY",
-            "directory": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set6",
-            "firingsTrue": "sha1dir://ed0fe4de4ef2c54b7c9de420c87f9df200721b24.synth_visapy/mea_c30/set6/firings_true.mda",
             "sampleRateHz": 32000.0,
             "numChannels": 30,
             "durationSec": 300.0,
             "numTrueUnits": 16,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8990d253b73a1671ca59f1ed7f09de99397975c4/set6.json",
+            "sortingTrueUri": "sha1://d4030f97910f6b99decc3256bc0fe6f3a408d97a/set6.firings_true.json"
         }
     ],
-    "self_reference": "sha1://10c82fea8e13c847bf53371998a6865e85d32abe/mea_c30.json"
+    "self_reference": "sha1://5209d8dfa9630e9e47a1fa20a029123a3a680df5/mea_c30.json"
 }

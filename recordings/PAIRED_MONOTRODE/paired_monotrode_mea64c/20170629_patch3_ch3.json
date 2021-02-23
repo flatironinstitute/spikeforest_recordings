@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170629_patch3_ch3/raw.mda",
+    "raw": "sha1://26302f18c95643adb75e7851a6bf3a554836f4a5/raw.mda?manifest=3fe03ea4b45d68bc3a00ecf5bfb952785f6196b6",
     "params": {
         "spike_sign": -1,
         "samplerate": 20000,
@@ -9,5 +9,5 @@
         210.0,
         390.0
     ],
-    "self_reference": "sha1://465fc816c9950f0624d863a480734708c37c34f4/PAIRED_MONOTRODE/paired_monotrode_mea64c/20170629_patch3_ch3.json"
+    "self_reference": "sha1://a1c04f99d09fd45050d7133783b96c4db8eec5ce/20170629_patch3_ch3.json"
 }

@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://779d96521176077ec260ef99573dea3b772c74e6.paired_crcns/d8131_d813101/raw.mda",
+    "raw": "sha1://14c808ecb23e6b54ea0bfabd7f87df3d3933f89a/raw.mda?manifest=10239fd5f8499e99d66a497fbd3c2c43ef8619cd",
     "params": {
         "spike_sign": -1,
         "samplerate": 20000,
@@ -23,5 +23,5 @@
             75.0
         ]
     ],
-    "self_reference": "sha1://435831a30d2b1eea6d7653d2f7839fd557a1ccb9/PAIRED_CRCNS_HC1/paired_crcns/d8131_d813101.json"
+    "self_reference": "sha1://685cb93a39bc489f37741abf06021dc7f5d100dc/d8131_d813101.json"
 }

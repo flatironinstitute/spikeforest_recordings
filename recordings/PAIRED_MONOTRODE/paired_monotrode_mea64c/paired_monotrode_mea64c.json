@@ -6,302 +6,302 @@
             "name": "20160415_patch2_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20160415_patch2_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20160415_patch2_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://29fbc98741786d29b3a418b4cf94c9996c126bc3/20160415_patch2_ch4.json",
+            "sortingTrueUri": "sha1://71eea1fbe545bacf12884711baab387dce7160e1/20160415_patch2_ch4.firings_true.json"
         },
         {
             "name": "20170621_patch1_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170621_patch1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170621_patch1_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://49ff48101006f155491eea824c21d81354704345/20170621_patch1_ch4.json",
+            "sortingTrueUri": "sha1://98ef4bdcf6e7aa5f82cc00c81a7d8f3d92710eda/20170621_patch1_ch4.firings_true.json"
         },
         {
             "name": "20170622_patch1_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch1_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b22dc163ebec3b9caba121f6ea4cc050d41b145a/20170622_patch1_ch2.json",
+            "sortingTrueUri": "sha1://5c974bc0287c644b80ff4d79f2a70cf2b5304f78/20170622_patch1_ch2.firings_true.json"
         },
         {
             "name": "20170622_patch1_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch1_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://17f340d25e5fbaeffb73cee4777d47052b7852bb/20170622_patch1_ch3.json",
+            "sortingTrueUri": "sha1://5c974bc0287c644b80ff4d79f2a70cf2b5304f78/20170622_patch1_ch3.firings_true.json"
         },
         {
             "name": "20170622_patch2_ch1",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch1/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://798399b6b8097c03ee6f91f2593e13f3d549d4a5/20170622_patch2_ch1.json",
+            "sortingTrueUri": "sha1://79e23c10ae09c234eacda4785dea3ab2bbafc636/20170622_patch2_ch1.firings_true.json"
         },
         {
             "name": "20170622_patch2_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://3be56cf817109a4be2ff8fcabccae979707d17cd/20170622_patch2_ch2.json",
+            "sortingTrueUri": "sha1://79e23c10ae09c234eacda4785dea3ab2bbafc636/20170622_patch2_ch2.firings_true.json"
         },
         {
             "name": "20170622_patch2_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170622_patch2_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://1cd13d0663ce72621e99dfcd5824b7093c5f74b0/20170622_patch2_ch4.json",
+            "sortingTrueUri": "sha1://79e23c10ae09c234eacda4785dea3ab2bbafc636/20170622_patch2_ch4.firings_true.json"
         },
         {
             "name": "20170623_patch1_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170623_patch1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170623_patch1_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b2e4f95133da2247852c122c1e682318756fe54d/20170623_patch1_ch4.json",
+            "sortingTrueUri": "sha1://77175dbf74f3026900bb1dd93abe0bcbd4a163cc/20170623_patch1_ch4.firings_true.json"
         },
         {
             "name": "20170629_patch2_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170629_patch2_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170629_patch2_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://3a7b87052ec9188872b7524c4c5d7f061333cce9/20170629_patch2_ch2.json",
+            "sortingTrueUri": "sha1://4892a2f40255958643aceaffad54cc03d2750000/20170629_patch2_ch2.firings_true.json"
         },
         {
             "name": "20170629_patch3_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170629_patch3_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170629_patch3_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a1c04f99d09fd45050d7133783b96c4db8eec5ce/20170629_patch3_ch3.json",
+            "sortingTrueUri": "sha1://0f11d09fba95aeb7ca0ae69226ceb62e3ddf4e2c/20170629_patch3_ch3.firings_true.json"
         },
         {
             "name": "20170630_patch1_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://758a1beb33b3676f265231c0a25f550b28a86b77/20170630_patch1_ch2.json",
+            "sortingTrueUri": "sha1://89ea706d29de4070bc0312114f81f2c6b15660a5/20170630_patch1_ch2.firings_true.json"
         },
         {
             "name": "20170630_patch1_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8e870991c9ec1e384eedf6aa0aa5f44bc06aeaab/20170630_patch1_ch3.json",
+            "sortingTrueUri": "sha1://89ea706d29de4070bc0312114f81f2c6b15660a5/20170630_patch1_ch3.firings_true.json"
         },
         {
             "name": "20170630_patch1_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170630_patch1_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a3f2340b6d3e854f431e36cf3124bedacc4e1f0f/20170630_patch1_ch4.json",
+            "sortingTrueUri": "sha1://89ea706d29de4070bc0312114f81f2c6b15660a5/20170630_patch1_ch4.firings_true.json"
         },
         {
             "name": "20170706_patch1_ch1",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch1/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://ead43009645007a6a3dec2d1a695de4a699129d0/20170706_patch1_ch1.json",
+            "sortingTrueUri": "sha1://519ff69312c5130876d467f94f005b78035da881/20170706_patch1_ch1.firings_true.json"
         },
         {
             "name": "20170706_patch1_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://80cac6f9a35825a16c03ca8491853eb0de209522/20170706_patch1_ch3.json",
+            "sortingTrueUri": "sha1://519ff69312c5130876d467f94f005b78035da881/20170706_patch1_ch3.firings_true.json"
         },
         {
             "name": "20170706_patch1_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch1_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://cb5f49831a57d5311be396731b6cd2752c965c02/20170706_patch1_ch4.json",
+            "sortingTrueUri": "sha1://519ff69312c5130876d467f94f005b78035da881/20170706_patch1_ch4.firings_true.json"
         },
         {
             "name": "20170706_patch2_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch2_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch2_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://494729f3da49068ce98e00876b660cf8ac953d45/20170706_patch2_ch3.json",
+            "sortingTrueUri": "sha1://214675f8b659642131cecaf5c480e55b57ab6c97/20170706_patch2_ch3.firings_true.json"
         },
         {
             "name": "20170706_patch3_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch3_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch3_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://49827d7b5eb6e513264a21df40214e60860d4135/20170706_patch3_ch2.json",
+            "sortingTrueUri": "sha1://cb32e86f0dc6b45d4180259220773ac4b39fbf91/20170706_patch3_ch2.firings_true.json"
         },
         {
             "name": "20170706_patch3_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch3_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170706_patch3_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f4a8557cd54369a12635d5f650d4dbd84907dcc2/20170706_patch3_ch3.json",
+            "sortingTrueUri": "sha1://cb32e86f0dc6b45d4180259220773ac4b39fbf91/20170706_patch3_ch3.firings_true.json"
         },
         {
             "name": "20170713_patch1_ch1",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch1/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9f805a8d94068547be2d5c547a85ca0bc66c7ffe/20170713_patch1_ch1.json",
+            "sortingTrueUri": "sha1://d8f995049bc12ffa4c5e38f87a03bbc830af3f73/20170713_patch1_ch1.firings_true.json"
         },
         {
             "name": "20170713_patch1_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://623ef965a4b4c08f9a5e59d59cfab299aa989c4c/20170713_patch1_ch2.json",
+            "sortingTrueUri": "sha1://d8f995049bc12ffa4c5e38f87a03bbc830af3f73/20170713_patch1_ch2.firings_true.json"
         },
         {
             "name": "20170713_patch1_ch4",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch4",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170713_patch1_ch4/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4ca3167b344ea50e0c11ce71f44a93fa5feee354/20170713_patch1_ch4.json",
+            "sortingTrueUri": "sha1://d8f995049bc12ffa4c5e38f87a03bbc830af3f73/20170713_patch1_ch4.firings_true.json"
         },
         {
             "name": "20170726_patch1_ch1",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170726_patch1_ch1",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170726_patch1_ch1/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://84aa9f868eab45dc7014171932f22918b1a488d2/20170726_patch1_ch1.json",
+            "sortingTrueUri": "sha1://9c340ad112facbe9d7f4e4629e49442319ea15f6/20170726_patch1_ch1.firings_true.json"
         },
         {
             "name": "20170728_patch2_ch2",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170728_patch2_ch2",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170728_patch2_ch2/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://61475baa79a0853ffca1dccb4c3a5848c9102339/20170728_patch2_ch2.json",
+            "sortingTrueUri": "sha1://99b29f53d800ff5c65d4e33bb3f507167752a1b6/20170728_patch2_ch2.firings_true.json"
         },
         {
             "name": "20170803_patch1_ch3",
             "studyName": "paired_monotrode_mea64c",
             "studySetName": "PAIRED_MONOTRODE",
-            "directory": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170803_patch1_ch3",
-            "firingsTrue": "sha1dir://b738827e73e44f6090e1126df6321a137db69d8c/mea64c/20170803_patch1_ch3/firings_true.mda",
             "sampleRateHz": 20000.0,
             "numChannels": 1,
             "durationSec": 300.0,
             "numTrueUnits": 1,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f7c4c4a62c33d7f07690e0343537196f609e6ba4/20170803_patch1_ch3.json",
+            "sortingTrueUri": "sha1://4daa34c57ce13c17f824fa87a366a9a004eff90b/20170803_patch1_ch3.firings_true.json"
         }
     ],
-    "self_reference": "sha1://937e4807613fdc934be18ada19f512d440e48b16/paired_monotrode_mea64c.json"
+    "self_reference": "sha1://083af33bd3a83ba2a75e3c12d05e0b3af4ade0b9/paired_monotrode_mea64c.json"
 }

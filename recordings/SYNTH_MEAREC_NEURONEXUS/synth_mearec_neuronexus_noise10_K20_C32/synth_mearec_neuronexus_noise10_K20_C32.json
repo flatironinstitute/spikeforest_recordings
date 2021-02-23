@@ -6,122 +6,122 @@
             "name": "001_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://55fce77eff9f74cb32b91b7d75f0dff83033031d.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/001_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://22b95a32d8db145d474185cd973269ffa3b7ac92/001_synth.json",
+            "sortingTrueUri": "sha1://fe2c7611a4df757838655a113ea78fd2b1c6250e/001_synth.firings_true.json"
         },
         {
             "name": "002_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://7172ff30f9b4256512b880e9789323874a60b6c8.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/002_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e0d5a0d562a0114d84e5e1441fa724bb7ebe3891/002_synth.json",
+            "sortingTrueUri": "sha1://292920a60f36762acd993e3e7f746518846c395d/002_synth.firings_true.json"
         },
         {
             "name": "003_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://d77c1b6a792b2b3842620a6f03fd06a19ed3af75.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/003_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://7e8ceaa4c27c1ccc4cbe5ce4866781cfa11f1d2f/003_synth.json",
+            "sortingTrueUri": "sha1://53f8f4f9b730b54fbd2c7af927831ac2856c54b7/003_synth.firings_true.json"
         },
         {
             "name": "004_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://7f611f153de0468ced3252a8409b3c96ef34f715.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/004_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://83cf5c5246cc3d08695b8f369c7f4a0dda2a4ba6/004_synth.json",
+            "sortingTrueUri": "sha1://46edeb90d7073fe1ea9fee9fd1bf76fc9c1fba57/004_synth.firings_true.json"
         },
         {
             "name": "005_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://1af5f50db966802c6a4ed0bb7c1717c3bb7beb47.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/005_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4e68b90832d63511084d86371b4c155fd0b891fb/005_synth.json",
+            "sortingTrueUri": "sha1://b7939cb3be7a7cf6cf6ef90a14a8bfdc4fc9f32a/005_synth.firings_true.json"
         },
         {
             "name": "006_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://d302cd986a14c0444f09baa3674e8482153cf616.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/006_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://770f6416d03334a781328ddf578ac73871614ebe/006_synth.json",
+            "sortingTrueUri": "sha1://72a082ef5ae4551b91b23f0e85183621d786eb6f/006_synth.firings_true.json"
         },
         {
             "name": "007_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://4d6640f08a63cc7e2a1aa532ffca8546ca40fe54.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/007_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://41741cb12ada7dda6cd284cad731ad351e446ee4/007_synth.json",
+            "sortingTrueUri": "sha1://d4031d7a7c1f9c805a21c75a41f5b233e870cb9c/007_synth.firings_true.json"
         },
         {
             "name": "008_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://cc82a3176026fc58c0530af91a0fa1481cd61c47.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/008_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://700fa51ef41461d29ec834e3221dbee7885b5439/008_synth.json",
+            "sortingTrueUri": "sha1://aa9476eb2268e99e9f6133e11c583f288cd4ac69/008_synth.firings_true.json"
         },
         {
             "name": "009_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://468d0f6df8a694311299f756d6317c2072131987.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/009_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://51bbaa15f948e0bd508bf502dbd5358d144a0440/009_synth.json",
+            "sortingTrueUri": "sha1://bd8ea96a30fb5d89b0545378ac644ce5bdb7d79b/009_synth.firings_true.json"
         },
         {
             "name": "010_synth",
             "studyName": "synth_mearec_neuronexus_noise10_K20_C32",
             "studySetName": "SYNTH_MEAREC_NEURONEXUS",
-            "directory": "sha1dir://269d43fb1409e0cdd73c5353476fce43b011cead.patched",
-            "firingsTrue": "sha1dir://10b2e53b6b3aa0731b763db42daa692c4e1564b0.synth_mearec_neuronexus/datasets_noise10_K20_C32/010_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 20,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9724ad053490ea0ba3b2b258f9a3b08524187534/010_synth.json",
+            "sortingTrueUri": "sha1://3cea8d9609447f012574652fd537c0b8451ac5ec/010_synth.firings_true.json"
         }
     ],
-    "self_reference": "sha1://c5bf4662da4c7c8f20b941569e57521fde7c10a7/synth_mearec_neuronexus_noise10_K20_C32.json"
+    "self_reference": "sha1://ec52d805290a0a571d0d0f19c9fea6bfe0d1a6fd/synth_mearec_neuronexus_noise10_K20_C32.json"
 }

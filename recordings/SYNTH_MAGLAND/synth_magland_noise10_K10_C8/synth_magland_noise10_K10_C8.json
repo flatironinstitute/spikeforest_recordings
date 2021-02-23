@@ -6,122 +6,122 @@
             "name": "001_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/001_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/001_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://3fba3afd6959ae625115d8318f20dd3dec2ca650/001_synth.json",
+            "sortingTrueUri": "sha1://a2576ca4ceb1d08c97b66ed33865dfc88ec9c9d2/001_synth.firings_true.json"
         },
         {
             "name": "002_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/002_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/002_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://07bc04ab9e64a4a4d15fd7da8855821986a1104a/002_synth.json",
+            "sortingTrueUri": "sha1://a5a15488fe99602252b5f304b2a58c2d5c4d87e4/002_synth.firings_true.json"
         },
         {
             "name": "003_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/003_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/003_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://3ddcb59933a950bd22ec13107cc76640eafc8c60/003_synth.json",
+            "sortingTrueUri": "sha1://14875461dd6fd6207b438add181be25e0fc27090/003_synth.firings_true.json"
         },
         {
             "name": "004_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/004_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/004_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://500f93a28bfcdf8653031432ca334c5e9a8bfb9b/004_synth.json",
+            "sortingTrueUri": "sha1://78156d77702b60d8b180b6b9dcf51c667df08c11/004_synth.firings_true.json"
         },
         {
             "name": "005_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/005_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/005_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://bab2d3105edbb84eeb22f91e0beb657b7e7e72e2/005_synth.json",
+            "sortingTrueUri": "sha1://1e2eb856ae92f56dbe27df506efd17c2f32d7e14/005_synth.firings_true.json"
         },
         {
             "name": "006_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/006_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/006_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://09af41eeb87272e2d6ec3f2d92f01dbd0a504eb0/006_synth.json",
+            "sortingTrueUri": "sha1://fa474bd6d82de3969b9ab39cd364d6672fc4b97d/006_synth.firings_true.json"
         },
         {
             "name": "007_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/007_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/007_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://77597d3d5b5d45638e2e825b97111746d3ce8f63/007_synth.json",
+            "sortingTrueUri": "sha1://9bb7993950cc3a3874f785be835264f8545e2735/007_synth.firings_true.json"
         },
         {
             "name": "008_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/008_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/008_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8f030449e125e8d9a6958da70b42a47bd4e27b65/008_synth.json",
+            "sortingTrueUri": "sha1://993b6617abfaada141236229a73d6750d10c0d58/008_synth.firings_true.json"
         },
         {
             "name": "009_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/009_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/009_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://d283b69abbde174b3fbbac681f223e6d799e2646/009_synth.json",
+            "sortingTrueUri": "sha1://79764625bf6be31496fd5ff356feb60cf9689586/009_synth.firings_true.json"
         },
         {
             "name": "010_synth",
             "studyName": "synth_magland_noise10_K10_C8",
             "studySetName": "SYNTH_MAGLAND",
-            "directory": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/010_synth",
-            "firingsTrue": "sha1dir://fb52d510d2543634e247e0d2d1d4390be9ed9e20.synth_magland/datasets_noise10_K10_C8/010_synth/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 8,
             "durationSec": 600.0,
             "numTrueUnits": 10,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://0d52776b2af304244292183f9333a93312d9c2b5/010_synth.json",
+            "sortingTrueUri": "sha1://7fad2b0920e303b8692b3ee93abb2011e42e0639/010_synth.firings_true.json"
         }
     ],
-    "self_reference": "sha1://27ce8dd894c049246af5a2a143b9fe0c20e5b5f3/synth_magland_noise10_K10_C8.json"
+    "self_reference": "sha1://c25563a7edb161433736ecd66691d7028b03d2ea/synth_magland_noise10_K10_C8.json"
 }

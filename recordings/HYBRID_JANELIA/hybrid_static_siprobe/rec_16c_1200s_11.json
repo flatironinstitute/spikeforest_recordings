@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/static_siprobe/rec_16c_1200s_11/raw.mda",
+    "raw": "sha1://cf2297b3b891d6f5b7a21b7b724b70869107a912/raw.mda?manifest=fba5ad41682648d433efb0542505cd63552f195d",
     "params": {
         "samplerate": 30000,
         "spike_sign": -1,
@@ -71,5 +71,5 @@
             220.0
         ]
     ],
-    "self_reference": "sha1://dc04d003e531e0ee28a966233de4a1bf82d228d0/HYBRID_JANELIA/hybrid_static_siprobe/rec_16c_1200s_11.json"
+    "self_reference": "sha1://73c957e309f664764048300081dfce695b6aed4d/rec_16c_1200s_11.json"
 }

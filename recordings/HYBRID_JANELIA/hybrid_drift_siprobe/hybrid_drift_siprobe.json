@@ -6,254 +6,254 @@
             "name": "rec_16c_1200s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://9e3f6a8ea55cbb718903bb45e750f22387f3e2e8/rec_16c_1200s_11.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_16c_1200s_11.firings_true.json"
         },
         {
             "name": "rec_16c_1200s_21",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_21",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_21/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://b4e0a865bd93125f3dd7e2ceb2e57db43fa16822/rec_16c_1200s_21.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_16c_1200s_21.firings_true.json"
         },
         {
             "name": "rec_16c_1200s_31",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_31",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_1200s_31/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://4ea0c06315bff3cd30fe1579e51a67f0ede5ff95/rec_16c_1200s_31.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_16c_1200s_31.firings_true.json"
         },
         {
             "name": "rec_16c_600s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://480ff1113f2575f651a5af93883992efe8484d18/rec_16c_600s_11.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_16c_600s_11.firings_true.json"
         },
         {
             "name": "rec_16c_600s_12",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_12",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_12/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://978401e082e1c5b1929acf5bac9d7d6608761844/rec_16c_600s_12.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_16c_600s_12.firings_true.json"
         },
         {
             "name": "rec_16c_600s_21",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_21",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_21/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e6519a16bd6117955f968c057f252d0dfff32e68/rec_16c_600s_21.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_16c_600s_21.firings_true.json"
         },
         {
             "name": "rec_16c_600s_22",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_22",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_22/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://de265fc810ec154207c54c7848903e9789ef3f11/rec_16c_600s_22.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_16c_600s_22.firings_true.json"
         },
         {
             "name": "rec_16c_600s_31",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_31",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_31/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://27423a506e1615f00c9c53b3ec7ced4f185685fa/rec_16c_600s_31.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_16c_600s_31.firings_true.json"
         },
         {
             "name": "rec_16c_600s_32",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_32",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_16c_600s_32/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 16,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://21370041fe7aebbd9e7ca22285130bf5a1098a7a/rec_16c_600s_32.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_16c_600s_32.firings_true.json"
         },
         {
             "name": "rec_32c_1200s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://0b01505dec98eb8de1bc868803a885936f8c2cf4/rec_32c_1200s_11.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_32c_1200s_11.firings_true.json"
         },
         {
             "name": "rec_32c_1200s_21",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_21",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_21/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://cf45a9243c4c6ed6e34e7a01403113eafe4e6ff2/rec_32c_1200s_21.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_32c_1200s_21.firings_true.json"
         },
         {
             "name": "rec_32c_1200s_31",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_31",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_1200s_31/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://93e23bd6185a18c17d5f711b4fe89f2881eb7e66/rec_32c_1200s_31.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_32c_1200s_31.firings_true.json"
         },
         {
             "name": "rec_32c_600s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://5170b944367a5e3c19da09d30ed183fe873587fb/rec_32c_600s_11.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_32c_600s_11.firings_true.json"
         },
         {
             "name": "rec_32c_600s_12",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_12",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_12/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://a5dca2c59c5747473bd6b63910e57070c82d790b/rec_32c_600s_12.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_32c_600s_12.firings_true.json"
         },
         {
             "name": "rec_32c_600s_21",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_21",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_21/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://c0adc5bcb9f8c9032a835eb5f91314f6380bd998/rec_32c_600s_21.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_32c_600s_21.firings_true.json"
         },
         {
             "name": "rec_32c_600s_22",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_22",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_22/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://f20d2a6670735d642f1ee586d146cf0a414ad0d9/rec_32c_600s_22.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_32c_600s_22.firings_true.json"
         },
         {
             "name": "rec_32c_600s_31",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_31",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_31/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://e7f08f95201f6b3ec47592c178555b12e24884c6/rec_32c_600s_31.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_32c_600s_31.firings_true.json"
         },
         {
             "name": "rec_32c_600s_32",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_32",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_32c_600s_32/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 32,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://41f9063e10ed49f1b0e514392140346f05270390/rec_32c_600s_32.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_32c_600s_32.firings_true.json"
         },
         {
             "name": "rec_64c_1200s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_1200s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_1200s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 64,
             "durationSec": 1200.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://dfdc2fef6dbc34940172241734de439f0006c743/rec_64c_1200s_11.json",
+            "sortingTrueUri": "sha1://2efa8c28cbd52a8349ba24d94afb308f7dcdaead/rec_64c_1200s_11.firings_true.json"
         },
         {
             "name": "rec_64c_600s_11",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_600s_11",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_600s_11/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 64,
             "durationSec": 600.0,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://8f10124ad6af90d1e682920d7a523908ff2d5037/rec_64c_600s_11.json",
+            "sortingTrueUri": "sha1://5bb35c95874de0c3d4f3642e9e9808354fe2ab90/rec_64c_600s_11.firings_true.json"
         },
         {
             "name": "rec_64c_600s_12",
             "studyName": "hybrid_drift_siprobe",
             "studySetName": "HYBRID_JANELIA",
-            "directory": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_600s_12",
-            "firingsTrue": "sha1dir://615aa23efde8898aa89002613e20ad59dcde42f9.hybrid_janelia/drift_siprobe/rec_64c_600s_12/firings_true.mda",
             "sampleRateHz": 30000.0,
             "numChannels": 64,
             "durationSec": 600.0000333333334,
             "numTrueUnits": 74,
-            "spikeSign": -1
+            "spikeSign": -1,
+            "recordingUri": "sha1://033a9e2708184b7864e1f092bbaa5f294f57fa33/rec_64c_600s_12.json",
+            "sortingTrueUri": "sha1://929735e1bc5ec5751c5fdf1ccf0c138648240ea8/rec_64c_600s_12.firings_true.json"
         }
     ],
-    "self_reference": "sha1://00b41365922c4cec3803396f6c5aa5af8613b1e4/hybrid_drift_siprobe.json"
+    "self_reference": "sha1://8ca4c0c578d3988017e9ca865f316c1d61c0dc90/hybrid_drift_siprobe.json"
 }

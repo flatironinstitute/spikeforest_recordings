@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/quiroga_easy1/C_Easy1_noise02/raw.mda",
+    "raw": "sha1://91e810729a953aefef558c1db39c8ee9b8b7639b/raw.mda?manifest=90ecb2ba7167001c0d3aae25ae28a9e8d9af881d",
     "params": {
         "samplerate": 24000,
         "scale_factor": 0.01,
@@ -9,5 +9,5 @@
         0.0,
         0.0
     ],
-    "self_reference": "sha1://ca6e88d2a38517403cec331f396325316080211e/SYNTH_MONOTRODE/neurocube_quiroga_easy1/C_Easy1_noise02.json"
+    "self_reference": "sha1://2cf3fdc1fd958c69c26130914f1f27b77c1658f4/C_Easy1_noise02.json"
 }

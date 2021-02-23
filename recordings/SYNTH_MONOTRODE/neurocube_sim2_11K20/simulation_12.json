@@ -1,5 +1,5 @@
 {
-    "raw": "sha1dir://d857ca61ee229a341ff44ebaa7e299b4a401c066.synth_monotrode/sim2_11K20/simulation_12/raw.mda",
+    "raw": "sha1://3e34b0df3f9a2b2567ea0337d17c8eeac88d75d6/raw.mda?manifest=2d2b721833f47bf080d1b3e096f52fcc3ce21542",
     "params": {
         "samplerate": 24000,
         "scale_factor": 0.01,
@@ -9,5 +9,5 @@
         0.0,
         0.0
     ],
-    "self_reference": "sha1://6289e8c7f9c1edbf25f4c73c22dbbb76862ed21b/SYNTH_MONOTRODE/neurocube_sim2_11K20/simulation_12.json"
+    "self_reference": "sha1://2a9eaf02b74cc9d0a7b3be48f8dcdf0fc3ccf1bb/simulation_12.json"
 }
